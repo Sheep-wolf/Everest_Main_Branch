@@ -1,0 +1,3 @@
+ckey: name: /path/to/obj
+
+ckey:Epixpaxel name:Lily Yuen /obj/item/weapon/gun/projectile/pistol/p08
