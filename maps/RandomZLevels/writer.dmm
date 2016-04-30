@@ -1,0 +1,86 @@
+"a" = (/turf/space,/area/space)
+"b" = (/turf/simulated/wall/r_wall,/area/awaymission/example)
+"c" = (/obj/structure/table/woodentable,/turf/simulated/floor/wood,/area/awaymission/example)
+"d" = (/obj/structure/table/woodentable,/obj/item/weapon/pen,/turf/simulated/floor/wood,/area/awaymission/example)
+"e" = (/obj/structure/table/woodentable,/obj/item/weapon/paper/crumpled{info = "I don't want to die, I just see no way around it. A shame really."},/turf/simulated/floor/wood,/area/awaymission/example)
+"f" = (/obj/structure/table/woodentable,/obj/item/weapon/melee/defibrillator,/turf/simulated/floor/wood,/area/awaymission/example)
+"g" = (/obj/structure/stool/bed,/obj/item/clothing/under/color/white,/turf/simulated/floor/wood,/area/awaymission/example)
+"h" = (/obj/structure/closet/cabinet,/obj/item/clothing/under/det/black,/obj/item/clothing/under/gentlesuit,/obj/item/clothing/under/rank/bartender/fluff/classy,/turf/simulated/floor/wood,/area/awaymission/example)
+"i" = (/turf/simulated/floor/wood,/area/awaymission/example)
+"j" = (/turf/simulated/floor/plating{tag = "icon-warnplate (EAST)"; icon_state = "warnplate"; dir = 4},/area/awaymission/example)
+"k" = (/turf/simulated/floor/plating,/area/awaymission/example)
+"l" = (/obj/structure/bookcase,/turf/simulated/floor/plating,/area/awaymission/example)
+"m" = (/obj/machinery/door/airlock/external,/turf/simulated/floor/plating,/area/awaymission/example)
+"n" = (/obj/structure/stool/bed/chair/wheelchair,/turf/simulated/floor/wood,/area/awaymission/example)
+"o" = (/turf/simulated/floor/wood{icon_state = "wood-broken3"},/area/awaymission/example)
+"p" = (/obj/structure/closet,/turf/simulated/floor/plating,/area/awaymission/example)
+"q" = (/obj/structure/table/woodentable,/obj/item/weapon/gun/projectile/detective,/turf/simulated/floor/wood,/area/awaymission/example)
+"r" = (/turf/simulated/floor/wood{icon_state = "wood-broken6"},/area/awaymission/example)
+"s" = (/obj/structure/sink{icon_state = "sink"; dir = 8; pixel_x = -12; pixel_y = 2},/turf/simulated/floor/wood,/area/awaymission/example)
+"t" = (/turf/simulated/floor/wood{icon_state = "wood-broken"},/area/awaymission/example)
+"u" = (/obj/structure/toilet{dir = 4},/turf/simulated/floor/wood,/area/awaymission/example)
+"v" = (/obj/structure/table,/turf/simulated/floor/wood,/area/awaymission/example)
+"w" = (/obj/structure/device/piano,/turf/simulated/floor/wood,/area/awaymission/example)
+"x" = (/obj/structure/stool,/turf/simulated/floor/wood,/area/awaymission/example)
+"y" = (/turf/simulated/floor/plating{dir = 2; icon_state = "warnplate"; tag = "icon-warnplate (NORTH)"},/area/awaymission/example)
+"z" = (/turf/simulated/floor/plating{tag = "icon-warnplate (SOUTHEAST)"; icon_state = "warnplate"; dir = 6},/area/awaymission/example)
+"A" = (/obj/item/weapon/paper/crumpled/bloody{info = "If you are reading this, then, I probably died in a horribley gruesome fashion. On the bright side though, it was likely a great read."},/turf/simulated/floor/plating,/area/awaymission/example)
+"B" = (/obj/item/weapon/paper{info = "Prepare to suffer."},/turf/simulated/floor/plating,/area/awaymission/example)
+"C" = (/obj/structure/cable{d1 = 2; d2 = 4; icon_state = "2-4"},/turf/simulated/floor/plating,/area/awaymission/example)
+"D" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"},/turf/simulated/floor/plating,/area/awaymission/example)
+"E" = (/obj/machinery/power/apc{dir = 4; name = "Worn-out APC"; pixel_x = 24; pixel_y = 0},/obj/structure/cable{d2 = 8; icon_state = "0-8"},/turf/simulated/floor/plating,/area/awaymission/example)
+"F" = (/obj/structure/closet/body_bag,/turf/simulated/floor/plating,/area/awaymission/example)
+"G" = (/obj/machinery/power/smes/magical{desc = "A high-capacity superconducting magnetic energy storage (SMES) unit."; name = "power storage unit"},/obj/structure/cable,/turf/simulated/floor/plating,/area/awaymission/example)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaaaaaa
+aaabcdefghijkllllllllllllbbbmmbbaaaaaaaaaaaaaaaaaa
+aaabcniioiijkkkkkkkkkkkkkbkkkkpbaaaaaaaaaaaaaaaaaa
+aaabqriiiiijkllllllllllllbbmmbbbaaaaaaaaaaaaaaaaaa
+aaabiiiiiiijkkkkkkkkkkkkkkkkkbaaaaaaaaaaaaaaaaaaaa
+aaabsiiitiijkllllllllllllllllbaaaaaaaaaaaaaaaaaaaa
+aaabuiiiiiijkkkkkkkkkkkkkkkkkbaaaaaaaaaaaaaaaaaaaa
+aaabviiiiwxjkllllllllllllllllbaaaaaaaaaaaaaaaaaaaa
+aaabyyyyyyyzkkkkkkkkkkkkkkkkkbaaaaaaaaaaaaaaaaaaaa
+aaabkkkkkkkkkllllllllllllllllbaaaaaaaaaaaaaaaaaaaa
+aaabkkkkkkkkkkkkkkkkkkkkkkkkkbaaaaaaaaaaaaaaaaaaaa
+aaabkAkkkkkkkkkkkkkkBkkkkCDDEbaaaaaaaaaaaaaaaaaaaa
+aaabFkkkkkkkkkkkkkkkkkkkkGkkkbaaaaaaaaaaaaaaaaaaaa
+aaabbbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

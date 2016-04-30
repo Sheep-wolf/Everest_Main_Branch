@@ -1,0 +1,263 @@
+"aa" = (/turf/space,/area/space)
+"ab" = (/obj/structure/grille,/obj/structure/window/shuttle{tag = "icon-window4 (NORTHEAST)"; icon_state = "window4"},/turf/simulated/shuttle/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ac" = (/obj/structure/grille,/obj/structure/window/shuttle{tag = "icon-9 (NORTHEAST)"; icon_state = "9"},/turf/simulated/shuttle/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ad" = (/obj/structure/grille,/obj/structure/window/shuttle{tag = "icon-17 (NORTHEAST)"; icon_state = "17"},/turf/simulated/shuttle/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ae" = (/obj/structure/grille,/obj/structure/window/shuttle,/turf/simulated/shuttle/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"af" = (/obj/machinery/computer/shuttle,/turf/simulated/shuttle/floor{icon_state = "floor3"},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ag" = (/obj/machinery/computer/skills,/obj/structure/table,/turf/simulated/shuttle/floor{icon_state = "floor3"},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ah" = (/turf/simulated/wall,/area/space)
+"ai" = (/turf/space,/turf/simulated/shuttle/wall{icon_state = "swall_f6"; dir = 2},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aj" = (/turf/simulated/shuttle/floor{icon_state = "floor3"},/turf/simulated/shuttle/wall{icon_state = "swall_f9"; dir = 2},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ak" = (/obj/structure/stool/bed/chair/office/bridge{dir = 4},/turf/simulated/shuttle/floor{icon_state = "floor3"},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"al" = (/turf/simulated/shuttle/floor{icon_state = "floor3"},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"am" = (/turf/simulated/shuttle/floor{icon_state = "floor3"},/turf/simulated/shuttle/wall{icon_state = "swall_f5"; dir = 2},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"an" = (/turf/space,/turf/simulated/shuttle/wall{dir = 3; icon_state = "swall_f10"; layer = 2},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ao" = (/turf/simulated/shuttle/wall{icon_state = "swall3"; dir = 2},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ap" = (/obj/structure/stool/bed/chair{dir = 4},/turf/simulated/shuttle/floor{icon_state = "floor3"},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aq" = (/obj/structure/stool/bed/chair{dir = 8},/turf/simulated/shuttle/floor{icon_state = "floor3"},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ar" = (/turf/simulated/wall,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"as" = (/obj/effect/decal/cleanable/blood/gibs/body,/turf/simulated/shuttle/floor{icon_state = "floor3"},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"at" = (/turf/simulated/shuttle/wall{icon_state = "swall1"; dir = 2},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"au" = (/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"av" = (/obj/effect/decal/remains/human,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aw" = (/obj/effect/decal/cleanable/blood,/turf/simulated/shuttle/floor{icon_state = "floor3"},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ax" = (/obj/machinery/door/airlock/external,/obj/effect/decal/cleanable/blood/drip,/turf/simulated/shuttle/floor{icon_state = "floor3"},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ay" = (/obj/machinery/door/airlock/external,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"az" = (/obj/effect/decal/cleanable/blood/drip,/obj/machinery/light{dir = 1},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aA" = (/obj/effect/decal/cleanable/blood/drip,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aB" = (/obj/effect/decal/remains/human,/obj/effect/decal/cleanable/blood,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aC" = (/obj/effect/decal/cleanable/blood,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aD" = (/obj/machinery/door/airlock/external,/turf/simulated/shuttle/floor{icon_state = "floor3"},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aE" = (/obj/machinery/light,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aF" = (/obj/structure/table/reinforced,/obj/item/stack/sheet/glass{amount = 50},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aG" = (/obj/structure/closet/secure_closet/freezer/kitchen,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aH" = (/obj/structure/closet/secure_closet/freezer/fridge,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aI" = (/obj/structure/closet/crate/bin,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aJ" = (/turf/space,/turf/simulated/shuttle/wall{icon_state = "swall_f5"; dir = 2},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aK" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/shuttle/engine/propulsion,/turf/space,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aL" = (/turf/space,/turf/simulated/shuttle/wall{icon_state = "swall_f9"; dir = 2},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aM" = (/obj/structure/table/reinforced,/obj/item/stack/sheet/wood{amount = 50},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aN" = (/obj/structure/closet,/obj/item/clothing/under/rank/engineer,/obj/item/clothing/shoes/work_boots,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aO" = (/obj/structure/table,/obj/machinery/microwave,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aP" = (/obj/structure/table/reinforced,/obj/item/stack/sheet/metal{amount = 50},/obj/item/stack/sheet/plasteel{amount = 50},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aQ" = (/obj/structure/table,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aR" = (/obj/structure/table,/obj/effect/decal/remains/human,/obj/effect/decal/cleanable/blood,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aS" = (/obj/structure/table/reinforced,/obj/item/stack/sheet/cloth{amount = 50},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aT" = (/obj/structure/table/reinforced,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aU" = (/obj/structure/table/reinforced,/obj/item/weapon/crowbar,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aV" = (/obj/structure/inflatable/door,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aW" = (/obj/structure/closet,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aX" = (/obj/structure/closet,/obj/item/clothing/shoes/work_boots,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aY" = (/obj/structure/toilet{dir = 8},/obj/machinery/light{dir = 1},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"aZ" = (/obj/structure/sign/electricshock,/turf/simulated/wall,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ba" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bb" = (/obj/machinery/processor,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bc" = (/obj/machinery/vending/dinnerware,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bd" = (/obj/structure/closet/secure_closet/freezer/meat,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"be" = (/obj/effect/decal/cleanable/blood/gibs/body,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bf" = (/obj/item/inflatable/door/torn,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bg" = (/obj/structure/table/reinforced,/obj/machinery/cell_charger,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bh" = (/obj/structure/table/reinforced,/obj/item/stack/sheet/glass{amount = 50},/obj/item/stack/sheet/glass{amount = 50},/obj/item/stack/sheet/metal{amount = 50},/obj/item/stack/sheet/metal{amount = 50},/obj/item/stack/sheet/plasteel{amount = 50},/obj/item/stack/sheet/plasteel{amount = 50},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bi" = (/obj/machinery/mecha_part_fabricator,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bj" = (/obj/structure/table/reinforced,/obj/item/stack/sheet/mineral/uranium{amount = 50},/obj/item/stack/sheet/mineral/plasma{amount = 50},/obj/item/stack/sheet/mineral/silver{amount = 50},/obj/item/stack/sheet/mineral/gold{amount = 50},/obj/item/stack/sheet/mineral/diamond{amount = 50},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bk" = (/obj/structure/stool/bed/chair/office/dark,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bl" = (/obj/machinery/light{dir = 4; icon_state = "tube1"},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bm" = (/obj/effect/decal/cleanable/blood/gibs/limb,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bn" = (/turf/simulated/floor{icon_state = "bot"; dir = 1},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bo" = (/obj/structure/stool/bed/chair/office/dark{dir = 4},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bp" = (/obj/structure/table/woodentable,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bq" = (/obj/structure/table/woodentable,/obj/item/weapon/gun/energy/stunrevolver,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"br" = (/obj/structure/stool/bed/chair/office/dark{dir = 8},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bs" = (/obj/machinery/door/window/eastleft,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bt" = (/obj/structure/stool/bed/chair/comfy/brown,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bu" = (/obj/structure/window/reinforced{dir = 1},/obj/machinery/shower{icon_state = "shower"; dir = 4},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bv" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bw" = (/obj/structure/sink{dir = 4; icon_state = "sink"; pixel_x = 11; pixel_y = 0},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bx" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"by" = (/obj/machinery/light{dir = 4},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bz" = (/obj/structure/table/reinforced,/obj/item/clothing/head/welding,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bA" = (/obj/effect/decal/cleanable/blood/gibs/body,/obj/effect/decal/cleanable/blood/gibs/body,/obj/effect/decal/cleanable/blood/gibs/body,/obj/effect/decal/cleanable/blood,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bB" = (/obj/structure/stool/bed/chair/comfy/brown{dir = 8},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bC" = (/obj/machinery/shower{icon_state = "shower"; dir = 4},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bD" = (/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bE" = (/obj/structure/closet{icon_closed = "cabinet_closed"; icon_opened = "cabinet_open"; icon_state = "cabinet_closed"},/obj/item/clothing/under/rank/security2,/obj/item/clothing/tie/holster,/obj/item/clothing/shoes/black,/obj/item/weapon/gun/projectile/judge,/obj/item/weapon/storage/backpack/satchel_norm,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bF" = (/obj/structure/filingcabinet/chestdrawer,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bG" = (/obj/structure/filingcabinet/chestdrawer,/obj/machinery/light{dir = 1},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bH" = (/obj/structure/stool/bed/chair/office/light{dir = 4},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bI" = (/obj/structure/stool/bed/chair,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bJ" = (/obj/machinery/light{dir = 1},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bK" = (/obj/effect/decal/cleanable/blood/gibs/body,/obj/effect/decal/cleanable/blood,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bL" = (/obj/structure/closet{icon_closed = "cabinet_closed"; icon_opened = "cabinet_open"; icon_state = "cabinet_closed"},/obj/item/clothing/under/rank/security/formal,/obj/item/clothing/tie/holster,/obj/item/clothing/shoes/jackboots,/obj/item/weapon/gun/projectile/blam10,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bM" = (/obj/structure/table,/obj/machinery/chem_dispenser/soda,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bN" = (/obj/structure/stool/bed/chair/comfy/brown{dir = 1},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bO" = (/obj/machinery/shower{dir = 1},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bP" = (/obj/structure/window/reinforced{dir = 4},/obj/machinery/shower{dir = 1},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bQ" = (/obj/structure/table/woodentable,/obj/item/weapon/paper_bin,/obj/item/weapon/pen,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bR" = (/obj/structure/coatrack,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bS" = (/obj/structure/table/reinforced,/obj/item/weapon/storage/toolbox/mechanical,/obj/item/weapon/storage/toolbox/mechanical,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bT" = (/obj/structure/reagent_dispensers/fueltank,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bU" = (/obj/structure/window/reinforced,/obj/structure/table/reinforced,/obj/item/clothing/tie/holobadge,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bV" = (/obj/structure/window/reinforced,/obj/structure/table/reinforced,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bW" = (/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/obj/structure/table/reinforced,/obj/item/weapon/paper_bin,/obj/item/weapon/pen,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bX" = (/obj/effect/decal/remains/xeno,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bY" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"bZ" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ca" = (/obj/structure/sign/science,/turf/simulated/wall,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cb" = (/obj/machinery/door/unpowered/shuttle{name = "Mechbay"},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cc" = (/obj/machinery/door/unpowered/shuttle{name = "Cafetaria"},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cd" = (/obj/effect/decal/mecha_wreckage/ripley,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ce" = (/turf/unsimulated/jungle/rock{desc = "A dense wall of rock."; opacity = 1},/area/space)
+"cf" = (/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cg" = (/obj/machinery/door/unpowered/shuttle{name = "Storage"},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ch" = (/turf/simulated/floor,/turf/simulated/shuttle/wall{dir = 1; icon_state = "diagonalWall3"},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ci" = (/obj/machinery/door/window/northleft,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cj" = (/obj/structure/table/reinforced,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ck" = (/obj/structure/stool/bed/chair/comfy/beige,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cl" = (/obj/structure/window/reinforced{dir = 4},/obj/effect/decal/cleanable/blood/gibs/body,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cm" = (/obj/structure/closet,/obj/item/weapon/gun/projectile/shotgun/pump/combat,/obj/item/weapon/gun/projectile/shotgun/pump/combat,/obj/item/weapon/storage/box/handcuffs,/obj/item/weapon/storage/box/handcuffs,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cn" = (/obj/structure/closet,/obj/item/weapon/gun/projectile/automatic,/obj/item/weapon/gun/projectile/automatic,/obj/item/weapon/storage/box/flashbangs,/obj/item/weapon/storage/box/flashbangs,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"co" = (/obj/structure/reagent_dispensers/beerkeg,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cp" = (/turf/simulated/floor,/turf/simulated/shuttle/wall{icon_state = "diagonalWall3"},/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cq" = (/obj/effect/decal/cleanable/blood,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cr" = (/obj/structure/stool/bed/chair/comfy/beige{dir = 8},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cs" = (/obj/effect/decal/cleanable/blood/drip,/obj/effect/decal/cleanable/blood/drip,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ct" = (/obj/effect/decal/cleanable/blood/gibs/body,/obj/effect/decal/cleanable/blood/gibs/body,/obj/effect/decal/cleanable/blood,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cu" = (/obj/structure/closet,/obj/item/clothing/under/rank/warden,/obj/item/clothing/tie/holster,/obj/item/clothing/shoes/laceup,/obj/item/clothing/head/beret/sec,/obj/item/clothing/glasses/sunglasses,/obj/item/weapon/gun/projectile/drei,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cv" = (/obj/structure/stool/bed/chair{dir = 1},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cw" = (/obj/structure/closet{icon_closed = "cabinet_closed"; icon_opened = "cabinet_open"; icon_state = "cabinet_closed"},/obj/item/clothing/under/det/slob,/obj/item/clothing/tie/holster,/obj/item/clothing/suit/wcoat,/obj/item/clothing/shoes/laceup,/obj/item/weapon/gun/projectile/detective,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cx" = (/obj/machinery/vending/cigarette,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cy" = (/obj/machinery/vending/boozeomat,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cz" = (/obj/structure/closet/secure_closet/bar,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cA" = (/obj/structure/stool/bed/chair/comfy/beige{tag = "icon-comfychair (NORTH)"; icon_state = "comfychair"; dir = 1},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cB" = (/obj/structure/window/reinforced,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cC" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cD" = (/obj/structure/closet/crate,/obj/item/weapon/gun/energy/taser,/obj/item/weapon/gun/energy/taser,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cE" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cF" = (/obj/structure/coatrack,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cG" = (/obj/structure/closet/gmcloset,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cH" = (/obj/effect/decal/cleanable/blood/gibs/body,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cI" = (/obj/structure/table/woodentable,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cJ" = (/obj/machinery/door/window/northright,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cK" = (/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cL" = (/obj/effect/decal/cleanable/blood/drip,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cM" = (/obj/structure/table/woodentable,/obj/effect/decal/cleanable/blood/splatter,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cN" = (/obj/structure/toilet{dir = 8},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cO" = (/obj/structure/sign/greencross,/turf/simulated/wall,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cP" = (/obj/machinery/door/unpowered/shuttle{name = "Medical"},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cQ" = (/obj/effect/landmark/animal_spawner/monkey,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cR" = (/obj/effect/landmark/animal_spawner/parrot,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cS" = (/obj/structure/closet/secure_closet/medical2,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cT" = (/obj/machinery/washing_machine,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cU" = (/obj/machinery/atmospherics/unary/cryo_cell,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cV" = (/obj/structure/closet,/obj/item/device/flashlight/heavy,/obj/item/device/flashlight/heavy,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cW" = (/obj/machinery/vending/medical,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cX" = (/obj/machinery/atmospherics/portables_connector{dir = 4},/obj/machinery/portable_atmospherics/canister/oxygen,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cY" = (/obj/machinery/atmospherics/pipe/manifold/visible{dir = 1},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"cZ" = (/obj/machinery/atmospherics/pipe/manifold/visible,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"da" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 9; icon_state = "intact"; level = 2},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"db" = (/obj/structure/stool/bed,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dc" = (/obj/structure/closet,/obj/item/device/gps,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dd" = (/obj/machinery/atmospherics/pipe/manifold/visible{dir = 4},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"de" = (/turf/simulated/mineral/random,/area/space)
+"df" = (/obj/machinery/atmospherics/pipe/simple/visible,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dg" = (/obj/structure/closet,/obj/item/device/radio,/obj/item/device/taperecorder,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dh" = (/obj/mecha/medical/odysseus,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"di" = (/obj/machinery/iv_drip,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dj" = (/obj/mecha/working/ripley/firefighter,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dk" = (/obj/machinery/computer/operating,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dl" = (/obj/machinery/optable,/obj/effect/decal/cleanable/blood,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dm" = (/obj/machinery/atmospherics/unary/freezer{dir = 4; use_power = 1; set_temperature = 75},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dn" = (/obj/structure/closet/wardrobe/white,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"do" = (/obj/mecha/working/ripley,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dp" = (/obj/mecha/working/hoverpod,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dq" = (/obj/structure/table,/obj/item/weapon/storage/box/autoinjectors,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dr" = (/obj/structure/table,/obj/item/weapon/storage/box/gloves,/obj/item/weapon/storage/box/masks,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"ds" = (/obj/structure/table,/obj/item/weapon/storage/belt/medical/surgery,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dt" = (/obj/structure/table,/obj/item/weapon/storage/pill_bottle/tramadol,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"du" = (/obj/structure/closet/secure_closet/medical1,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dv" = (/obj/machinery/bodyscanner,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dw" = (/obj/machinery/body_scanconsole,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dx" = (/obj/structure/closet/coffin,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dy" = (/obj/machinery/dna_scannernew,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dz" = (/obj/machinery/computer/cloning,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dA" = (/obj/machinery/clonepod,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dB" = (/obj/effect/decal/cleanable/blood,/obj/machinery/light{dir = 4},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+"dC" = (/obj/structure/stool/bed,/obj/effect/decal/remains/human,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/smallasteroidstation)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabacacadaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaeafagaeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaahaaaiajakalamanahaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaahaaaoapalalaqaoahaaaaaaaaaaaaaaaaarararaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaahaaaoapasalaqatararararararararararauauauaaavaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaahaaaoapalawalaxayazayaAauaAauaAaBarauauauauauaCaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaararararararararaaaoapalalalaDayaEayauauauauauauaraFauauauauaAauaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaraGaGaHaHauaIaraaaJaKaKaKaKaLarararararararauauaraMauauauauaAauauauauauauaNaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaarauauauauauaOaraaaaaaaaaaaaaaaaaaaaaaaaaaarauauaraPauauauauaAauauauauauauauauaraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaarauaQaRaQauaOarararararararararararararararauauaraSaTaUaTauauaVaVauauauauaWaXaraaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaarauauauauauaQarauauauauauauauaraYaraYaraYarauauararararararaZbabaaZararararararararararararararararararararararaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaraubbbcbdauaQarauauauauaubeauarbaarbaarbaarauauauauauauauauaubfaVauauauauauauauauauarbgbhbibjaTbiaraubkbkbkauaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaarbaararararararauauauauauauaubaauauauaublarauauauauauauauauauauauauauauauaubmauauauarauaubnauaubnarbobpbpbqbraraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaraCauauaubsauauauaubtbtbtaublarbuaubvaubwarauauarararararararbxbyarararararararauauarbzauauauauaubaauaubAauauaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaarauauauaCaTauauauauaQaQaQbBauarbCaubDaubwarauauarbEbFbGaubHaTauauarbFbIbJbKbLarauauaraTauauauauauarauauauaubMaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaraTaTaTaTaTauauauaubNbNbNauauarbObObPaubwarauauarauauauauauaTauauarbQbpauaubRarauauarbSauauaubTbTarbRauauaubRaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaarbeauauauauaublararararararararararararararauauararbaarbUbVbWbXbXarbYbZarbaararauaucaararcbcbarararararbaarararaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaarauauauauauauaubabJauauauauauauauauauaubJccauaubJauauauauaubXauaubXauauauauaubJauauauauauaAauaCauauauauauauauaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaarauauauauauauaubaaEauauauauauauauauauauaEccauauaEauauauauaubXauaubXauauauauauaEaubeauauaucdauaubeauauauauauauaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cececeaaaaarcfcfcfcfcfcfblararararararararararararararauauarcgarararchaubXbXarbYbZarbaararauaucaarararararararararararararaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cecececeaaarcicjcjcjcjcfauauauckckckauauaraCaAclaubwarauauaraucmcncocpchauauarbQbpauaubRarauauarauauauauauauauaubdbdbdbdaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cecececeaaarcqcfcfcfcjcfauauauaQaQaQcrauarcsaCbDaubwarauauarauctaEcucoarauauarbFcvaEaucwarauauarauauauauauauauauauauauauaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cececececearcfcxcyczcjcfauauaucAcAcAauauarcBaucCaubwarauauarararararararbxbyarararararararauauarauauauauauauaCavauauaucDaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cececececearcEararararararauaubeauauauaubaauauauauauarauauauauauauauauauauauauauauauauauauauauarauauauauauauauauauauaucDaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cececececearcfcFcGcGcHcIarauauauauauauauarbaarbaarbaarauaEauauauauauauauauauauauauauauauauaEauarcJbvcJbvcJbvcJbvcJbvcJcKaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cececececearcfcfcLcLcLcMarauauauauauauauarcNarcNarcNarcgarararararararcOcPcPcOarararararararbaarcQbDcRbDaubDaubDaubDauauaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cececececearcfcfcfcfcfcIarararararararararararararararauarcSauaQaucTaraQauauaQaraQaQcUcUaQarauararararararararararararararaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cececececeararararararararcececececececececearcVauauauaCarcSauavaucWaraQauauaQarcXcYcZdaauarauauardbaWardbaWardbaWardbaWaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+cecececececececececececececececececececececeardcauauavauarararcgarararaQauauaQarcXddbeauauarauauarauauarauauarauauarauauaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+dededededededededededededededededecececececearaWauauaubyarauauauauauauauauauaubaaCdfauauauarbxbyararbaararbaararbaararbaaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+dededededededededededededededededecececececeardgauaudhdharauauauauauauauauauaubaaudfauaCauarauauauauauauauauauauauauaubyaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+dededededededededededededededededecececececeararauauauauarbabaarararardiauaubFaraudfauauauarbxbyararbaararbaararbaararbaaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+dededededededededededededededededececececececearauaudjdjarauaudkdlaQarauauaubFardmddbeaudnarauauarauauarauauarauauarauauaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+dededededededededededededededededececececececearauauauauarauauauauaQarauauauauardmdaauauauarauauardbaWardbaWardbaWardbaWaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+dededededededededededededededededececececececeardododpdpardqdrdsdtaQardudvdwduardxaudydzdAarauauarararararararararararararaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+dededededededededededededededededececececececearararararararararararararararararararararararauauardbaWardbaWardbaWardbaWaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+dededededededededededededededededececececececececececececececececececececececececececececearauauarauauarauauarauauarauauaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+dededededededededededededededededececececececececececececececededededededededededededececearbxbyararbaararbaararbaararbaaraaaaaaaaaaaaaaaaaaaaaaaaaaaa
+dededededededededededededededededededededededededededededededededededededededededededececearaubeauauauauauauauauaCauaubyarceceaaaaaaaaaaaaaaaaaaaaaaaa
+dededededededededededededededededededededededededededededededededededededededededededececearbxbyararbaararbaararbaararbaarcececeaaaaaaaaaaaaaaaaaaaaaa
+dededededededededededededededededededededededededededededededededededededededededededececearauauarauauarauauarauauarauauarcececececeaaaaaaaaaaaaaaaaaa
+dededededededededededededededededededededededededededededededededededededededededededececearauauardbaWardbaWardbaWardbaWarcecececececeaaaaaaaaaaaaaaaa
+dededededededededededededededededededededededededededededededededededededededededededececearauauarararararararararararararcecececececeaaaaaaaaaaaaaaaa
+dededededededededededededededededededededededededededededededededededededededededededececearauauardbaWardbaWardbaWardbaWarcececececececeaaaaaaaaaaaaaa
+dededededededededededededededededededededededededededededededededededededededededededececearauauarauauarauauarauauarauauarcecececececececeaaaaaaaaaaaa
+dededededededededededededededededededededededededededededededededededededededededededececearbxbyararbaararbaararbaararbaarcececececececececeaaaaaaaaaa
+dededededededededededededededededededededededededededededededededededededededededededececearauauauauauauauauauauauauaudBarcececececececececeaaaaaaaaaa
+dededededededededededededededededededededededededededededededededededededededededededececeararbaararbaararbaararbaararbaarcecececececececececeaaaaaaaa
+dededededededededededededededededededededededededededededededededededededededededededececearauauarauauarauauarauauarauauarcececececececececececeaaaaaa
+dededededededededededededededededededededededededededededededededededededededededededececeardbaWardbaWardbaWardbaWardCaWarcececececececececececececeaa
+dededededededededededededededededededededededededededededededededededededededededededececeararararararararararararararararcececececececececececececeaa
+dededededededededededededededededededededededededededededededededededededededededededecececececececececececececececececececececececececececececececece
+dededededededededededededededededededededededededededededededededededededededededededecececececececececececececececececececececececececececececececece
+dededededededededededededededededededededededededededededededededededededededededededecececececececececececececececececececececececececececececececece
+dededededededededededededededededededededededededededededededededededededededededededecececececececececececececececececececececececececececececececece
+dededededededededededededededededededededededededededededededededededededededededededecececececececececececececececececececececececececececececececece
+"}

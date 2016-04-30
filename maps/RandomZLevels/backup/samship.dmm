@@ -1,0 +1,168 @@
+"aa" = (/turf/space,/area/space)
+"ab" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/shuttle,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 9},/area/sheep/snow/samship)
+"ac" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/shuttle,/turf/simulated/floor/plating{dir = 1; icon_state = "warnplate"; nitrogen = 0.01; oxygen = 0.01},/area/sheep/snow/samship)
+"ad" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/shuttle,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 5},/area/sheep/snow/samship)
+"ae" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/shuttle,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 8},/area/sheep/snow/samship)
+"af" = (/turf/simulated/floor{dir = 9; icon_state = "whitered"},/area/sheep/snow/samship)
+"ag" = (/turf/simulated/floor{dir = 1; icon_state = "whitered"},/area/sheep/snow/samship)
+"ah" = (/turf/simulated/floor{dir = 5; icon_state = "whitered"},/area/sheep/snow/samship)
+"ai" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/shuttle,/turf/simulated/floor/plating{dir = 8; icon_state = "warnplatecorner"},/area/sheep/snow/samship)
+"aj" = (/turf/simulated/floor{dir = 8; icon_state = "whitered"},/area/sheep/snow/samship)
+"ak" = (/obj/structure/table,/obj/item/weapon/folder/yellow,/obj/item/weapon/folder/yellow,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"al" = (/obj/structure/table,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"am" = (/obj/structure/table,/obj/item/weapon/form_printer,/obj/item/weapon/clipboard,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"an" = (/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"ao" = (/turf/simulated/floor{dir = 4; icon_state = "whiteredcorner"},/area/sheep/snow/samship)
+"ap" = (/obj/machinery/lapvend,/turf/simulated/floor{dir = 5; icon_state = "whitered"},/area/sheep/snow/samship)
+"aq" = (/obj/structure/bed/chair/office/dark{dir = 1},/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"ar" = (/obj/structure/table,/obj/item/weapon/hand_labeler,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"as" = (/turf/simulated/wall,/area/sheep/snow/samship)
+"at" = (/turf/space,/turf/simulated/shuttle/wall{dir = 1; icon_state = "diagonalWall3"},/area/space)
+"au" = (/turf/space,/turf/simulated/shuttle/wall{dir = 8; icon_state = "diagonalWall3"},/area/space)
+"av" = (/obj/machinery/vending/robotics,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"aw" = (/obj/structure/table/rack,/obj/item/weapon/storage/toolbox/mechanical,/obj/item/weapon/storage/toolbox/mechanical,/obj/item/weapon/storage/toolbox/electrical,/obj/item/weapon/storage/toolbox/electrical,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"ax" = (/obj/structure/filingcabinet/chestdrawer,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"ay" = (/obj/structure/table/woodentable,/obj/item/toy/prize/ripley,/turf/simulated/floor{dir = 4; icon_state = "whiteredcorner"},/area/sheep/snow/samship)
+"az" = (/obj/machinery/computer/skills,/obj/structure/table/woodentable,/turf/simulated/floor{dir = 5; icon_state = "whitered"},/area/sheep/snow/samship)
+"aA" = (/obj/machinery/optable,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"aB" = (/obj/machinery/computer/operating,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"aC" = (/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"aD" = (/obj/machinery/mecha_part_fabricator,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"aE" = (/obj/structure/filingcabinet/filingcabinet,/turf/simulated/floor{dir = 8; icon_state = "whitered"},/area/sheep/snow/samship)
+"aF" = (/obj/structure/filingcabinet/filingcabinet,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"aG" = (/obj/structure/displaycase,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"aH" = (/obj/structure/bed/chair/office/light{dir = 1},/turf/simulated/floor{dir = 4; icon_state = "whiteredcorner"},/area/sheep/snow/samship)
+"aI" = (/obj/structure/closet/crate/bin,/turf/simulated/floor{dir = 5; icon_state = "whitered"},/area/sheep/snow/samship)
+"aJ" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/shuttle,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 4},/area/sheep/snow/samship)
+"aK" = (/obj/structure/table,/obj/item/weapon/storage/firstaid/surgery,/obj/item/weapon/storage/pill_bottle/tramadol,/obj/item/stack/nanopaste,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"aL" = (/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"aM" = (/obj/structure/table/reinforced,/obj/item/weapon/tape_roll,/obj/item/weapon/tape_roll,/obj/item/weapon/tape_roll,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"aN" = (/obj/structure/table/rack,/obj/item/stack/sheet/metal{amount = 50; pixel_x = 2; pixel_y = 2},/obj/item/stack/sheet/metal{amount = 50; pixel_x = 2; pixel_y = 2},/obj/item/stack/sheet/metal{amount = 50; pixel_x = 2; pixel_y = 2},/obj/item/stack/sheet/metal{amount = 50; pixel_x = 2; pixel_y = 2},/obj/item/stack/sheet/metal{amount = 50; pixel_x = 2; pixel_y = 2},/obj/item/stack/sheet/metal{amount = 50; pixel_x = 2; pixel_y = 2},/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"aO" = (/obj/structure/sign/double/barsign,/turf/simulated/wall,/area/sheep/snow/samship)
+"aP" = (/obj/structure/extinguisher_cabinet,/turf/simulated/wall,/area/sheep/snow/samship)
+"aQ" = (/obj/structure/coatrack,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"aR" = (/obj/structure/sign/vacuum,/turf/simulated/wall,/area/sheep/snow/samship)
+"aS" = (/obj/structure/table,/obj/item/weapon/storage/box/masks,/obj/item/weapon/storage/box/gloves,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"aT" = (/obj/structure/table,/obj/item/weapon/reagent_containers/blood/OMinus,/obj/item/weapon/reagent_containers/blood/OMinus,/obj/item/weapon/reagent_containers/blood/OMinus,/obj/item/weapon/reagent_containers/blood/OPlus,/obj/item/weapon/reagent_containers/blood/OPlus,/obj/item/weapon/reagent_containers/blood/OPlus,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"aU" = (/obj/structure/table/reinforced,/obj/item/clothing/head/welding,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"aV" = (/obj/structure/table/rack,/obj/item/stack/sheet/glass{amount = 15},/obj/item/stack/sheet/glass{amount = 15},/obj/item/stack/sheet/glass{amount = 15},/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"aW" = (/obj/machinery/vending/boozeomat,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"aX" = (/obj/structure/table/woodentable,/obj/machinery/chem_dispenser/beer,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"aY" = (/obj/structure/table/woodentable,/obj/machinery/chem_dispenser/soda,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"aZ" = (/obj/structure/closet/crate/bin,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"ba" = (/obj/machinery/door/window/eastleft,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bb" = (/obj/machinery/clonepod,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"bc" = (/obj/machinery/computer/cloning,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"bd" = (/obj/machinery/dna_scannernew,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"be" = (/obj/structure/table,/obj/item/bodybag,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"bf" = (/obj/machinery/computer/scan_consolenew,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"bg" = (/obj/structure/table,/obj/item/weapon/storage/box/autoinjectors,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"bh" = (/obj/structure/table,/obj/item/weapon/reagent_containers/spray/cleaner,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"bi" = (/obj/structure/table/reinforced,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bj" = (/obj/structure/table/rack,/obj/item/weapon/pickaxe/plasmacutter,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bk" = (/obj/structure/table/woodentable,/obj/item/weapon/card/id/captains_spare,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bl" = (/obj/structure/bed/chair/office/light{dir = 1},/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"bm" = (/obj/machinery/iv_drip,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"bn" = (/obj/structure/table/reinforced,/obj/item/stack/sheet/plasteel{amount = 50},/obj/item/stack/sheet/plasteel{amount = 50},/obj/item/stack/sheet/plasteel{amount = 50},/obj/item/stack/sheet/wood{amount = 30},/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bo" = (/obj/structure/table/woodentable,/obj/item/pizzabox/meat,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bp" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bq" = (/obj/machinery/computer/security/telescreen/entertainment,/turf/simulated/wall,/area/sheep/snow/samship)
+"br" = (/obj/structure/table/woodentable,/obj/item/weapon/reagent_containers/glass/rag,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bs" = (/obj/structure/table/woodentable,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bt" = (/obj/structure/table/woodentable,/obj/machinery/recharger,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bu" = (/obj/structure/table/woodentable,/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/adv,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"bv" = (/obj/structure/table/woodentable,/obj/item/weapon/storage/firstaid/toxin,/obj/item/weapon/storage/firstaid/toxin,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"bw" = (/obj/structure/table/woodentable,/obj/item/weapon/storage/firstaid/fire,/obj/item/weapon/storage/firstaid/fire,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"bx" = (/obj/structure/table/woodentable,/obj/item/weapon/storage/firstaid/o2,/obj/item/weapon/storage/firstaid/o2,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"by" = (/obj/machinery/atmospherics/portables_connector,/obj/machinery/portable_atmospherics/canister/oxygen/prechilled,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"bz" = (/obj/machinery/atmospherics/unary/freezer{dir = 2; icon_state = "freezer"},/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"bA" = (/obj/machinery/atmospherics/unary/cryo_cell,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"bB" = (/obj/machinery/media/jukebox,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bC" = (/obj/machinery/computer/arcade,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bD" = (/obj/structure/bed/chair{dir = 1},/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bE" = (/obj/structure/table/woodentable,/obj/item/weapon/storage/firstaid/combat,/obj/item/weapon/storage/firstaid/combat,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"bF" = (/obj/machinery/atmospherics/pipe/simple/visible{tag = "icon-intact (NORTHEAST)"; icon_state = "intact"; dir = 5},/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"bG" = (/obj/machinery/atmospherics/pipe/manifold/visible,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"bH" = (/obj/machinery/atmospherics/pipe/simple/visible{dir = 4},/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/samship)
+"bI" = (/obj/machinery/atmospherics/pipe/simple/visible{tag = "icon-intact (NORTHWEST)"; icon_state = "intact"; dir = 9},/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"bJ" = (/obj/machinery/sleep_console{icon_state = "sleeperconsole-r"; orient = "RIGHT"},/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"bK" = (/obj/machinery/sleeper{icon_state = "sleeper_0-r"; orient = "RIGHT"},/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"bL" = (/obj/machinery/vending/medical,/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"bM" = (/obj/structure/bed/chair/comfy/beige,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bN" = (/obj/structure/bed/chair/comfy/purp,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bO" = (/obj/machinery/door/unpowered/shuttle{name = "Medical Center"},/turf/simulated/floor{icon_state = "redfull"; dir = 9},/area/sheep/snow/samship)
+"bP" = (/obj/structure/bed/chair/comfy/beige{tag = "icon-comfychair (EAST)"; icon_state = "comfychair"; dir = 4},/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bQ" = (/obj/structure/table/gamblingtable,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bR" = (/obj/structure/bed/chair/comfy/beige{dir = 8},/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bS" = (/obj/structure/bed/chair/comfy/beige{tag = "icon-comfychair (NORTH)"; icon_state = "comfychair"; dir = 1},/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bT" = (/obj/structure/sign/science,/turf/simulated/wall,/area/sheep/snow/samship)
+"bU" = (/obj/structure/closet{icon_closed = "cabinet_closed"; icon_opened = "cabinet_open"; icon_state = "cabinet_closed"},/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bV" = (/turf/simulated/floor{dir = 9; icon_state = "warning"},/area/sheep/snow/samship)
+"bW" = (/turf/simulated/floor{dir = 1; icon_state = "warning"},/area/sheep/snow/samship)
+"bX" = (/turf/simulated/floor{dir = 5; icon_state = "warning"},/area/sheep/snow/samship)
+"bY" = (/obj/structure/bed/chair/office/light,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"bZ" = (/obj/structure/bed,/obj/item/weapon/bedsheet/blue,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"ca" = (/turf/simulated/floor{dir = 8; icon_state = "warning"},/area/sheep/snow/samship)
+"cb" = (/obj/machinery/mech_bay_recharge_port,/turf/simulated/floor,/area/sheep/snow/samship)
+"cc" = (/turf/simulated/floor/mech_bay_recharge_floor,/area/sheep/snow/samship)
+"cd" = (/obj/machinery/computer/mech_bay_power_console,/turf/simulated/floor,/area/sheep/snow/samship)
+"ce" = (/turf/simulated/floor{dir = 4; icon_state = "warning"},/area/sheep/snow/samship)
+"cf" = (/obj/structure/bed/chair/office/light{dir = 4},/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cg" = (/turf/simulated/floor{dir = 10; icon_state = "warning"},/area/sheep/snow/samship)
+"ch" = (/turf/simulated/floor{dir = 2; icon_state = "warning"},/area/sheep/snow/samship)
+"ci" = (/turf/simulated/floor{dir = 6; icon_state = "warning"},/area/sheep/snow/samship)
+"cj" = (/obj/structure/closet{icon_closed = "cabinet_closed"; icon_opened = "cabinet_open"; icon_state = "cabinet_closed"},/obj/item/weapon/beach_ball,/obj/item/clothing/under/swimsuit/green,/obj/item/clothing/head/soft/purple,/obj/item/weapon/storage/box/PDAs,/obj/item/weapon/storage/box/disks,/obj/item/weapon/storage/box/lights/mixed,/obj/item/weapon/storage/box/mechabeacons,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"ck" = (/obj/structure/closet{icon_closed = "cabinet_closed"; icon_opened = "cabinet_open"; icon_state = "cabinet_closed"},/obj/item/clothing/under/sundress_white,/obj/item/clothing/under/rank/scientist_new,/obj/item/clothing/suit/storage/toggle/labcoat/red,/obj/item/clothing/suit/storage/toggle/labcoat/purple,/obj/item/clothing/shoes/black,/obj/item/clothing/head/beret/jan,/obj/item/clothing/accessory/armband/science,/obj/item/weapon/storage/backpack/satchel_tox,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cl" = (/obj/structure/closet/secure_closet/scientist,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cm" = (/obj/structure/closet/secure_closet/personal,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cn" = (/obj/structure/closet/secure_closet/RD,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"co" = (/obj/structure/bed,/obj/item/weapon/bedsheet/red,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cp" = (/obj/structure/bed,/obj/item/weapon/bedsheet/red,/obj/item/toy/plushie/nymph,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cq" = (/turf/space,/turf/simulated/shuttle/wall{icon_state = "diagonalWall3"},/area/space)
+"cr" = (/obj/machinery/door/unpowered/shuttle{desc = "Oh god, the smells!"; name = "Bathroom"},/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cs" = (/turf/space,/turf/simulated/shuttle/wall{dir = 4; icon_state = "diagonalWall3"},/area/space)
+"ct" = (/obj/structure/table,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cu" = (/obj/machinery/vending/dinnerware,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cv" = (/obj/structure/curtain,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cw" = (/obj/structure/toilet{dir = 8},/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cx" = (/obj/structure/sink{dir = 4; icon_state = "sink"; pixel_x = 11; pixel_y = 0},/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cy" = (/obj/structure/curtain/open/shower,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cz" = (/obj/structure/table,/obj/machinery/microwave,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cA" = (/obj/structure/table,/obj/machinery/reagentgrinder,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cB" = (/obj/structure/table,/obj/item/weapon/reagent_containers/food/condiment/peppermill,/obj/item/weapon/reagent_containers/food/condiment/saltshaker,/obj/item/weapon/reagent_containers/food/condiment/enzyme,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cC" = (/obj/structure/closet/secure_closet/freezer/kitchen,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cD" = (/obj/structure/closet/secure_closet/freezer/fridge,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+"cE" = (/obj/structure/closet/secure_closet/guncabinet,/obj/item/weapon/gun/projectile/sec/wood,/obj/item/weapon/gun/projectile/shotgun/doublebarrel{ammo_type = /obj/item/ammo_casing/shotgun},/obj/item/ammo_magazine/c45m/rubber,/obj/item/ammo_magazine/c45m/rubber,/obj/item/ammo_magazine/c45m/rubber,/obj/item/weapon/handcuffs,/obj/item/weapon/handcuffs,/turf/simulated/floor/wood,/area/sheep/snow/samship)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaabacacacacacacacacacadaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaeafagagagagagagagahaiadaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaeajakalalamanananaoapaiadaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaeajalanaqarananananaoahaiadaaaaaaaaaaaaaaaaaa
+aaasasasataaaaaeajanananananananananaoahaiadaaaaaaauasasasaa
+aaasavawasataaaeajanananananananananaxayazaiadaaauasaAaBasaa
+aaasaCaCaDasataeaEaFaGanananananananananaHaIaJauasaKanaLasaa
+aaasaMaCaCaNasasasasaOasaPaCaCaCaQaRasasasasasasaLaSanaTasaa
+aaasaUaCaCaVasaWaXaYaZaCbaaCaCaCaCasbbbcbdbebfbdanbganbhasaa
+aaasbiaCaCbjasaCaCaCaCaCbkaCaCaCaCasaLblananblananananbmasaa
+aaasbnaCaCaZasaCaCaCaCaCboaCaCaCaCasaLananananananananaLasaa
+aaasasbpbpasbqbrbsbsbsbsbtaCaCaCaCasbubvbwbxbybzanananbAasaa
+aaasbBaCaCbCaCbDbDbDbDbDaCaCaCaCaCasaLananbEbFbGbHbHbHbIasaa
+aaasaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCasbJbKaLaLaLaLaLaLaLbLasaa
+aaasaCaCaCaCaCbMbNbMaCaCaCaCaCaCaCasasasasasasasasbObOasasaa
+aaasaCaCaCaCbPbQbQbQbRaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCasaa
+aaasaCaCaCaCbPbQbQbQbRaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCasaa
+aaasaCaCaCaCaCbSbSbSaCaCaCaCaCaCaCasasasasasasasbTbpbpbTasaa
+aaasaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCasaQaCaCaCbUasaCaCaCaQasaa
+aaasaCaCaCaCbVbWbWbWbXaCaCaCaCaCaCbpaCaCbYaCbZasaCaCaCbsasaa
+aaasaCaCaCaCcacbcccdceaCaCaCaCaCaCbpaCbsbsaCbZasaCaCcfbsasaa
+aaasaCaCaCaCcgchchchciaCaCaCaCaCaCasasasasasasasaCaCaCbsasaa
+aaasaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCascjckclcmcnaCaCaCaCcoasaa
+aaasaCaCaCaCaCaCaCaCaCaCaCaCaCaCaCasaCaCaCaCaCaCaCaCaCcpasaa
+aacqasaCaCaCaCaCaCaCaCaCaCaCaCaCaCasbTcrcrbTasasasasasascsaa
+aaaacqasaCaCaCctctctctctcuaCaCaCaCcraCaCaCaCaCcvaCcwascsaaaa
+aaaaaacqasaCaCaCaCaCaCaCaCaCaCaCaCcraCaCaCaCaCascxascsaaaaaa
+aaaaaaaacqasaCaCaCaCaCaCaCaCaCaCaCascyaCaCaCbUasascsaaaaaaaa
+aaaaaaaaaacqasczcActcBcCcDaCaCaCcEasctaCaCaCbUascsaaaaaaaaaa
+aaaaaaaaaaaacqasasasasasasasasasasasasasasasascsaaaaaaaaaaaa
+"}

@@ -1,0 +1,90 @@
+"a" = (/turf/space,/area/space)
+"b" = (/turf/simulated/wall/r_wall,/area/awaymission/spacebattle)
+"c" = (/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"d" = (/obj/structure/table,/obj/item/toy/prize/odysseus,/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"e" = (/obj/structure/table,/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"f" = (/turf/simulated/wall,/area/awaymission/spacebattle)
+"g" = (/obj/structure/table,/obj/item/toy/prize/mauler,/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"h" = (/obj/structure/table,/obj/item/toy/prize/ripley,/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"i" = (/obj/structure/table,/obj/item/toy/prize/phazon,/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"j" = (/obj/structure/table,/obj/item/toy/spinningtoy,/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"k" = (/obj/machinery/deepfryer,/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"l" = (/obj/machinery/cooker/foodgrill,/obj/machinery/light{dir = 1},/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"m" = (/obj/structure/table,/obj/machinery/microwave,/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"n" = (/obj/structure/table,/obj/machinery/chem_dispenser/beer,/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"o" = (/obj/structure/table,/obj/machinery/cooking/candy,/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"p" = (/obj/machinery/power/apc/super{name = "Theatre APC"; step_x = 0; step_y = 26},/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"q" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"r" = (/turf/simulated/floor/carpet,/area/awaymission/spacebattle)
+"s" = (/obj/machinery/door/airlock/freezer{name = "Siberia, A tale of survival in snow."},/turf/simulated/floor/carpet,/area/awaymission/spacebattle)
+"t" = (/obj/machinery/door/airlock/hatch{name = "The Thing Behind The Airlock"},/turf/simulated/floor/carpet,/area/awaymission/spacebattle)
+"u" = (/obj/machinery/door/unpowered/shuttle{name = "The Empty Town"},/turf/simulated/floor/carpet,/area/awaymission/spacebattle)
+"v" = (/obj/machinery/door/airlock/external{name = "The Blank, A tale of a debris field full of amnesiacs"},/turf/simulated/floor/carpet,/area/awaymission/spacebattle)
+"w" = (/obj/machinery/door/airlock/glass{name = "The Glass, A look into our deepest secrets and fears"},/turf/simulated/floor/carpet,/area/awaymission/spacebattle)
+"x" = (/obj/structure/closet/crate,/obj/item/weapon/reagent_containers/food/snacks/grown/corn,/obj/item/weapon/reagent_containers/food/snacks/grown/corn,/obj/item/weapon/reagent_containers/food/snacks/grown/corn,/obj/item/weapon/reagent_containers/food/snacks/grown/corn,/obj/item/weapon/reagent_containers/food/snacks/grown/corn,/obj/item/weapon/reagent_containers/food/snacks/chocolatebar,/obj/item/weapon/reagent_containers/food/snacks/chocolatebar,/obj/item/weapon/reagent_containers/food/snacks/chocolatebar,/obj/item/weapon/reagent_containers/food/snacks/chocolatebar,/obj/item/weapon/reagent_containers/food/snacks/chocolatebar,/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"y" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/carpet,/area/awaymission/spacebattle)
+"z" = (/obj/machinery/door/window/southleft,/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"A" = (/obj/structure/table,/obj/machinery/chem_dispenser/soda,/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"B" = (/obj/structure/table,/obj/item/weapon/reagent_containers/food/snacks/candiedapple,/obj/item/weapon/reagent_containers/food/snacks/candiedapple,/obj/item/weapon/reagent_containers/food/snacks/candiedapple,/obj/item/weapon/reagent_containers/food/snacks/candiedapple,/obj/item/weapon/reagent_containers/food/snacks/candiedapple,/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"C" = (/obj/machinery/light,/turf/simulated/floor/carpet,/area/awaymission/spacebattle)
+"D" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/carpet,/area/awaymission/spacebattle)
+"E" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/carpet,/area/awaymission/spacebattle)
+"F" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"G" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"H" = (/obj/machinery/light,/turf/simulated/floor/wood,/area/awaymission/spacebattle)
+"I" = (/turf/simulated/floor/plating,/area/space)
+"J" = (/turf/simulated/wall,/area/space)
+"K" = (/obj/machinery/door/airlock/centcom{name = "The Finale"},/turf/simulated/floor/plating,/area/space)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaa
+bbbbbbbbbbbbcdecfcgecfchecfciecfcjecbaaaaaaaaaaaaa
+bklmnocpcqcbcrrrfrrrrfrrrrfrrrrfrrrcbaaaaaaaaaaaaa
+bccccecccccbcrrrfrrrrfrrrrfrrrrfrrrcbaaaaaaaaaaaaa
+bccccecccccbfssfffttfffuufffvvfffwwfbaaaaaaaaaaaaa
+bcccxecccccqcrrryrrrryrrrryrrrryrrrcbaaaaaaaaaaaaa
+bzABeecccccccrrrrrrrrrrrrrrrrrrrrrrcbaaaaaaaaaaaaa
+bccccccccccccrrrCrrrrCrrrrCrrrrCrrrcbaaaaaaaaaaaaa
+bccccccccccccrrDfErrDfErrDfErrDfErrFbaaaaaaaaaaaaa
+bGccccccccFbGrrryrrrryrrrryrrrryrrrcbaaaaaaaaaaaaa
+bccccccccccbcrrrrrrrrrrrrrrrrrrrrrrcbaaaaaaaaaaaaa
+bccccccccccbcrrrrrrrrrrrrrrrrrrrrrrcbaaaaaaaaaaaaa
+bbbbbbbbbbbbccccHccccHccccHccccHccccbaaaaaaaaaaaaa
+aaaaaaaaaaabbbbbbbbbbbbbbbbbbbbbbbbbbaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaIIJaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaJIIaaaaaIIJaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaJIIJaaaaJaaaaaaaIIIaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaJIIIaaaaaaaaaaaIIIIaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaJIIIaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaIIIIaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaIIIIIaaaaaaaaJKKJaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaIIIIIJaaaaaaaIIIIaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaIIIIIJaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaJJJJJJaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

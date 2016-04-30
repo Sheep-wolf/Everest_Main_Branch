@@ -1,0 +1,150 @@
+"aa" = (/turf/simulated/mineral{name = "Mountain Wall"; nitrogen = 82.1472; oxygen = 21.8366; temperature = 393.15},/area/sheep/snow/medcenter)
+"ab" = (/turf/simulated/floor/plating/snow,/area/sheep/snow/medcenter)
+"ac" = (/turf/simulated/wall,/area/sheep/snow/medcenter)
+"ad" = (/obj/machinery/door/unpowered/shuttle{name = "Cryogenics"},/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"ae" = (/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"af" = (/obj/machinery/sleeper,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"ag" = (/obj/machinery/sleep_console,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"ah" = (/obj/machinery/bodyscanner,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"ai" = (/obj/machinery/body_scanconsole,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"aj" = (/obj/structure/closet/wardrobe/chemistry_white,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"ak" = (/obj/structure/closet/secure_closet/chemical,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"al" = (/obj/machinery/chem_dispenser,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"am" = (/obj/machinery/chem_master,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"an" = (/obj/structure/table,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"ao" = (/obj/structure/closet/crate/medical,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"ap" = (/obj/structure/closet/wardrobe/genetics_white,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"aq" = (/obj/structure/table,/obj/item/weapon/storage/firstaid/toxin,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"ar" = (/obj/machinery/clonepod,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"as" = (/obj/machinery/computer/cloning,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"at" = (/obj/machinery/dna_scannernew,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"au" = (/obj/structure/stool/bed/chair/office/dark{dir = 4},/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"av" = (/obj/structure/stool/bed/chair/office/dark{dir = 1},/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"aw" = (/obj/structure/table,/obj/item/device/mass_spectrometer/adv,/obj/item/device/reagent_scanner/adv,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"ax" = (/obj/structure/table,/obj/item/weapon/storage/lockbox/loyalty,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"ay" = (/obj/structure/table,/obj/item/weapon/storage/box/monkeycubes,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"az" = (/obj/machinery/computer/scan_consolenew,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"aA" = (/obj/machinery/implantchair,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"aB" = (/obj/machinery/washing_machine,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"aC" = (/obj/structure/bedsheetbin,/obj/structure/table,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"aD" = (/obj/structure/table,/obj/item/roller,/obj/item/roller,/obj/item/roller,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"aE" = (/obj/structure/table,/obj/item/weapon/storage/box/rxglasses,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"aF" = (/obj/machinery/vending/medical,/turf/simulated/floor{dir = 2; icon_state = "cmo"},/area/sheep/snow/medcenter)
+"aG" = (/turf/simulated/floor{dir = 2; icon_state = "cmo"},/area/sheep/snow/medcenter)
+"aH" = (/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"aI" = (/obj/structure/window/reinforced{dir = 5; health = 1e+007; icon_state = "rwindow4"},/obj/structure/grille,/turf/simulated/floor/plating,/area/sheep/snow/medcenter)
+"aJ" = (/obj/structure/window/reinforced{dir = 5; health = 1e+007; icon_state = "rwindow8"},/obj/structure/grille,/turf/simulated/floor/plating,/area/sheep/snow/medcenter)
+"aK" = (/obj/structure/noticeboard,/turf/simulated/wall,/area/sheep/snow/medcenter)
+"aL" = (/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"aM" = (/obj/structure/table,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"aN" = (/obj/structure/stool/bed/psych,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"aO" = (/obj/structure/closet/secure_closet/guncabinet,/obj/item/weapon/shield/riot,/obj/item/weapon/shield/riot,/obj/item/clothing/suit/armor/riot,/obj/item/clothing/suit/armor/riot,/obj/item/clothing/head/helmet/riot,/obj/item/clothing/head/helmet/riot,/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"aP" = (/obj/structure/closet/secure_closet/guncabinet,/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"aQ" = (/obj/structure/closet/secure_closet/guncabinet,/obj/item/weapon/gun/projectile/rifle/m1garandenergy,/obj/item/weapon/gun/projectile/rifle/m1garandenergy,/obj/item/ammo_magazine/alightbluebox,/obj/item/ammo_magazine/alightbluebox,/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"aR" = (/obj/structure/filingcabinet/chestdrawer{desc = "A large drawer filled with autopsy reports."; name = "Autopsy Reports"},/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"aS" = (/obj/structure/table,/obj/item/weapon/clipboard,/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"aT" = (/obj/structure/table,/obj/machinery/computer/med_data/laptop,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"aU" = (/obj/structure/stool/bed/chair/office/dark{dir = 8},/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"aV" = (/obj/structure/filingcabinet/chestdrawer,/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"aW" = (/obj/structure/table,/obj/machinery/computer/med_data/laptop,/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"aX" = (/obj/structure/filingcabinet/medical,/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"aY" = (/obj/structure/stool/bed/chair/office/dark{dir = 4},/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"aZ" = (/obj/structure/table,/obj/item/device/radio{anchored = 1; broadcasting = 0; canhear_range = 1; frequency = 1487; icon = 'icons/obj/items.dmi'; icon_state = "red_phone"; listening = 1; name = "Reception Emergency Phone"; pixel_x = -5},/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"ba" = (/obj/structure/coatrack,/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"bb" = (/obj/structure/table,/obj/item/toy/prize/odysseus,/turf/simulated/floor/plating/snow,/area/sheep/snow/medcenter)
+"bc" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bd" = (/obj/structure/closet,/obj/item/clothing/suit/armor/vest,/obj/item/clothing/suit/armor/vest,/obj/item/clothing/gloves/combat,/obj/item/clothing/shoes/combat,/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"be" = (/obj/structure/table,/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"bf" = (/obj/machinery/door/unpowered/shuttle{name = "Medical Center"},/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"bg" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"bh" = (/obj/structure/flora/pottedplant{tag = "icon-plant-06"; icon_state = "plant-06"},/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"bi" = (/obj/structure/table,/obj/item/weapon/storage/box/cups,/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"bj" = (/obj/structure/closet/crate/bin,/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"bk" = (/obj/structure/reagent_dispensers/water_cooler,/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"bl" = (/obj/machinery/shower{icon_state = "shower"; dir = 4},/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bm" = (/obj/machinery/shower{icon_state = "shower"; dir = 8},/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bn" = (/obj/structure/stool/bed/chair/wheelchair,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"bo" = (/obj/item/weapon/caution,/obj/item/weapon/caution,/obj/item/weapon/caution,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"bp" = (/obj/structure/janitorialcart,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"bq" = (/obj/structure/stool/bed/chair{dir = 4},/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"br" = (/obj/structure/stool/bed/chair{dir = 8},/turf/simulated/floor/wood,/area/sheep/snow/medcenter)
+"bs" = (/obj/structure/table,/obj/item/weapon/storage/belt/stormtrooper/medical,/obj/item/weapon/storage/belt/stormtrooper/medical,/obj/item/weapon/storage/belt/stormtrooper/medical,/obj/item/weapon/storage/belt/stormtrooper/medical,/obj/item/weapon/storage/box/autoinjectors,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"bt" = (/obj/machinery/floodlight,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"bu" = (/obj/structure/table,/obj/item/weapon/storage/box/syringes,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"bv" = (/obj/structure/table,/obj/item/weapon/storage/belt/medical,/obj/item/weapon/storage/belt/medical,/obj/item/weapon/storage/belt/medical,/obj/item/weapon/storage/belt/medical,/obj/item/weapon/storage/box/trackimp,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"bw" = (/obj/structure/closet/secure_closet/medical1,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"bx" = (/obj/structure/closet/secure_closet/medical2,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"by" = (/obj/structure/closet/secure_closet/medical3,/turf/simulated/floor{icon_state = "cafeteria"; dir = 5},/area/sheep/snow/medcenter)
+"bz" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor/plating,/area/sheep/snow/medcenter)
+"bA" = (/obj/structure/sink,/turf/simulated/wall,/area/sheep/snow/medcenter)
+"bB" = (/obj/machinery/atmospherics/unary/cryo_cell,/turf/simulated/floor/plating,/area/sheep/snow/medcenter)
+"bC" = (/turf/simulated/floor/plating,/area/sheep/snow/medcenter)
+"bD" = (/obj/structure/toilet{dir = 4},/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bE" = (/obj/machinery/door/unpowered/shuttle{desc = "Oh god, the smells!"; name = "Bathroom"},/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bF" = (/obj/structure/table,/obj/item/weapon/storage/box/gloves,/obj/item/weapon/storage/box/masks,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bG" = (/obj/structure/table,/obj/item/weapon/storage/box/bodybags,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bH" = (/obj/structure/closet/crate/bin,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bI" = (/obj/machinery/iv_drip,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bJ" = (/obj/machinery/atmospherics/pipe/manifold/visible{dir = 8},/turf/simulated/floor/plating,/area/sheep/snow/medcenter)
+"bK" = (/obj/machinery/atmospherics/pipe/simple/visible{tag = "icon-intact (NORTHWEST)"; icon_state = "intact"; dir = 9},/turf/simulated/floor/plating,/area/sheep/snow/medcenter)
+"bL" = (/obj/structure/morgue,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bM" = (/obj/structure/sink{icon_state = "sink"; dir = 8; pixel_x = -12; pixel_y = 2},/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bN" = (/obj/structure/closet/secure_closet/medical2,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bO" = (/obj/machinery/atmospherics/pipe/simple/visible,/turf/simulated/floor/plating,/area/sheep/snow/medcenter)
+"bP" = (/obj/structure/table,/obj/item/weapon/reagent_containers/glass/beaker/cryoxadone,/obj/item/weapon/reagent_containers/glass/beaker/cryoxadone,/turf/simulated/floor/plating,/area/sheep/snow/medcenter)
+"bQ" = (/obj/item/weapon/bedsheet/medical,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bR" = (/obj/machinery/optable,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bS" = (/obj/machinery/computer/operating,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bT" = (/obj/structure/table,/obj/item/weapon/storage/belt/medical/surgery,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bU" = (/obj/machinery/atmospherics/pipe/manifold/hidden{dir = 8; icon_state = "map"; tag = "icon-manifold-f (WEST)"},/turf/simulated/floor/plating,/area/sheep/snow/medcenter)
+"bV" = (/obj/machinery/atmospherics/pipe/manifold/hidden{dir = 1; icon_state = "map"; tag = "icon-manifold-f (NORTH)"},/turf/simulated/floor/plating,/area/sheep/snow/medcenter)
+"bW" = (/obj/machinery/atmospherics/pipe/simple/visible{tag = "icon-intact (SOUTHWEST)"; icon_state = "intact"; dir = 10},/turf/simulated/floor/plating,/area/sheep/snow/medcenter)
+"bX" = (/obj/structure/stool/bed/chair,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bY" = (/obj/structure/flora/pottedplant{icon_state = "plant-20"; tag = "icon-plant-22"},/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"bZ" = (/obj/machinery/atmospherics/portables_connector{dir = 1},/obj/machinery/portable_atmospherics/canister/oxygen,/turf/simulated/floor/plating,/area/sheep/snow/medcenter)
+"ca" = (/obj/machinery/atmospherics/unary/freezer{dir = 1; icon_state = "freezer"},/turf/simulated/floor/plating,/area/sheep/snow/medcenter)
+"cb" = (/obj/structure/closet/secure_closet/injection,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+"cc" = (/obj/structure/closet/secure_closet/medical1,/turf/simulated/floor{icon_state = "white"},/area/sheep/snow/medcenter)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababaaaaaa
+aaaaaaaaaaaaaaabababababababababababababababababababababababababababababababaaaa
+aaaaaaaaaaaaabababababababababababababababababababababababababababababababababaa
+aaaaaaaaabacacacacacacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaaaaaababadaeafagaeahaiaeajakalamanaoaoanaeapanaqarasatacababababababababababaa
+aaaaabababadaeaeaeaeaeaeaeaeaeaeauanaeauanaeaeaeaeaeavaeacababababababababababaa
+aaaaabababacaeafagaeahaiaeaeawanananaeananaeaeaeaeaeaeaeacababababababababababaa
+aaababababacaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaeaxayazataeaAacababababababababababaa
+aaababababacaBaeaeaeaCaDaEaeaeaeaeaeaeaeaeaeaeaeavaeaeaeacababababababababababaa
+aaababababacacaeaeaeacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaababababacaFaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGacababababababababababaa
+aaababababacaFaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGacababababababababababaa
+aaababababacaFaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGaGacababababababababababaa
+aaababababacacacacacaHacacacacacacacaIaJaKaLaLaLaLaLaLaLacababababababababababaa
+aaababababacaMaHaNacaHacaOaPaQaQacaRaLaLaSaLaLaLaLaLaLaLacababababababababababaa
+aaababababacaTaUaHacaHacaLaLaLaLacaVaLaLaWaLaLaLaLaLaLaLacababababababababababaa
+aaababababacaMaHaHacaHacaLaLaLaLacaXaLaYaZaLaLaLaLaLaLbaacbbabababababababababaa
+aaababababacaHaHaHbcaHacaLaLbdbdacaLaLaLbeaLaLaLaLaLaLaLbfababababababababababaa
+aaababababacaHaHaHbcaHacbgbgacacacbhaLaLbiaLaLaLaLaLaLaLbfababababababababababaa
+aaababababacacacacacaHacaLaLaLaLaLaLaLbjacbkaLaLaLaLaLbaacbbabababababababababaa
+aaababababacblaHbmacaHacaLaLaLaLaLaLaLaLbgaLaLaLaLaLaLaLacababababababababababaa
+aaababababacblaHbmacaHacacacacbgbgacacacacaLaLaLaLaLaLaLacababababababababababaa
+aaababababacblaHbmacaHacaoaebnaeaeboaebpacbqaLaLbraLaLbracababababababababababaa
+aaababababacaMaHaHbcaHacbsaeaeaeaeaeaebtacbqaLaLbraLaLbracababababababababababaa
+aaababababacaMaHaHbcaHacbubvbwbwbxbybybtacbqaLaLbraLaLbracababababababababababaa
+aaacacacbzacacacbAacaHacacacacacacacacacacacacacacbcacacacababababababababababaa
+aaacbBbBbCacbDaHaHbEaHaHaHaHaHaHaHbcaHaHbFbGacbHaHaHaHbIacababababababababababaa
+aaacbJbKbCacacacacacbcacacacacbcbcacbLaHaHaHacbMaHaHaHbNacababababababababababaa
+aaacbObCbPacaMaMaHaHaHacaMbQbIaHaHacbLaHaHaHbcaHbRbSaHbTacababababababababababaa
+aaacbUbVbWacaMbXaHaHaHacbYaHaHaHaHacbLaHaHaHacaHaHaHaHaMacababababababababababaa
+aaacbZbZcaacaMaHaHaHcbacaMbQbIbQaMacbLaHbNccacaMaMaMaMaMacababababababababababaa
+aaacacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababaa
+aaaaabababababababababababababababababababababababababababababababababababababaa
+aaaaaaabababababababababababababababababababababababababababababababababababaaaa
+aaaaaaaaabababababababababababababababababababababababababababababababababaaaaaa
+aaaaaaaaaaaaaaababababababababababababababababababababababababababababaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

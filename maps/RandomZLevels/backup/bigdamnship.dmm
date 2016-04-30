@@ -1,0 +1,184 @@
+"aa" = (/turf/space,/area/space)
+"ab" = (/turf/space,/turf/simulated/shuttle/wall{dir = 1; icon_state = "diagonalWall3"},/area/awaymission/longhaul)
+"ac" = (/turf/simulated/wall,/area/awaymission/longhaul)
+"ad" = (/obj/machinery/computer/security/telescreen,/turf/simulated/wall,/area/awaymission/longhaul)
+"ae" = (/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/obj/structure/window/reinforced{dir = 1},/turf/space,/area/awaymission/longhaul)
+"af" = (/obj/machinery/power/smes/magical{desc = "A high-capacity superconducting magnetic energy storage (SMES) unit."; name = "power storage unit"},/obj/structure/cable{d2 = 2; icon_state = "0-2"; pixel_y = 0},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"ag" = (/obj/structure/closet/secure_closet/freezer/kitchen,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"ah" = (/obj/structure/closet/secure_closet/freezer/fridge,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"ai" = (/obj/machinery/microwave,/obj/structure/table,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"aj" = (/obj/machinery/reagentgrinder,/obj/structure/table,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"ak" = (/obj/machinery/vending/dinnerware,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"al" = (/obj/machinery/vending/boozeomat,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"am" = (/obj/structure/stool/bed/chair/comfy/brown{icon_state = "comfychair_brown"; dir = 4},/turf/simulated/floor{icon_state = "bcarpet01"},/area/awaymission/longhaul)
+"an" = (/turf/simulated/floor{icon_state = "bcarpet02"},/area/awaymission/longhaul)
+"ao" = (/turf/simulated/floor{icon_state = "bcarpet03"},/area/awaymission/longhaul)
+"ap" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor,/area/awaymission/longhaul)
+"aq" = (/turf/simulated/floor,/area/awaymission/longhaul)
+"ar" = (/obj/machinery/light{dir = 1},/turf/simulated/floor,/area/awaymission/longhaul)
+"as" = (/obj/structure/sink{dir = 4; icon_state = "sink"; pixel_x = 11; pixel_y = 0},/turf/simulated/floor,/area/awaymission/longhaul)
+"at" = (/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/obj/structure/window/reinforced,/turf/space,/area/awaymission/longhaul)
+"au" = (/obj/structure/cable{d1 = 1; d2 = 4; icon_state = "1-4"; tag = ""},/obj/machinery/light{dir = 8},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"av" = (/obj/structure/cable{d1 = 1; d2 = 4; icon_state = "1-4"; tag = ""},/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"aw" = (/obj/structure/cable{d1 = 2; d2 = 8; icon_state = "2-8"},/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"; tag = ""},/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"ax" = (/obj/machinery/light{dir = 8},/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"ay" = (/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"az" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"aA" = (/obj/structure/closet{icon_closed = "cabinet_closed"; icon_opened = "cabinet_open"; icon_state = "cabinet_closed"},/obj/item/clothing/shoes/combat,/obj/item/clothing/suit/storage/labcoat/red,/turf/simulated/floor{icon_state = "bcarpet04"},/area/awaymission/longhaul)
+"aB" = (/turf/simulated/floor{icon_state = "bcarpet05"},/area/awaymission/longhaul)
+"aC" = (/obj/structure/closet{icon_closed = "cabinet_closed"; icon_opened = "cabinet_open"; icon_state = "cabinet_closed"},/obj/item/clothing/shoes/combat,/obj/item/clothing/suit/storage/labcoat/purple,/turf/simulated/floor{icon_state = "bcarpet06"},/area/awaymission/longhaul)
+"aD" = (/obj/structure/toilet{dir = 4},/turf/simulated/floor,/area/awaymission/longhaul)
+"aE" = (/obj/machinery/shower{icon_state = "shower"; dir = 8},/turf/simulated/floor,/area/awaymission/longhaul)
+"aF" = (/turf/space,/turf/simulated/shuttle/wall{icon_state = "diagonalWall3"},/area/awaymission/longhaul)
+"aG" = (/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"aH" = (/obj/machinery/power/apc{dir = 4; name = "east bump"; pixel_x = 24},/obj/structure/cable,/obj/machinery/power/terminal{dir = 4},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"aI" = (/obj/structure/table,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"aJ" = (/obj/structure/stool,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"aK" = (/obj/item/toy/teddy,/obj/structure/stool/bed,/obj/item/weapon/bedsheet/blue,/turf/simulated/floor{icon_state = "bcarpet04"},/area/awaymission/longhaul)
+"aL" = (/obj/structure/stool/bed,/obj/item/weapon/bedsheet/red,/turf/simulated/floor{icon_state = "bcarpet06"},/area/awaymission/longhaul)
+"aM" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/obj/structure/window/reinforced{dir = 1},/turf/space,/area/awaymission/longhaul)
+"aN" = (/obj/structure/table,/obj/item/pizzabox/meat,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"aO" = (/obj/structure/closet/crate/bin,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"aP" = (/obj/structure/table/woodentable,/obj/item/device/flashlight/lamp,/turf/simulated/floor{icon_state = "bcarpet07"},/area/awaymission/longhaul)
+"aQ" = (/turf/simulated/floor{icon_state = "bcarpet08"},/area/awaymission/longhaul)
+"aR" = (/obj/structure/table/woodentable,/obj/item/device/flashlight/lamp,/turf/simulated/floor{icon_state = "bcarpet09"},/area/awaymission/longhaul)
+"aS" = (/obj/structure/table/reinforced,/obj/item/weapon/contraband/poster,/obj/item/weapon/gun/projectile/pistol,/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"aT" = (/obj/structure/table/reinforced,/obj/item/device/radio,/obj/item/device/gps,/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"aU" = (/obj/machinery/blackbox_recorder,/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"aV" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/turf/space,/area/awaymission/longhaul)
+"aW" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"aX" = (/turf/simulated/floor{dir = 1; icon_state = "rampbottom"; tag = "icon-rampbottom (SOUTHEAST)"},/area/awaymission/longhaul)
+"aY" = (/obj/structure/table/reinforced,/obj/machinery/recharger,/obj/machinery/light{dir = 8},/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"aZ" = (/obj/structure/stool/bed/chair/office/dark{dir = 4},/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"ba" = (/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"bb" = (/obj/structure/grille,/obj/structure/window/plasmareinforced,/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (EAST)"; icon_state = "plasmarwindow"; dir = 4},/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (NORTH)"; icon_state = "plasmarwindow"; dir = 1},/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (WEST)"; icon_state = "plasmarwindow"; dir = 8},/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (NORTHEAST)"; icon_state = "plasmarwindow"; dir = 5},/turf/simulated/floor/plating,/area/awaymission/longhaul)
+"bc" = (/obj/structure/closet/secure_closet/engineering_electrical,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bd" = (/obj/machinery/light,/obj/machinery/light{dir = 1},/turf/simulated/floor,/area/awaymission/longhaul)
+"be" = (/turf/simulated/floor{dir = 4; icon_state = "rampbottom"; tag = "icon-rampbottom (SOUTHEAST)"},/area/awaymission/longhaul)
+"bf" = (/obj/structure/stool/bed/chair/office/light{dir = 4},/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"bg" = (/obj/structure/table/reinforced,/obj/machinery/computer/skills,/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"bh" = (/obj/structure/grille,/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (EAST)"; icon_state = "plasmarwindow"; dir = 4},/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (NORTH)"; icon_state = "plasmarwindow"; dir = 1},/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (WEST)"; icon_state = "plasmarwindow"; dir = 8},/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (NORTHEAST)"; icon_state = "plasmarwindow"; dir = 5},/turf/simulated/floor/plating,/area/awaymission/longhaul)
+"bi" = (/obj/structure/closet/secure_closet/engineering_welding,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bj" = (/turf/simulated/floor{dir = 2; icon_state = "rampbottom"; tag = "icon-rampbottom (SOUTHEAST)"},/area/awaymission/longhaul)
+"bk" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"bl" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/obj/structure/window/reinforced,/turf/space,/area/awaymission/longhaul)
+"bm" = (/obj/structure/closet/toolcloset,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bn" = (/obj/mecha/working/ripley/firefighter,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 9},/area/awaymission/longhaul)
+"bo" = (/obj/mecha/working/ripley/firefighter,/turf/simulated/floor/plating{dir = 1; icon_state = "warnplate"; nitrogen = 0.01; oxygen = 0.01},/area/awaymission/longhaul)
+"bp" = (/turf/simulated/floor/plating{dir = 1; icon_state = "warnplate"; nitrogen = 0.01; oxygen = 0.01},/area/awaymission/longhaul)
+"bq" = (/obj/mecha/combat/phazon,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 5},/area/awaymission/longhaul)
+"br" = (/obj/structure/rack,/obj/item/clothing/suit/space/rig/engineering,/obj/item/clothing/head/helmet/space/rig/engineering,/turf/simulated/floor{dir = 9; icon_state = "yellowsiding"; tag = "icon-yellowsiding (SOUTHEAST)"},/area/awaymission/longhaul)
+"bs" = (/turf/simulated/floor{dir = 1; icon_state = "yellowsiding"; tag = "icon-yellowsiding"},/area/awaymission/longhaul)
+"bt" = (/obj/structure/closet,/obj/item/clothing/shoes/stormtrooper,/obj/item/clothing/tie/holster,/obj/item/clothing/tie/ert_dogtags{name = "dogtags"},/obj/item/clothing/under/stormtrooper,/obj/item/clothing/mask/gas/fluff/stefan_mask,/obj/item/clothing/gloves/stormtrooper,/obj/item/weapon/melee/telebaton,/obj/item/weapon/gun/projectile/cellrevolver/compact,/obj/item/weapon/gun/projectile/laserminigun/rifle,/obj/item/ammo_magazine/slight6,/obj/item/ammo_magazine/redcellbox,/turf/simulated/floor{dir = 5; icon_state = "yellowsiding"; tag = "icon-yellowsiding (SOUTHEAST)"},/area/awaymission/longhaul)
+"bu" = (/obj/structure/rack,/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"bv" = (/mob/living/simple_animal/cat{name = "Matches"},/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"bw" = (/obj/machinery/newscaster{layer = 3.3; pixel_x = 27; pixel_y = 0},/obj/machinery/door_control{id = "enteria_cannon"; name = "cannon shutter"; pixel_x = 6; pixel_y = -30},/obj/machinery/driver_button{id = "enteria_gun"; name = "cannon launch"; pixel_x = -6; pixel_y = -30},/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"bx" = (/turf/space,/turf/simulated/shuttle/wall{dir = 4; icon_state = "diagonalWall3"},/area/awaymission/longhaul)
+"by" = (/turf/space,/turf/simulated/shuttle/wall{dir = 8; icon_state = "diagonalWall3"},/area/awaymission/longhaul)
+"bz" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/table/reinforced,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bA" = (/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bB" = (/obj/machinery/door/window/northright,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bC" = (/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 8},/area/awaymission/longhaul)
+"bD" = (/turf/simulated/floor/plating,/area/awaymission/longhaul)
+"bE" = (/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 4},/area/awaymission/longhaul)
+"bF" = (/obj/structure/rack,/obj/item/clothing/suit/space/rig/ert/medical,/obj/item/clothing/head/helmet/space/rig/ert/medical,/turf/simulated/floor{tag = "icon-yellowsiding (WEST)"; icon_state = "yellowsiding"; dir = 8},/area/awaymission/longhaul)
+"bG" = (/obj/structure/closet,/obj/item/clothing/shoes/stormtrooper,/obj/item/clothing/tie/holster,/obj/item/clothing/tie/ert_dogtags{name = "dogtags"},/obj/item/clothing/under/stormtrooper,/obj/item/clothing/mask/gas/fluff/stefan_mask,/obj/item/clothing/gloves/stormtrooper,/obj/item/weapon/melee/telebaton,/obj/item/weapon/gun/projectile/cellrevolver/compact,/obj/item/weapon/gun/projectile/laserminigun/rifle,/obj/item/ammo_magazine/slight6,/obj/item/ammo_magazine/redcellbox,/turf/simulated/floor{dir = 4; icon_state = "yellowsiding"; tag = "icon-yellowsiding (WEST)"},/area/awaymission/longhaul)
+"bH" = (/obj/machinery/door/window/northright,/obj/machinery/door/window/southright,/turf/simulated/floor/plating,/area/awaymission/longhaul)
+"bI" = (/turf/simulated/shuttle/wall{icon_state = "pwall"; dir = 1},/area/awaymission/longhaul)
+"bJ" = (/obj/structure/window/reinforced,/turf/space,/area/awaymission/longhaul)
+"bK" = (/obj/structure/table/reinforced,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bL" = (/obj/structure/AIcore/deactivated,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 4},/area/awaymission/longhaul)
+"bM" = (/obj/machinery/light{dir = 8},/turf/simulated/floor{tag = "icon-yellowsiding (WEST)"; icon_state = "yellowsiding"; dir = 8},/area/awaymission/longhaul)
+"bN" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor{dir = 4; icon_state = "yellowsiding"; tag = "icon-yellowsiding (WEST)"},/area/awaymission/longhaul)
+"bO" = (/obj/machinery/mass_driver{dir = 4; id = "enteria_gun"},/turf/simulated/floor/plating,/area/awaymission/longhaul)
+"bP" = (/obj/machinery/door/poddoor/shutters{id = "enteria_cannon"; name = "cannon shutter"},/turf/simulated/floor/plating,/area/awaymission/longhaul)
+"bQ" = (/turf/space,/area/awaymission/longhaul)
+"bR" = (/mob/living/silicon/decoy{desc = "The ships AI."; memory = "I am the ships AI, I should look after it's crew."; name = "PiBot"},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bS" = (/obj/structure/table/reinforced,/obj/item/device/aicard,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bT" = (/obj/structure/dispenser,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 10},/area/awaymission/longhaul)
+"bU" = (/obj/structure/dispenser,/turf/simulated/floor/plating{dir = 2; icon_state = "warnplate"},/area/awaymission/longhaul)
+"bV" = (/turf/simulated/floor/plating{dir = 2; icon_state = "warnplate"},/area/awaymission/longhaul)
+"bW" = (/obj/structure/largecrate/mule,/turf/simulated/floor/plating{dir = 2; icon_state = "warnplate"},/area/awaymission/longhaul)
+"bX" = (/obj/structure/largecrate/mule,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 6},/area/awaymission/longhaul)
+"bY" = (/obj/structure/closet,/obj/item/device/flashlight/heavy,/obj/item/device/flashlight/heavy,/obj/item/device/camera,/obj/item/device/camera_film,/obj/item/device/binoculars,/obj/item/device/analyzer,/obj/item/device/lightreplacer,/obj/item/device/hailer,/turf/simulated/floor{tag = "icon-yellowsiding (SOUTHWEST)"; icon_state = "yellowsiding"; dir = 10},/area/awaymission/longhaul)
+"bZ" = (/obj/machinery/bot/medbot,/turf/simulated/floor{tag = "icon-yellowsiding"; icon_state = "yellowsiding"; dir = 2},/area/awaymission/longhaul)
+"ca" = (/obj/machinery/washing_machine,/turf/simulated/floor{tag = "icon-yellowsiding"; icon_state = "yellowsiding"; dir = 2},/area/awaymission/longhaul)
+"cb" = (/obj/structure/closet/secure_closet/guncabinet,/obj/item/weapon/gun/projectile/laserminigun,/obj/item/weapon/gun/energy/laser,/obj/item/toy/prize/odysseus,/turf/simulated/floor{tag = "icon-yellowsiding (SOUTHEAST)"; icon_state = "yellowsiding"; dir = 6},/area/awaymission/longhaul)
+"cc" = (/obj/structure/window/reinforced{dir = 1},/turf/space,/area/awaymission/longhaul)
+"cd" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor/plating,/area/awaymission/longhaul)
+"ce" = (/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (NORTH)"; icon_state = "plasmarwindow"; dir = 1},/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/turf/space,/area/space)
+"cf" = (/turf/space,/turf/simulated/shuttle/wall{dir = 1; icon_state = "diagonalWall3"},/area/space)
+"cg" = (/turf/simulated/wall,/area/space)
+"ch" = (/obj/structure/disposalpipe/segment{dir = 4; icon_state = "pipe-c"},/turf/simulated/wall,/area/space)
+"ci" = (/turf/space,/obj/structure/disposalpipe/trunk{dir = 8},/obj/structure/disposaloutlet{dir = 4},/turf/simulated/shuttle/wall{dir = 1; icon_state = "diagonalWall3"},/area/space)
+"cj" = (/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (EAST)"; icon_state = "plasmarwindow"; dir = 4},/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (NORTH)"; icon_state = "plasmarwindow"; dir = 1},/turf/space,/area/space)
+"ck" = (/obj/structure/closet,/obj/item/clothing/suit/space/rig/stormtrooper,/obj/item/clothing/shoes/stormtrooper,/obj/item/clothing/head/helmet/space/rig/stormtrooper,/obj/item/clothing/gloves/stormtrooper,/obj/item/clothing/tie/holster,/obj/item/clothing/tie/armband/med{name = "pilot armband"},/obj/item/weapon/gun/projectile/pistol,/obj/item/weapon/extinguisher/mini,/turf/simulated/floor/plating,/area/space)
+"cl" = (/obj/structure/closet/crate,/obj/item/weapon/grenade/empgrenade,/obj/item/weapon/grenade/empgrenade,/obj/item/weapon/grenade/empgrenade,/obj/item/weapon/grenade/empgrenade,/obj/item/weapon/grenade/empgrenade,/obj/item/weapon/grenade/spawnergrenade/spesscarp,/obj/item/weapon/grenade/spawnergrenade/spesscarp,/turf/simulated/floor/plating,/area/space)
+"cm" = (/obj/machinery/disposal,/obj/structure/disposalpipe/trunk{dir = 1},/turf/simulated/floor/plating,/area/space)
+"cn" = (/obj/structure/grille,/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (NORTHEAST)"; icon_state = "plasmarwindow"; dir = 5},/turf/simulated/floor/plating,/area/space)
+"co" = (/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (EAST)"; icon_state = "plasmarwindow"; dir = 4},/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/turf/space,/area/space)
+"cp" = (/turf/simulated/floor/plating,/area/space)
+"cq" = (/obj/structure/stool/bed/chair/comfy/black{dir = 4},/turf/simulated/floor/plating,/area/space)
+"cr" = (/obj/structure/table/reinforced,/obj/machinery/computer/skills,/turf/simulated/floor/plating,/area/space)
+"cs" = (/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (EAST)"; icon_state = "plasmarwindow"; dir = 4},/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/obj/structure/window/plasmareinforced,/turf/space,/area/space)
+"ct" = (/obj/structure/dispenser/oxygen,/turf/simulated/floor/plating,/area/space)
+"cu" = (/obj/structure/closet/crate,/obj/item/weapon/grenade/flashbang/clusterbang,/obj/item/weapon/grenade/flashbang/clusterbang,/obj/item/weapon/grenade/flashbang/clusterbang,/obj/item/weapon/grenade/flashbang/clusterbang,/obj/item/weapon/grenade/flashbang/clusterbang,/turf/simulated/floor/plating,/area/space)
+"cv" = (/obj/machinery/disposal,/obj/structure/disposalpipe/trunk,/turf/simulated/floor/plating,/area/space)
+"cw" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor/plating,/area/space)
+"cx" = (/obj/structure/disposalpipe/segment{dir = 1; icon_state = "pipe-c"},/turf/simulated/wall,/area/space)
+"cy" = (/turf/space,/obj/structure/disposalpipe/trunk{dir = 8},/obj/structure/disposaloutlet{dir = 4},/turf/simulated/shuttle/wall{dir = 4; icon_state = "diagonalWall3"},/area/space)
+"cz" = (/obj/structure/window/plasmareinforced,/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/turf/space,/area/space)
+"cA" = (/turf/space,/turf/simulated/shuttle/wall{dir = 4; icon_state = "diagonalWall3"},/area/space)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaacacacacacacacacacacacacacadadacacacacacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaeacafafafacagahaiajakalacamananaoapaqarasacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaatacauavawacaxayayayayazacaAaBaBaCacaDaqaEacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaFaGaGaHacaIaJayayayaIacaKaBaBaLacacadacacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaMaGaGaGacaNaJayayaOaIacaPaQaQaRacaSaTaUacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaVaGaGaWacacacaXaXacacacacaXaXacacaYaZbababbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaVbcaGaGapaqbdaqaqbdaqaqbdaqaqbdbebababababfbgbhaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaVbiaGaWacacacbjbjacacacacbjbjacacbkbabababbbbbbaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaablbmaGaGacbnbobpbpbpbqacbrbsbsbtacbubvbwacbxaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabybzbAbBacbCbDbDbDbDbEacbFaqaqbGacacbHacbIbJbJbJaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaeacbKaGaWacbCbDbDbDbDbLacbMaqaqbNacbObDbDbPbDbQbQaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaatacbKbRbSacbTbUbVbVbWbXacbYbZcacbacacacacbIccccccaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaacacacacacacaccdcdacacacacacacacacbxaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaacbxaaaaaFacacbDbDacacbxaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabxaaaaaaaaaFaccdcdacbxaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacecfaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacgcgcgcgchciaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacjckckclcmcncncnaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacocpcpcpcpcqcrcnaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacsctcpcucvcncncnaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacgcgcwcgcxcyaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaczcAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

@@ -1,0 +1,235 @@
+"aa" = (/turf/space,/area/space)
+"ab" = (/turf/space,/turf/simulated/shuttle/wall{dir = 1; icon_state = "diagonalWall3"},/area/awaymission/longhaul)
+"ac" = (/turf/simulated/wall,/area/awaymission/longhaul)
+"ad" = (/obj/machinery/computer/security/telescreen,/turf/simulated/wall,/area/awaymission/longhaul)
+"ae" = (/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/obj/structure/window/reinforced{dir = 1},/turf/space,/area/awaymission/longhaul)
+"af" = (/obj/machinery/power/smes/magical{desc = "A high-capacity superconducting magnetic energy storage (SMES) unit."; name = "power storage unit"},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"ag" = (/obj/structure/closet/secure_closet/freezer/kitchen,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"ah" = (/obj/structure/closet/secure_closet/freezer/fridge,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"ai" = (/obj/machinery/microwave,/obj/structure/table,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"aj" = (/obj/machinery/reagentgrinder,/obj/structure/table,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"ak" = (/obj/machinery/vending/dinnerware,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"al" = (/obj/machinery/vending/boozeomat,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"am" = (/obj/structure/stool/bed/chair/comfy/brown{icon_state = "comfychair_brown"; dir = 4},/turf/simulated/floor{icon_state = "bcarpet01"},/area/awaymission/longhaul)
+"an" = (/turf/simulated/floor{icon_state = "bcarpet02"},/area/awaymission/longhaul)
+"ao" = (/turf/simulated/floor{icon_state = "bcarpet03"},/area/awaymission/longhaul)
+"ap" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor,/area/awaymission/longhaul)
+"aq" = (/turf/simulated/floor,/area/awaymission/longhaul)
+"ar" = (/obj/machinery/light{dir = 1},/turf/simulated/floor,/area/awaymission/longhaul)
+"as" = (/obj/structure/sink{dir = 4; icon_state = "sink"; pixel_x = 11; pixel_y = 0},/turf/simulated/floor,/area/awaymission/longhaul)
+"at" = (/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/obj/structure/window/reinforced,/turf/space,/area/awaymission/longhaul)
+"au" = (/obj/machinery/power/terminal{icon_state = "term"; dir = 1},/obj/structure/cable{d2 = 2; icon_state = "0-2"; pixel_y = 0},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"av" = (/obj/machinery/light{dir = 8},/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"aw" = (/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"ax" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"ay" = (/obj/structure/closet{icon_closed = "cabinet_closed"; icon_opened = "cabinet_open"; icon_state = "cabinet_closed"},/obj/item/clothing/shoes/combat,/obj/item/clothing/suit/storage/labcoat/red,/obj/item/clothing/under/pilot,/obj/item/clothing/under/color/blackf,/obj/item/clothing/head/beret,/obj/item/clothing/head/soft/mime,/turf/simulated/floor{icon_state = "bcarpet04"},/area/awaymission/longhaul)
+"az" = (/turf/simulated/floor{icon_state = "bcarpet05"},/area/awaymission/longhaul)
+"aA" = (/obj/structure/closet{icon_closed = "cabinet_closed"; icon_opened = "cabinet_open"; icon_state = "cabinet_closed"},/obj/item/clothing/shoes/combat,/obj/item/clothing/suit/storage/labcoat/purple,/obj/item/clothing/under/pilot,/obj/item/clothing/under/rank/bartender,/obj/item/clothing/head/soft/purple,/obj/item/clothing/head/soft/mime,/obj/item/clothing/head/kitty,/turf/simulated/floor{icon_state = "bcarpet06"},/area/awaymission/longhaul)
+"aB" = (/obj/structure/toilet{dir = 4},/turf/simulated/floor,/area/awaymission/longhaul)
+"aC" = (/obj/machinery/shower{icon_state = "shower"; dir = 8},/turf/simulated/floor,/area/awaymission/longhaul)
+"aD" = (/turf/space,/turf/simulated/shuttle/wall{icon_state = "diagonalWall3"},/area/awaymission/longhaul)
+"aE" = (/obj/structure/cable{d1 = 1; d2 = 4; icon_state = "1-4"; tag = ""},/obj/machinery/light{dir = 8},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"aF" = (/obj/structure/cable{d1 = 1; d2 = 4; icon_state = "1-4"; tag = ""},/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"; pixel_x = 0},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"aG" = (/obj/structure/cable{d1 = 2; d2 = 8; icon_state = "2-8"},/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"; tag = ""},/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"aH" = (/obj/structure/table,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"aI" = (/obj/structure/stool,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"aJ" = (/obj/structure/table,/obj/item/weapon/reagent_containers/food/condi/k_packet,/obj/item/weapon/reagent_containers/food/condi/k_packet,/obj/item/weapon/reagent_containers/food/condi/k_packet,/obj/item/weapon/reagent_containers/food/condi/h_packet,/obj/item/weapon/reagent_containers/food/condi/h_packet,/obj/item/weapon/reagent_containers/food/condi/h_packet,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"aK" = (/obj/item/toy/teddy,/obj/structure/stool/bed,/obj/item/weapon/bedsheet/blue,/turf/simulated/floor{icon_state = "bcarpet04"},/area/awaymission/longhaul)
+"aL" = (/obj/structure/stool/bed,/obj/item/weapon/bedsheet/red,/turf/simulated/floor{icon_state = "bcarpet06"},/area/awaymission/longhaul)
+"aM" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/obj/structure/window/reinforced{dir = 1},/turf/space,/area/awaymission/longhaul)
+"aN" = (/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"aO" = (/obj/machinery/power/apc{dir = 4; name = "east bump"; pixel_x = 24},/obj/structure/cable,/obj/machinery/power/terminal{dir = 4},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"aP" = (/obj/structure/table,/obj/item/pizzabox/meat,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"aQ" = (/obj/structure/closet/crate/bin,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"aR" = (/obj/structure/table,/obj/item/weapon/lighter,/obj/item/weapon/reagent_containers/food/condiment/peppermill,/obj/item/weapon/reagent_containers/food/condiment/saltshaker,/obj/item/weapon/reagent_containers/food/condiment/enzyme,/obj/item/weapon/storage/fancy/cigarettes,/turf/simulated/floor{icon_state = "cafeteria"; dir = 2},/area/awaymission/longhaul)
+"aS" = (/obj/structure/table/woodentable,/obj/item/device/flashlight/lamp,/turf/simulated/floor{icon_state = "bcarpet07"},/area/awaymission/longhaul)
+"aT" = (/turf/simulated/floor{icon_state = "bcarpet08"},/area/awaymission/longhaul)
+"aU" = (/obj/structure/table/woodentable,/obj/item/device/flashlight/lamp,/turf/simulated/floor{icon_state = "bcarpet09"},/area/awaymission/longhaul)
+"aV" = (/obj/structure/table/reinforced,/obj/item/weapon/contraband/poster,/obj/item/weapon/gun/energy/clarineta/silenced,/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"aW" = (/obj/structure/table/reinforced,/obj/item/device/radio,/obj/item/device/gps,/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"aX" = (/obj/machinery/blackbox_recorder,/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"aY" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/turf/space,/area/awaymission/longhaul)
+"aZ" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"ba" = (/turf/simulated/floor{dir = 1; icon_state = "rampbottom"; tag = "icon-rampbottom (SOUTHEAST)"},/area/awaymission/longhaul)
+"bb" = (/obj/structure/table/reinforced,/obj/machinery/recharger,/obj/machinery/light{dir = 8},/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"bc" = (/obj/structure/stool/bed/chair/office/dark{dir = 4},/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"bd" = (/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"be" = (/obj/structure/grille,/obj/structure/window/plasmareinforced,/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (EAST)"; icon_state = "plasmarwindow"; dir = 4},/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (NORTH)"; icon_state = "plasmarwindow"; dir = 1},/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (WEST)"; icon_state = "plasmarwindow"; dir = 8},/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (NORTHEAST)"; icon_state = "plasmarwindow"; dir = 5},/turf/simulated/floor/plating,/area/awaymission/longhaul)
+"bf" = (/obj/structure/closet/secure_closet/engineering_electrical,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bg" = (/obj/machinery/light,/obj/machinery/light{dir = 1},/turf/simulated/floor,/area/awaymission/longhaul)
+"bh" = (/turf/simulated/floor{dir = 4; icon_state = "rampbottom"; tag = "icon-rampbottom (SOUTHEAST)"},/area/awaymission/longhaul)
+"bi" = (/obj/structure/stool/bed/chair/office/light{dir = 4},/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"bj" = (/obj/machinery/computer/shuttle,/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"bk" = (/obj/structure/grille,/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (EAST)"; icon_state = "plasmarwindow"; dir = 4},/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (NORTH)"; icon_state = "plasmarwindow"; dir = 1},/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (WEST)"; icon_state = "plasmarwindow"; dir = 8},/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (NORTHEAST)"; icon_state = "plasmarwindow"; dir = 5},/turf/simulated/floor/plating,/area/awaymission/longhaul)
+"bl" = (/obj/structure/closet/secure_closet/engineering_welding,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bm" = (/turf/simulated/floor{dir = 2; icon_state = "rampbottom"; tag = "icon-rampbottom (SOUTHEAST)"},/area/awaymission/longhaul)
+"bn" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"bo" = (/obj/structure/window/reinforced{dir = 4},/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/obj/structure/window/reinforced,/turf/space,/area/awaymission/longhaul)
+"bp" = (/obj/structure/closet/toolcloset,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bq" = (/obj/mecha/working/ripley/firefighter,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 9},/area/awaymission/longhaul)
+"br" = (/obj/mecha/working/ripley/firefighter,/turf/simulated/floor/plating{dir = 1; icon_state = "warnplate"; nitrogen = 0.01; oxygen = 0.01},/area/awaymission/longhaul)
+"bs" = (/turf/simulated/floor/plating{dir = 1; icon_state = "warnplate"; nitrogen = 0.01; oxygen = 0.01},/area/awaymission/longhaul)
+"bt" = (/obj/mecha/combat/phazon,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 5},/area/awaymission/longhaul)
+"bu" = (/obj/structure/rack,/obj/item/clothing/suit/space/rig/engineering,/obj/item/clothing/head/helmet/space/rig/engineering,/obj/item/weapon/storage/belt/stormtrooper/engineer,/turf/simulated/floor{dir = 9; icon_state = "yellowsiding"; tag = "icon-yellowsiding (SOUTHEAST)"},/area/awaymission/longhaul)
+"bv" = (/turf/simulated/floor{dir = 1; icon_state = "yellowsiding"; tag = "icon-yellowsiding"},/area/awaymission/longhaul)
+"bw" = (/obj/structure/closet,/obj/item/clothing/shoes/stormtrooper,/obj/item/clothing/tie/holster,/obj/item/clothing/tie/ert_dogtags{name = "dogtags"},/obj/item/clothing/under/stormtrooper,/obj/item/clothing/mask/gas/fluff/stefan_mask,/obj/item/clothing/gloves/stormtrooper,/obj/item/weapon/melee/telebaton,/obj/item/weapon/gun/projectile/laserminigun/rifle,/obj/item/ammo_magazine/redcellbox,/obj/item/weapon/gun/energy/clarineta,/obj/item/weapon/card/id/captains_spare/clone,/turf/simulated/floor{dir = 5; icon_state = "yellowsiding"; tag = "icon-yellowsiding (SOUTHEAST)"},/area/awaymission/longhaul)
+"bx" = (/obj/structure/rack,/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"by" = (/mob/living/simple_animal/cat{name = "Matches"},/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"bz" = (/obj/machinery/newscaster{layer = 3.3; pixel_x = 27; pixel_y = 0},/obj/machinery/door_control{id = "enteria_cannon"; name = "cannon shutter"; pixel_x = 6; pixel_y = -30},/obj/machinery/driver_button{id = "enteria_gun"; name = "cannon launch"; pixel_x = -6; pixel_y = -30},/turf/simulated/floor/wood,/area/awaymission/longhaul)
+"bA" = (/turf/space,/turf/simulated/shuttle/wall{dir = 4; icon_state = "diagonalWall3"},/area/awaymission/longhaul)
+"bB" = (/turf/space,/turf/simulated/shuttle/wall{dir = 8; icon_state = "diagonalWall3"},/area/awaymission/longhaul)
+"bC" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/table/reinforced,/obj/item/weapon/storage/toolbox/mechanical,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bD" = (/obj/structure/window/reinforced{dir = 1},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bE" = (/obj/machinery/door/window/northright,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bF" = (/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 8},/area/awaymission/longhaul)
+"bG" = (/turf/simulated/floor/plating,/area/awaymission/longhaul)
+"bH" = (/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 4},/area/awaymission/longhaul)
+"bI" = (/obj/structure/rack,/obj/item/weapon/storage/belt/stormtrooper/shotgunner,/obj/item/clothing/suit/space/rig/storm,/obj/item/clothing/head/helmet/space/rig/storm,/turf/simulated/floor{tag = "icon-yellowsiding (WEST)"; icon_state = "yellowsiding"; dir = 8},/area/awaymission/longhaul)
+"bJ" = (/obj/structure/closet,/obj/item/clothing/shoes/stormtrooper,/obj/item/clothing/tie/holster,/obj/item/clothing/tie/ert_dogtags{name = "dogtags"},/obj/item/clothing/under/stormtrooper,/obj/item/clothing/mask/gas/fluff/stefan_mask,/obj/item/clothing/gloves/stormtrooper,/obj/item/ammo_magazine/redcellbox,/obj/item/weapon/gun/energy/clarineta,/obj/item/weapon/card/id/captains_spare/clone,/obj/item/weapon/gun/projectile/automatic/mini_uzi/clone,/turf/simulated/floor{dir = 4; icon_state = "yellowsiding"; tag = "icon-yellowsiding (WEST)"},/area/awaymission/longhaul)
+"bK" = (/obj/machinery/door/window/northright,/obj/machinery/door/window/southright,/turf/simulated/floor/plating,/area/awaymission/longhaul)
+"bL" = (/turf/simulated/shuttle/wall{icon_state = "pwall"; dir = 1},/area/awaymission/longhaul)
+"bM" = (/obj/structure/window/reinforced,/turf/space,/area/awaymission/longhaul)
+"bN" = (/obj/structure/table/reinforced,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bO" = (/obj/item/weapon/storage/lockbox/loyalty,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 8},/area/awaymission/longhaul)
+"bP" = (/obj/structure/AIcore/deactivated,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 4},/area/awaymission/longhaul)
+"bQ" = (/obj/machinery/light{dir = 8},/turf/simulated/floor{tag = "icon-yellowsiding (WEST)"; icon_state = "yellowsiding"; dir = 8},/area/awaymission/longhaul)
+"bR" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor{dir = 4; icon_state = "yellowsiding"; tag = "icon-yellowsiding (WEST)"},/area/awaymission/longhaul)
+"bS" = (/obj/machinery/mass_driver{dir = 4; id = "enteria_gun"},/turf/simulated/floor/plating,/area/awaymission/longhaul)
+"bT" = (/obj/machinery/door/poddoor/shutters{id = "enteria_cannon"; name = "cannon shutter"},/turf/simulated/floor/plating,/area/awaymission/longhaul)
+"bU" = (/turf/space,/area/awaymission/longhaul)
+"bV" = (/mob/living/silicon/decoy{desc = "The ships AI."; memory = "I am the ships AI, I should look after it's crew."; name = "PiBot"},/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bW" = (/obj/structure/table/reinforced,/obj/item/device/aicard,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/awaymission/longhaul)
+"bX" = (/obj/structure/dispenser,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 10},/area/awaymission/longhaul)
+"bY" = (/obj/structure/dispenser,/turf/simulated/floor/plating{dir = 2; icon_state = "warnplate"},/area/awaymission/longhaul)
+"bZ" = (/turf/simulated/floor/plating{dir = 2; icon_state = "warnplate"},/area/awaymission/longhaul)
+"ca" = (/obj/structure/largecrate/mule,/turf/simulated/floor/plating{dir = 2; icon_state = "warnplate"},/area/awaymission/longhaul)
+"cb" = (/obj/structure/largecrate/mule,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 6},/area/awaymission/longhaul)
+"cc" = (/obj/structure/closet,/obj/item/device/flashlight/heavy,/obj/item/device/flashlight/heavy,/obj/item/device/camera,/obj/item/device/camera_film,/obj/item/device/binoculars,/obj/item/device/analyzer,/obj/item/device/lightreplacer,/obj/item/device/hailer,/turf/simulated/floor{tag = "icon-yellowsiding (SOUTHWEST)"; icon_state = "yellowsiding"; dir = 10},/area/awaymission/longhaul)
+"cd" = (/obj/machinery/bot/medbot,/turf/simulated/floor{tag = "icon-yellowsiding"; icon_state = "yellowsiding"; dir = 2},/area/awaymission/longhaul)
+"ce" = (/obj/machinery/washing_machine,/turf/simulated/floor{tag = "icon-yellowsiding"; icon_state = "yellowsiding"; dir = 2},/area/awaymission/longhaul)
+"cf" = (/obj/structure/closet/secure_closet/guncabinet,/obj/item/weapon/gun/energy/laser,/obj/item/toy/prize/odysseus,/turf/simulated/floor{tag = "icon-yellowsiding (SOUTHEAST)"; icon_state = "yellowsiding"; dir = 6},/area/awaymission/longhaul)
+"cg" = (/obj/structure/window/reinforced{dir = 1},/turf/space,/area/awaymission/longhaul)
+"ch" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor/plating,/area/awaymission/longhaul)
+"ci" = (/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (NORTH)"; icon_state = "plasmarwindow"; dir = 1},/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/turf/space,/area/awaymission/sheep/smallship)
+"cj" = (/turf/space,/turf/simulated/shuttle/wall{dir = 1; icon_state = "diagonalWall3"},/area/awaymission/sheep/smallship)
+"ck" = (/turf/simulated/wall,/area/awaymission/sheep/smallship)
+"cl" = (/obj/structure/disposalpipe/segment{dir = 4; icon_state = "pipe-c"},/turf/simulated/wall,/area/awaymission/sheep/smallship)
+"cm" = (/turf/space,/obj/structure/disposalpipe/trunk{dir = 8},/obj/structure/disposaloutlet{dir = 4},/turf/simulated/shuttle/wall{dir = 1; icon_state = "diagonalWall3"},/area/awaymission/sheep/smallship)
+"cn" = (/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (EAST)"; icon_state = "plasmarwindow"; dir = 4},/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (NORTH)"; icon_state = "plasmarwindow"; dir = 1},/turf/space,/area/awaymission/sheep/smallship)
+"co" = (/obj/structure/closet,/obj/item/clothing/gloves/stormtrooper,/obj/item/clothing/shoes/stormtrooper,/obj/item/clothing/tie/holster,/obj/item/clothing/tie/armband/med{name = "pilot armband"},/obj/item/weapon/extinguisher/mini,/obj/item/clothing/suit/space/rig/storm,/obj/item/clothing/head/helmet/space/rig/storm,/obj/item/weapon/card/id/captains_spare/clone,/obj/item/weapon/storage/belt/stormtrooper/medical,/obj/item/weapon/gun/projectile/automatic/mini_uzi/clone,/obj/item/device/camera,/obj/item/weapon/card/id/centcom,/obj/item/clothing/under/stormtrooper,/obj/item/weapon/folder/red,/obj/item/weapon/folder/red,/obj/item/weapon/folder/red,/turf/simulated/floor/plating,/area/awaymission/sheep/smallship)
+"cp" = (/obj/structure/closet,/obj/item/clothing/gloves/stormtrooper,/obj/item/clothing/shoes/stormtrooper,/obj/item/clothing/tie/holster,/obj/item/clothing/tie/armband/med{name = "pilot armband"},/obj/item/weapon/extinguisher/mini,/obj/item/clothing/suit/space/rig/storm,/obj/item/clothing/head/helmet/space/rig/storm,/obj/item/weapon/card/id/captains_spare/clone,/obj/item/weapon/storage/belt/stormtrooper/engineer,/obj/item/weapon/gun/projectile/cellrevolver/compact,/obj/item/weapon/gun/energy/clarineta/heavy,/obj/item/clothing/under/schoolgirl,/obj/item/clothing/under/stormtrooper,/obj/item/weapon/pen,/obj/item/weapon/storage/photo_album,/obj/item/weapon/storage/photo_album,/turf/simulated/floor/plating,/area/awaymission/sheep/smallship)
+"cq" = (/obj/structure/closet/crate,/obj/item/weapon/grenade/empgrenade,/obj/item/weapon/grenade/empgrenade,/obj/item/weapon/grenade/empgrenade,/obj/item/weapon/grenade/empgrenade,/obj/item/weapon/grenade/empgrenade,/obj/item/weapon/grenade/spawnergrenade/spesscarp,/obj/item/weapon/grenade/spawnergrenade/spesscarp,/turf/simulated/floor/plating,/area/awaymission/sheep/smallship)
+"cr" = (/obj/machinery/disposal,/obj/structure/disposalpipe/trunk{dir = 1},/turf/simulated/floor/plating,/area/awaymission/sheep/smallship)
+"cs" = (/obj/structure/grille,/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (NORTHEAST)"; icon_state = "plasmarwindow"; dir = 5},/turf/simulated/floor/plating,/area/awaymission/sheep/smallship)
+"ct" = (/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (EAST)"; icon_state = "plasmarwindow"; dir = 4},/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/turf/space,/area/awaymission/sheep/smallship)
+"cu" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/plating,/area/awaymission/sheep/smallship)
+"cv" = (/turf/simulated/floor/plating,/area/awaymission/sheep/smallship)
+"cw" = (/obj/structure/stool/bed/chair/comfy/black{dir = 4},/turf/simulated/floor/plating,/area/awaymission/sheep/smallship)
+"cx" = (/obj/machinery/computer/shuttle,/turf/simulated/floor/plating,/area/awaymission/sheep/smallship)
+"cy" = (/obj/structure/window/plasmareinforced{tag = "icon-plasmarwindow (EAST)"; icon_state = "plasmarwindow"; dir = 4},/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/obj/structure/window/plasmareinforced,/turf/space,/area/awaymission/sheep/smallship)
+"cz" = (/obj/structure/dispenser/oxygen,/turf/simulated/floor/plating,/area/awaymission/sheep/smallship)
+"cA" = (/obj/structure/closet/crate,/obj/item/weapon/grenade/flashbang/clusterbang,/obj/item/weapon/grenade/flashbang/clusterbang,/obj/item/weapon/grenade/flashbang/clusterbang,/obj/item/weapon/grenade/flashbang/clusterbang,/obj/item/weapon/grenade/flashbang/clusterbang,/turf/simulated/floor/plating,/area/awaymission/sheep/smallship)
+"cB" = (/obj/machinery/disposal,/obj/structure/disposalpipe/trunk,/turf/simulated/floor/plating,/area/awaymission/sheep/smallship)
+"cC" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor/plating,/area/awaymission/sheep/smallship)
+"cD" = (/obj/structure/disposalpipe/segment{dir = 1; icon_state = "pipe-c"},/turf/simulated/wall,/area/awaymission/sheep/smallship)
+"cE" = (/turf/space,/obj/structure/disposalpipe/trunk{dir = 8},/obj/structure/disposaloutlet{dir = 4},/turf/simulated/shuttle/wall{dir = 4; icon_state = "diagonalWall3"},/area/awaymission/sheep/smallship)
+"cF" = (/obj/structure/window/plasmareinforced,/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/turf/space,/area/awaymission/sheep/smallship)
+"cG" = (/turf/space,/turf/simulated/shuttle/wall{dir = 4; icon_state = "diagonalWall3"},/area/awaymission/sheep/smallship)
+"cH" = (/turf/simulated/wall,/area/space)
+"cI" = (/turf/simulated/wall,/area/awaymission/sheep/standardship)
+"cJ" = (/obj/structure/device/piano,/turf/simulated/floor/wood,/area/awaymission/sheep/standardship)
+"cK" = (/obj/structure/stool,/turf/simulated/floor/wood,/area/awaymission/sheep/standardship)
+"cL" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/wood,/area/awaymission/sheep/standardship)
+"cM" = (/obj/structure/stool/bed/chair{dir = 4},/turf/simulated/floor/wood,/area/awaymission/sheep/standardship)
+"cN" = (/obj/structure/table,/turf/simulated/floor/wood,/area/awaymission/sheep/standardship)
+"cO" = (/obj/structure/stool/bed/chair{dir = 8},/turf/simulated/floor/wood,/area/awaymission/sheep/standardship)
+"cP" = (/obj/structure/closet/secure_closet/bar,/obj/item/clothing/tie/holster,/obj/item/clothing/tie/ert_dogtags{desc = "Charlie - Funsquad"; name = "dogtags"},/obj/item/clothing/shoes/combat,/obj/item/clothing/head/soft/mime,/turf/simulated/floor/wood,/area/awaymission/sheep/standardship)
+"cQ" = (/turf/simulated/floor/wood,/area/awaymission/sheep/standardship)
+"cR" = (/obj/structure/table,/obj/item/clothing/gloves/watch,/turf/simulated/floor/wood,/area/awaymission/sheep/standardship)
+"cS" = (/obj/structure/dispenser/oxygen,/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"cT" = (/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"cU" = (/obj/machinery/light{icon_state = "tube1"; dir = 4},/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"cV" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 5; health = 1e+007; icon_state = "rwindow4"},/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"cW" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 5; health = 1e+007; icon_state = "rwindow8"},/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"cX" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 5; health = 1e+007; icon_state = "rwindow2"},/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"cY" = (/obj/structure/sign/vacuum,/turf/simulated/wall,/area/awaymission/sheep/standardship)
+"cZ" = (/obj/structure/dispenser/oxygen,/obj/machinery/light{dir = 8},/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"da" = (/turf/simulated/floor/greengrid,/area/awaymission/sheep/standardship)
+"db" = (/obj/structure/table,/obj/machinery/recharger,/turf/simulated/floor/greengrid,/area/awaymission/sheep/standardship)
+"dc" = (/obj/structure/table,/turf/simulated/floor/greengrid,/area/awaymission/sheep/standardship)
+"dd" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 5; health = 1e+007; icon_state = "rwindow3"},/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"de" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 8},/area/awaymission/sheep/standardship)
+"df" = (/turf/simulated/floor/plating,/area/awaymission/sheep/standardship)
+"dg" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 4},/area/awaymission/sheep/standardship)
+"dh" = (/obj/structure/stool/bed/chair/office/light{dir = 1},/turf/simulated/floor/greengrid,/area/awaymission/sheep/standardship)
+"di" = (/obj/machinery/computer/shuttle,/turf/simulated/floor/greengrid,/area/awaymission/sheep/standardship)
+"dj" = (/obj/structure/stool/bed/chair/office/light,/turf/simulated/floor/greengrid,/area/awaymission/sheep/standardship)
+"dk" = (/obj/structure/table,/obj/item/device/flashlight/lantern,/obj/item/device/flashlight/lantern,/obj/item/device/flashlight/lantern,/obj/item/device/flashlight/lantern,/turf/simulated/floor/greengrid,/area/awaymission/sheep/standardship)
+"dl" = (/obj/structure/coatrack,/obj/machinery/light{dir = 8},/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"dm" = (/obj/structure/table,/obj/item/weapon/card/id/captains_spare{desc = "An ID card."; name = "ID card"; registered_name = "Northern"},/turf/simulated/floor/greengrid,/area/awaymission/sheep/standardship)
+"dn" = (/obj/structure/table,/obj/item/weapon/card/id/captains_spare{desc = "An ID card."; name = "ID card"; registered_name = "Charlie"},/turf/simulated/floor/greengrid,/area/awaymission/sheep/standardship)
+"do" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 5; health = 1e+007; icon_state = "rwindow1"},/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"dp" = (/obj/machinery/power/apc/super{pixel_y = 24},/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"dq" = (/obj/machinery/iv_drip,/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"dr" = (/obj/machinery/floodlight,/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"ds" = (/obj/machinery/power/port_gen/pacman,/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"dt" = (/obj/machinery/light,/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"du" = (/obj/mecha/working/hoverpod,/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"dv" = (/obj/mecha/working/ripley/mining,/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"dw" = (/obj/structure/closet,/obj/item/weapon/gun/projectile/pistol,/obj/item/weapon/gun/energy/rifle/gun,/obj/item/clothing/gloves/stormtrooper,/obj/item/clothing/shoes/stormtrooper,/obj/item/clothing/mask/gas/fluff/stefan_mask,/obj/item/clothing/gloves/stormtrooper,/obj/item/clothing/gloves/stormtrooper,/obj/item/weapon/storage/belt/military,/obj/item/weapon/storage/backpack/satchel_med,/obj/item/ammo_magazine/mc9mm,/obj/item/ammo_magazine/mc9mm,/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"dx" = (/obj/structure/closet,/obj/item/weapon/gun/projectile/pistol,/obj/item/weapon/gun/energy/rifle/gun,/obj/item/clothing/gloves/stormtrooper,/obj/item/clothing/shoes/stormtrooper,/obj/item/clothing/mask/gas/fluff/stefan_mask,/obj/item/clothing/gloves/stormtrooper,/obj/item/clothing/gloves/stormtrooper,/obj/item/weapon/storage/belt/military,/obj/item/weapon/storage/backpack/satchel_med,/obj/item/ammo_magazine/mc9mm,/obj/item/ammo_magazine/mc9mm,/obj/machinery/light,/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"dy" = (/obj/structure/closet,/turf/simulated/floor,/area/awaymission/sheep/standardship)
+"dz" = (/obj/structure/closet,/obj/item/clothing/suit/space/rig/engineering,/obj/item/clothing/shoes/work_boots,/obj/item/clothing/head/helmet/space/rig/engineering,/obj/item/weapon/storage/backpack/satchel_norm,/turf/simulated/floor,/area/awaymission/sheep/standardship)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaacacacacacacacacacacacacacadadacacacacacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaeacafafafacagahaiajakalacamananaoapaqarasacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaatacauauauacavawawawawaxacayazazaAacaBaqaCacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaDaEaFaGacaHaIawawawaJacaKazazaLacacadacacaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaMaNaNaOacaPaIawawaQaRacaSaTaTaUacaVaWaXacabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaYaNaNaZacacacbabaacacacacbabaacacbbbcbdbdbebebeaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaYbfaNaNapaqbgaqaqbgaqaqbgaqaqbgbhbdbdbdbdbibjbkaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaYblaNaZacacacbmbmacacacacbmbmacacbnbdbdbdbebebeaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabobpaNaNacbqbrbsbsbsbtacbubvbvbwacbxbybzacbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabBbCbDbEacbFbGbGbGbGbHacbIaqaqbJacacbKacbLbMbMbMaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaeacbNaNaZacbObGbGbGbGbPacbQaqaqbRacbSbGbGbTbGbUbUaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaatacbNbVbWacbXbYbZbZcacbaccccdcecfacacacacbLcgcgcgaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaacacacacacacacchchacacacacacacacacbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaacbAaaaaaDacacbGbGacacbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaabAaaaaaaaaaDacchchacbAaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacicjaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaackckckckclcmaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacncocpcqcrcscscsaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaactcucvcvcvcwcxcsaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacyczcvcAcBcscscsaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaackckcCckcDcEaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacFcGaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacHcIcIcIcIcIcIcIcIcIcIcIaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacIcJcKcLcMcNcOcLcPcPcIaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacIcQcQcMcRcOcQcQcQcQcIaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacIcQcQcQcQcQcQcQcQcQcIaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacIcScTcTcTcTcTcTcTcUcVcWcXaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacIcIcIcIcYcZcTcTcTcTcTcTcTdadbdcddaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadedfdfdfdgcTcTcTcTcTcTcTcTdadhdiddaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaadedfdfdfdgcTcTcTcTcTcTcTcTdadjdkddaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacIcIcIcIcIdlcTcTcTcTcTcTcTdadmdnddaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacIcTcTcTcTcTcTcTcTcUcVcWdoaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacIdpcTcTcTcTcTcTcTcTcIaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacIdqcTcTcTcTcTcTcTcTcIaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacIdrdsdtdudvdwdxdydzcIaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaacHcIcIcIcIcIcIcIcIcIcIcIaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

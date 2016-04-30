@@ -1,0 +1,48 @@
+"a" = (/turf/simulated/mineral{name = "Mountain Wall"; nitrogen = 82.1472; oxygen = 21.8366; temperature = 393.15},/area/sheep/snow/trader)
+"b" = (/turf/simulated/floor/plating/snow,/area/sheep/snow/trader)
+"c" = (/turf/simulated/wall,/area/sheep/snow/trader)
+"d" = (/obj/structure/target_stake,/turf/simulated/floor/plating/snow,/area/sheep/snow/trader)
+"e" = (/obj/structure/reagent_dispensers/beerkeg,/turf/simulated/floor/wood,/area/sheep/snow/trader)
+"f" = (/turf/simulated/floor/wood,/area/sheep/snow/trader)
+"g" = (/obj/structure/closet/crate,/obj/item/weapon/gun/projectile/rifle/mis556,/obj/item/weapon/gun/projectile/cellrevolver,/turf/simulated/floor/wood,/area/sheep/snow/trader)
+"h" = (/obj/structure/closet/crate,/obj/item/weapon/gun/energy/clarineta/heavy,/obj/item/weapon/gun/energy/clarineta/silenced,/obj/item/weapon/gun/energy/clarineta,/turf/simulated/floor/wood,/area/sheep/snow/trader)
+"i" = (/obj/structure/closet/crate,/obj/item/weapon/gun/energy/clarineta/fire,/obj/item/weapon/gun/projectile/fourtyfours/snub{ammo_type = /obj/item/ammo_casing/custom/incendiary},/obj/item/weapon/extinguisher/mini,/obj/item/weapon/extinguisher/mini,/turf/simulated/floor/wood,/area/sheep/snow/trader)
+"j" = (/obj/structure/curtain,/turf/simulated/floor/wood,/area/sheep/snow/trader)
+"k" = (/obj/structure/table/rack,/turf/simulated/floor/wood,/area/sheep/snow/trader)
+"l" = (/obj/structure/table/rack,/obj/item/clothing/suit/chaplain_hoodie,/obj/item/clothing/under/det/black,/obj/item/clothing/head/chaplain_hood,/obj/item/clothing/gloves/black,/obj/item/clothing/shoes/combat,/obj/item/clothing/accessory/holster,/turf/simulated/floor/wood,/area/sheep/snow/trader)
+"m" = (/obj/structure/table/rack,/obj/item/target,/obj/item/target,/obj/item/target,/obj/item/target/alien,/obj/item/target/alien,/obj/item/target/alien,/obj/item/target/syndicate,/obj/item/target/syndicate,/obj/item/target/syndicate,/turf/simulated/floor/wood,/area/sheep/snow/trader)
+"n" = (/obj/structure/table/gamblingtable,/turf/simulated/floor/wood,/area/sheep/snow/trader)
+"o" = (/obj/structure/signpost{name = "The 'World on Fire' sale."},/turf/simulated/floor/plating/snow,/area/sheep/snow/trader)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbccccccccccccccbdbdbdba
+abbbbbbbceefffffffffgcbbbbbbba
+abbbbbbbceefffffffffhcbbbbbbba
+abbbbbbbcffffffffffficbbbbbbba
+abbbbbbbcffffcjjcffffcbbbbbbba
+abbbbbbbcffffcffcffffcbbbbbbba
+abbbbbbbckkkkcffclkkmcbbbbbbba
+abbbbbbbccccccnnccccccbbbbbbba
+abbbbbbbbbbbbobbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+abbbbbbbbbbbbbbbbbbbbbbbbbbbba
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

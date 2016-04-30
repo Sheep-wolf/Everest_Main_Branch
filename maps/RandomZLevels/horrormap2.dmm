@@ -1,0 +1,122 @@
+"aa" = (/turf/space,/area/space)
+"ab" = (/turf/simulated/wall,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"ac" = (/obj/structure/closet,/obj/item/clothing/suit/chef/classic,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"ad" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"ae" = (/obj/structure/closet,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"af" = (/obj/machinery/vending/boozeomat,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"ag" = (/obj/structure/table/reinforced,/obj/machinery/chem_dispenser/soda,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"ah" = (/obj/structure/table/reinforced,/obj/machinery/chem_dispenser/beer,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"ai" = (/obj/structure/closet,/obj/item/clothing/under/sexymime,/obj/item/clothing/suit/suspenders,/obj/item/clothing/shoes/mime,/obj/item/clothing/mask/gas/sexymime,/obj/item/clothing/head/beret,/obj/item/clothing/gloves/white,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aj" = (/obj/structure/closet,/obj/item/clothing/under/rank/ert,/obj/item/clothing/tie/holster,/obj/item/clothing/suit/storage/ert,/obj/item/clothing/shoes/combat,/obj/item/weapon/melee/telebaton,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"ak" = (/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"al" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"am" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"an" = (/obj/structure/closet,/obj/item/clothing/under/syndicate,/obj/item/clothing/shoes/jackboots,/obj/item/clothing/tie/holster,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"ao" = (/obj/structure/closet,/obj/item/clothing/shoes/combat,/obj/item/clothing/under/color/blue,/obj/item/weapon/wrench,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"ap" = (/obj/structure/table/woodentable,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aq" = (/obj/machinery/door/window/southright,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"ar" = (/obj/structure/closet,/obj/item/clothing/under/swimsuit/purple,/obj/item/clothing/head/kitty,/obj/item/clothing/shoes/purple,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"as" = (/obj/structure/closet,/obj/item/clothing/under/shorts/grey,/obj/item/clothing/shoes/black,/obj/item/clothing/gloves/boxing/yellow,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"at" = (/obj/structure/stool/bed/chair/comfy/brown{dir = 4},/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"au" = (/obj/structure/closet,/obj/item/clothing/under/swimsuit/black,/obj/item/clothing/shoes/black,/obj/item/clothing/gloves/white,/obj/item/clothing/head/that,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"av" = (/obj/structure/mirror{dir = 4; pixel_x = -32; pixel_y = 0},/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aw" = (/obj/structure/stool/bed/chair/comfy/brown{dir = 8},/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"ax" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"ay" = (/turf/simulated/floor,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"az" = (/obj/machinery/light{dir = 1},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aA" = (/obj/machinery/light{dir = 8},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aB" = (/obj/machinery/light{dir = 4},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aC" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aD" = (/obj/structure/stool/bed/chair{dir = 4},/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aE" = (/obj/structure/stool/bed/chair{dir = 8},/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aF" = (/obj/structure/closet/crate,/obj/item/weapon/silencer,/obj/item/weapon/gun/projectile/pistol,/obj/item/weapon/gun/projectile/shotgun/doublebarrel{ammo_type = "/obj/item/ammo_casing/shotgun"},/obj/item/weapon/gun/energy/laser,/turf/simulated/floor{icon_state = "bcarpet01"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aG" = (/turf/simulated/floor{icon_state = "bcarpet02"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aH" = (/obj/structure/stool/bed/chair{dir = 4},/turf/simulated/floor{icon_state = "bcarpet02"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aI" = (/obj/structure/table/woodentable,/turf/simulated/floor{icon_state = "bcarpet02"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aJ" = (/obj/structure/stool/bed/chair{dir = 8},/turf/simulated/floor{icon_state = "bcarpet02"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aK" = (/obj/structure/stool/bed/chair/office/dark{dir = 8},/turf/simulated/floor{icon_state = "bcarpet03"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aL" = (/obj/structure/closet,/obj/item/clothing/under/gladiator,/obj/item/clothing/shoes/sandal,/obj/item/clothing/head/helmet/gladiator,/obj/item/weapon/gun/projectile/drei,/obj/item/weapon/crossbow,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aM" = (/obj/structure/closet,/obj/item/clothing/under/stripper/mankini,/obj/item/clothing/tie/red,/obj/item/clothing/suit/bomb_suit/security,/obj/item/clothing/shoes/work_boots,/obj/item/clothing/mask/balaclava,/obj/item/clothing/head/bomb_hood/security,/obj/item/clothing/gloves/black,/obj/item/clothing/glasses/science,/obj/item/weapon/gun/projectile/pistol,/obj/item/weapon/silencer,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aN" = (/obj/structure/closet,/obj/item/clothing/mask/gas/sexyclown,/obj/item/clothing/under/sexyclown,/obj/item/clothing/suit/armor/bulletproof,/obj/item/clothing/shoes/clown_shoes,/obj/item/clothing/head/festive,/obj/item/clothing/gloves/yellow,/obj/item/weapon/gun/energy/crossbow,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aO" = (/obj/structure/closet,/obj/item/clothing/under/rank/security2,/obj/item/clothing/tie/holster,/obj/item/clothing/suit/armor/hos/jensen,/obj/item/clothing/shoes/jackboots,/obj/item/clothing/mask/gas,/obj/item/clothing/head/beret/sec,/obj/item/clothing/gloves/black,/obj/item/clothing/glasses/sunglasses/sechud,/obj/item/weapon/gun/projectile/judge,/obj/item/weapon/melee/classic_baton,/obj/item/weapon/handcuffs,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aP" = (/obj/structure/table,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aQ" = (/turf/simulated/floor{icon_state = "bcarpet04"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aR" = (/turf/simulated/floor{icon_state = "bcarpet05"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aS" = (/obj/structure/stool/bed/chair{dir = 4},/turf/simulated/floor{icon_state = "bcarpet05"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aT" = (/obj/structure/table/woodentable,/turf/simulated/floor{icon_state = "bcarpet05"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aU" = (/obj/structure/table/woodentable,/obj/item/weapon/gun/projectile/minirevolver,/turf/simulated/floor{icon_state = "bcarpet05"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aV" = (/obj/structure/stool/bed/chair{dir = 8},/turf/simulated/floor{icon_state = "bcarpet05"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aW" = (/obj/structure/table/woodentable,/obj/item/weapon/cane/syndie,/turf/simulated/floor{icon_state = "bcarpet05"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aX" = (/turf/simulated/floor{icon_state = "bcarpet06"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aY" = (/obj/structure/closet,/obj/item/clothing/under/rank/clown,/obj/item/clothing/suit/armor/bulletproof,/obj/item/clothing/shoes/clown_shoes,/obj/item/clothing/mask/gas/clown_hat,/obj/item/clothing/head/festive,/obj/item/clothing/gloves/yellow,/obj/item/weapon/gun/energy/crossbow,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"aZ" = (/obj/structure/closet,/obj/item/clothing/under/kilt,/obj/item/clothing/head/greenbandana,/obj/item/clothing/shoes/combat,/obj/item/clothing/suit/wcoat,/obj/item/weapon/gun/projectile/pistol,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"ba" = (/obj/structure/closet,/obj/item/clothing/under/rank/bartender,/obj/item/clothing/suit/wcoat,/obj/item/clothing/shoes/black,/obj/item/clothing/head/that,/obj/item/weapon/gun/projectile/pistol,/obj/item/weapon/gun/projectile/pistol,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bb" = (/obj/structure/closet,/obj/item/clothing/head/pirate,/obj/item/clothing/shoes/combat,/obj/item/clothing/suit/pirate,/obj/item/clothing/tie/holster,/obj/item/weapon/gun/projectile/fourtyfours,/obj/item/weapon/gun/projectile/drei,/obj/item/weapon/gun/projectile/drei,/obj/item/clothing/under/pirate,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bc" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bd" = (/obj/structure/stool/bed/chair{dir = 1},/turf/simulated/floor{icon_state = "bcarpet05"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"be" = (/obj/structure/closet,/obj/item/clothing/shoes/laceup,/obj/item/weapon/gun/projectile/drei,/obj/item/clothing/glasses/sunglasses,/obj/item/clothing/under/suit_jacket/female,/turf/simulated/floor{icon_state = "bcarpet06"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bf" = (/obj/machinery/light,/turf/simulated/floor{icon_state = "bcarpet07"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bg" = (/turf/simulated/floor{icon_state = "bcarpet08"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bh" = (/obj/machinery/light,/turf/simulated/floor{icon_state = "bcarpet08"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bi" = (/obj/structure/closet,/turf/simulated/floor{icon_state = "bcarpet09"},/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bj" = (/obj/machinery/door/unpowered/shuttle{name = "Office"},/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bk" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bl" = (/obj/structure/falsewall,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bm" = (/obj/structure/falsewall,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bn" = (/obj/machinery/light,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bo" = (/obj/structure/stool/bed/chair,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bp" = (/obj/machinery/door/window/northleft,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bq" = (/obj/structure/table/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/machinery/chem_dispenser/soda,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"br" = (/obj/structure/table/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/machinery/chem_dispenser/beer,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bs" = (/obj/structure/table/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bt" = (/obj/machinery/light{dir = 4; icon_state = "tube1"},/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bu" = (/obj/structure/table/reinforced,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bv" = (/obj/structure/stool,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bw" = (/obj/structure/mopbucket,/turf/simulated/floor,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bx" = (/obj/structure/table/reinforced,/obj/item/weapon/reagent_containers/glass/rag,/obj/item/weapon/reagent_containers/food/drinks/shaker,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"by" = (/obj/structure/reagent_dispensers/beerkeg,/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bz" = (/obj/structure/stool/bed/chair{dir = 1},/turf/simulated/floor/wood,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+"bA" = (/obj/machinery/door/airlock/external{frequency = 1381; icon_state = "door_locked"; id_tag = "telecoms_outer"; locked = 1; name = "External Access"; req_access = null; req_access_txt = "10;13"},/turf/simulated/floor,/area/awaymission/sheep/horrormaps/vampirestripjoint)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabacadaeabafagahabaeadaiabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabajakaeabalakamabaeakanabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabaoakaeabapapaqabaeakarabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabasakaeabatakakabaeakauabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaabavakakabatakawabavakakabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abababaxabababaxabababaxabababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abayazayazayazayazayazayazayabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+abayayayayayayayayayayayayayabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+ababababayayabababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabaAaBabayayayayayayayabaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaabayayabayababababaxaxababababababababababababababababababababababaaaaaaaa
+aaaaaaabayayabayabaCaDakapapakaEamabaFaGaHaIaIaJaGaIaKabaLadaMabaNadaOabaaaaaaaa
+aaaaaaabayayabayabaDaPakapapakaPaEabaQaRaSaTaUaVaRaWaXabaYakaZabbaakbbabaaaaaaaa
+aaaaaaabayayabbcabaDaPakapapakaPaEabaQaRaRbdbdaRaRaRaXabatakawabatakawabaaaaaaaa
+aaaaaaabayayabayabakaDakapapakaEakabaQaRaRaRaRaRaRaRbeabapakapabapakapabaaaaaaaa
+aaaaaaabayayabayabakakakakakakakakabbfbgbgbhbgbgbgbgbiabatakawabatakawabaaaaaaaa
+aaaaaaabayayabayabaCakakakakakakamababbjbjababababababababbkabababbkababababaaaa
+aaaaaaabaAaBabayababababbkbkababababadakakadakakakakakakakakakakakakakaxayabaaaa
+aaaaaaabayayaxayayblakadakakadakakbmakakakakakakakakakakakakakakakakakabayabaaaa
+aaaaaaabayayaxayayblakbnakakbnakakbmakakakakakakakakakakakboaPboboaPboabayabaaaa
+aaaaaaababababayababababbkbkababababbpbqbrbsakakakakakakakakakakakakbtabayababab
+aaaaaaaaaaaaabayabaCakakakakakakamabakakakbubvakakakakaDakakakakakakakabayaybwab
+aaaaaaaaaaaaabayabakakakakakakakakabaCakakbubvakakakakaPakakakakakakakabayayaBab
+aaaaaaaaaaaaabayabakaDakapapakaEakabafakakbubvakakakakaDakakakakakakakabayayayab
+aaaaaaaaaaaaabbcabaDaPakapapakaPaEabbuakakbubvakakakakakakakakakakakbtababababab
+aaaaaaaaaaaaabayabaDaPakapapakaPaEabbxakbybubvakakakakakakbzaPbzbzaPbzabaaaaaaaa
+aaaaaaaaaaaaabayabaCaDakapapakaEamababababababababaxaxaxababababababababaaaaaaaa
+aaaaaaaaaaaaabayababababaxaxababababaaaaaaaaaaaaabayayayabaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabayayayayayayayabaaaaaaaaaaaaaaaaaaabayayayabaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaabababababababababaaaaaaaaaaaaaaaaaaabbAbAbAabaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

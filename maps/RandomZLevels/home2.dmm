@@ -1,0 +1,244 @@
+"aa" = (/obj/structure/bush,/turf/simulated/wall/r_wall,/area/space)
+"ab" = (/obj/structure/bush,/turf/simulated/floor/grass,/area/space)
+"ac" = (/turf/simulated/floor/grass,/area/space)
+"ad" = (/turf/simulated/wall,/area/space)
+"ae" = (/obj/structure/toilet,/turf/simulated/floor/wood,/area/space)
+"af" = (/obj/structure/table,/turf/simulated/floor/wood,/area/space)
+"ag" = (/obj/structure/table,/obj/item/device/flashlight/lamp,/turf/simulated/floor/wood,/area/space)
+"ah" = (/turf/simulated/floor/wood,/area/space)
+"ai" = (/obj/structure/stool/bed/chair/comfy,/turf/simulated/floor/wood,/area/space)
+"aj" = (/obj/structure/table,/obj/item/weapon/reagent_containers/blood/OPlus,/obj/item/weapon/reagent_containers/blood/BPlus,/obj/item/weapon/reagent_containers/blood/AMinus,/turf/simulated/floor/wood,/area/space)
+"ak" = (/obj/structure/closet/cabinet,/obj/item/clothing/under/dress/dress_orange,/obj/item/clothing/shoes/sandal,/turf/simulated/floor/wood,/area/space)
+"al" = (/obj/structure/closet/cabinet,/obj/item/clothing/under/dress/dress_saloon,/obj/item/clothing/shoes/sandal,/turf/simulated/floor/wood,/area/space)
+"am" = (/obj/structure/table,/obj/item/weapon/reagent_containers/blood/OMinus,/obj/item/weapon/reagent_containers/blood/BPlus,/obj/item/weapon/reagent_containers/blood/AMinus,/turf/simulated/floor/wood,/area/space)
+"an" = (/obj/item/weapon/claymore,/obj/structure/rack,/turf/simulated/floor/wood,/area/space)
+"ao" = (/obj/item/weapon/circular_saw,/obj/structure/rack,/turf/simulated/floor/wood,/area/space)
+"ap" = (/obj/item/weapon/hatchet/unathiknife,/obj/structure/rack,/turf/simulated/floor/wood,/area/space)
+"aq" = (/obj/item/weapon/katana,/obj/structure/rack,/turf/simulated/floor/wood,/area/space)
+"ar" = (/obj/item/weapon/pen{edge = 1; force = 100},/obj/structure/rack,/turf/simulated/floor/wood,/area/space)
+"as" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor/wood,/area/space)
+"at" = (/obj/structure/closet/coffin,/turf/simulated/floor/wood,/area/space)
+"au" = (/obj/structure/sink{icon_state = "sink"; dir = 8; pixel_x = -12; pixel_y = 2},/turf/simulated/floor/wood,/area/space)
+"av" = (/obj/structure/sink{dir = 4; icon_state = "sink"; pixel_x = 11; pixel_y = 0},/turf/simulated/floor/wood,/area/space)
+"aw" = (/obj/machinery/shower{dir = 1; pixel_y = 2},/turf/simulated/floor/wood,/area/space)
+"ax" = (/obj/structure/closet/cabinet,/obj/item/clothing/under/lawyer/purpsuit,/obj/item/clothing/tie/blue,/obj/item/clothing/suit/storage/lawyer/purpjacket,/obj/item/clothing/shoes/laceup,/turf/simulated/floor/wood,/area/space)
+"ay" = (/obj/structure/closet/cabinet,/obj/item/clothing/under/sl_suit,/obj/item/clothing/tie/red,/obj/item/clothing/suit/chaplain_hoodie,/obj/item/clothing/suit/storage/internalaffairs{name = "Suit Jacket"},/obj/item/clothing/shoes/laceup,/turf/simulated/floor/wood,/area/space)
+"az" = (/turf/simulated/floor{tag = "icon-stage_stairs (SOUTHEAST)"; icon_state = "stage_stairs"; dir = 6},/area/space)
+"aA" = (/obj/structure/showcase,/turf/simulated/floor/wood,/area/space)
+"aB" = (/obj/structure/bookcase,/turf/simulated/floor/wood,/area/space)
+"aC" = (/turf/simulated/floor/bluegrid,/area/space)
+"aD" = (/turf/simulated/floor{icon_state = "bcarpet01"},/area/space)
+"aE" = (/turf/simulated/floor{icon_state = "bcarpet02"},/area/space)
+"aF" = (/turf/simulated/floor{icon_state = "bcarpet03"},/area/space)
+"aG" = (/turf/simulated/floor/greengrid,/area/space)
+"aH" = (/obj/structure/table,/obj/item/candle,/turf/simulated/floor/wood,/area/space)
+"aI" = (/turf/simulated/floor{icon_state = "bcarpet04"},/area/space)
+"aJ" = (/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"aK" = (/obj/structure/stool/bed/chair/wood/normal,/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"aL" = (/turf/simulated/floor{icon_state = "bcarpet06"},/area/space)
+"aM" = (/turf/simulated/floor/engine/cult,/area/space)
+"aN" = (/obj/structure/table,/obj/item/clothing/head/magus,/turf/simulated/floor/wood,/area/space)
+"aO" = (/obj/structure/stool/bed/chair/wood/normal{tag = "icon-wooden_chair (EAST)"; icon_state = "wooden_chair"; dir = 4},/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"aP" = (/obj/structure/table/woodentable,/obj/item/trash/plate,/obj/item/weapon/organ/r_foot,/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"aQ" = (/obj/structure/table/woodentable,/obj/item/trash/tray,/obj/item/weapon/organ/head,/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"aR" = (/obj/structure/table/woodentable,/obj/item/weapon/reagent_containers/food/drinks/bottle/cognac,/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"aS" = (/obj/structure/table/woodentable,/obj/item/trash/snack_bowl,/obj/item/weapon/organ/l_arm,/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"aT" = (/obj/structure/table/woodentable,/obj/item/trash/candle,/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"aU" = (/obj/structure/table/woodentable,/obj/item/trash/plate,/obj/item/weapon/organ/l_foot,/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"aV" = (/obj/structure/table/woodentable,/obj/item/weapon/reagent_containers/food/drinks/bottle/wine,/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"aW" = (/obj/structure/table/woodentable,/obj/item/trash/snack_bowl,/obj/item/weapon/organ/r_arm,/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"aX" = (/obj/structure/table/woodentable,/obj/item/trash/bowl,/obj/item/weapon/organ/l_hand,/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"aY" = (/obj/structure/stool/bed/chair/wood/normal{tag = "icon-wooden_chair (WEST)"; icon_state = "wooden_chair"; dir = 8},/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"aZ" = (/obj/structure/table,/obj/item/fluff/red_gemstone,/turf/simulated/floor/wood,/area/space)
+"ba" = (/obj/effect/rune,/obj/item/toy/prize/ripley,/turf/simulated/floor/engine/cult,/area/space)
+"bb" = (/obj/structure/table,/obj/item/clothing/mask/cigarette/pipe,/turf/simulated/floor/wood,/area/space)
+"bc" = (/obj/structure/table/woodentable,/obj/item/trash/waffles,/obj/item/weapon/organ/l_leg,/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"bd" = (/obj/structure/table/woodentable,/obj/item/trash/bowl,/obj/item/weapon/organ/r_hand,/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"be" = (/obj/structure/table/woodentable,/obj/item/trash/waffles,/obj/item/weapon/organ/r_leg,/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"bf" = (/obj/structure/table,/obj/item/fluff/david_fanning_1,/turf/simulated/floor/wood,/area/space)
+"bg" = (/obj/structure/stool/bed/chair/wood/normal{tag = "icon-wooden_chair (NORTH)"; icon_state = "wooden_chair"; dir = 1},/turf/simulated/floor{icon_state = "bcarpet05"},/area/space)
+"bh" = (/turf/simulated/floor{icon_state = "bcarpet07"},/area/space)
+"bi" = (/turf/simulated/floor{icon_state = "bcarpet08"},/area/space)
+"bj" = (/turf/simulated/floor{icon_state = "bcarpet09"},/area/space)
+"bk" = (/obj/structure/stool/bed/chair/wheelchair,/turf/simulated/floor/wood,/area/space)
+"bl" = (/obj/structure/coatrack,/turf/simulated/floor/wood,/area/space)
+"bm" = (/turf/simulated/wall,/area/home)
+"bn" = (/obj/structure/stool/bed,/obj/item/weapon/bedsheet/red,/obj/item/toy/katana,/turf/simulated/floor/wood,/area/home)
+"bo" = (/turf/simulated/floor/wood,/area/home)
+"bp" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/wood,/area/home)
+"bq" = (/obj/structure/table/woodentable,/obj/item/weapon/pen,/obj/item/weapon/paper_bin,/turf/simulated/floor/wood,/area/home)
+"br" = (/obj/structure/stool/bed/chair/comfy/teal,/turf/simulated/floor/wood,/area/home)
+"bs" = (/obj/structure/stool/bed,/obj/item/weapon/bedsheet/brown,/turf/simulated/floor/wood,/area/home)
+"bt" = (/obj/structure/stool/bed/chair/office/light,/turf/simulated/floor/wood,/area/home)
+"bu" = (/obj/structure/table/woodentable,/obj/item/weapon/paper_bin,/obj/item/weapon/pen,/turf/simulated/floor/wood,/area/home)
+"bv" = (/obj/structure/stool/bed,/obj/item/weapon/bedsheet/red,/turf/simulated/floor/wood,/area/home)
+"bw" = (/obj/item/clothing/suit/ianshirt,/turf/simulated/floor/wood,/area/home)
+"bx" = (/obj/structure/table,/obj/item/weapon/reagent_containers/food/snacks/popcorn,/obj/item/weapon/reagent_containers/food/condi/k_packet,/obj/item/weapon/reagent_containers/food/condi/k_packet,/obj/item/weapon/reagent_containers/food/condi/k_packet,/turf/simulated/floor/wood,/area/home)
+"by" = (/obj/structure/stool/bed,/obj/item/weapon/bedsheet/red,/obj/item/toy/teddy,/turf/simulated/floor/wood,/area/home)
+"bz" = (/obj/structure/table/woodentable,/obj/structure/bedsheetbin,/turf/simulated/floor/wood,/area/home)
+"bA" = (/obj/structure/filingcabinet/chestdrawer,/turf/simulated/floor/wood,/area/home)
+"bB" = (/obj/structure/table/woodentable,/turf/simulated/floor/wood,/area/home)
+"bC" = (/obj/item/clothing/mask/muzzle,/turf/simulated/floor/wood,/area/home)
+"bD" = (/obj/structure/table,/obj/item/weapon/reagent_containers/food/drinks/drinkingglass,/obj/item/weapon/reagent_containers/food/drinks/drinkingglass,/obj/item/weapon/reagent_containers/food/drinks/drinkingglass,/obj/item/weapon/reagent_containers/food/drinks/drinkingglass,/turf/simulated/floor/wood,/area/home)
+"bE" = (/obj/item/clothing/glasses/sunglasses/blindfold,/turf/simulated/floor/wood,/area/home)
+"bF" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor/wood,/area/home)
+"bG" = (/obj/structure/closet/cabinet,/obj/item/clothing/under/det/black,/obj/item/clothing/under/gentlesuit,/obj/item/clothing/suit/storage/det_suit/black,/obj/item/clothing/head/soft/sec,/obj/item/weapon/reagent_containers/food/drinks/bottle/cremewhite,/obj/item/clothing/shoes/black,/turf/simulated/floor/wood,/area/home)
+"bH" = (/obj/structure/closet/cabinet,/obj/item/clothing/under/sundress,/obj/item/clothing/under/wedding/bride_white{desc = "A white wedding gown made from the finest silk. A picture is clipped to the front; it shows Sierra and Steve, in wedding outfits, standing together."; name = "Sierra's wedding dress"},/obj/item/clothing/under/blackskirt,/obj/item/clothing/suit/wintercoat,/obj/item/clothing/head/beret,/obj/item/weapon/lipstick,/obj/item/clothing/shoes/sandal,/turf/simulated/floor/wood,/area/home)
+"bI" = (/obj/structure/closet/cabinet,/obj/item/weapon/gun/projectile/judge{desc = "All that was left of Marie..."; name = "battered Judge"},/obj/item/clothing/shoes/red{desc = "The shoes Jackson left."},/turf/simulated/floor/wood,/area/home)
+"bJ" = (/obj/structure/device/piano,/turf/simulated/floor/wood,/area/home)
+"bK" = (/obj/structure/stool,/turf/simulated/floor/wood,/area/home)
+"bL" = (/obj/structure/closet/cabinet,/obj/item/clothing/suit/storage/det_suit/black,/obj/item/clothing/shoes/black,/obj/item/clothing/under/det/slob,/obj/item/clothing/tie/holobadge,/obj/item/clothing/tie/holster,/obj/item/weapon/gun/projectile/detective/secgun,/turf/simulated/floor/wood,/area/home)
+"bM" = (/obj/structure/closet/cabinet,/obj/item/clothing/under/sundress,/obj/item/clothing/suit/wintercoat,/obj/item/clothing/shoes/work_boots,/obj/item/clothing/gloves/latex,/obj/item/weapon/storage/firstaid/adv,/obj/item/device/healthanalyzer,/turf/simulated/floor/wood,/area/home)
+"bN" = (/obj/structure/coatrack,/turf/simulated/floor/wood,/area/home)
+"bO" = (/obj/structure/closet/cabinet,/obj/item/weapon/storage/fancy/donut_box,/obj/item/weapon/reagent_containers/food/drinks/milk,/obj/item/weapon/storage/fancy/egg_box,/obj/item/weapon/reagent_containers/food/snacks/candy,/obj/item/weapon/reagent_containers/food/snacks/candy,/obj/item/weapon/reagent_containers/food/snacks/flour,/obj/item/weapon/reagent_containers/food/snacks/flour,/obj/item/weapon/reagent_containers/food/snacks/flour,/obj/item/weapon/reagent_containers/food/snacks/sausage,/obj/item/weapon/reagent_containers/food/snacks/waffles,/turf/simulated/floor/wood,/area/home)
+"bP" = (/obj/structure/table,/obj/machinery/door/window/northleft,/obj/item/weapon/reagent_containers/food/drinks/bottle/whiskey,/obj/item/weapon/reagent_containers/food/drinks/bottle/tequilla,/turf/simulated/floor/wood,/area/home)
+"bQ" = (/obj/structure/table,/obj/machinery/door/window/northright,/obj/item/weapon/reagent_containers/food/drinks/bottle/wine,/obj/item/weapon/reagent_containers/food/drinks/bottle/vodka,/turf/simulated/floor/wood,/area/home)
+"bR" = (/obj/structure/flora/pottedplant{icon_state = "plant-22"},/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/grass,/area/home)
+"bS" = (/obj/structure/banner,/turf/simulated/floor/grass,/area/space)
+"bT" = (/obj/structure/mirror,/turf/simulated/wall,/area/home)
+"bU" = (/obj/structure/sink{icon_state = "sink"; dir = 8; pixel_x = -12; pixel_y = 2},/turf/simulated/floor{tag = "icon-cafeteria (NORTHEAST)"; icon_state = "cafeteria"; dir = 5},/area/home)
+"bV" = (/turf/simulated/floor{tag = "icon-cafeteria (NORTHEAST)"; icon_state = "cafeteria"; dir = 5},/area/home)
+"bW" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor{tag = "icon-cafeteria (NORTHEAST)"; icon_state = "cafeteria"; dir = 5},/area/home)
+"bX" = (/turf/simulated/floor{dir = 4; icon_state = "rampbottom"; tag = "icon-rampbottom (SOUTHEAST)"},/area/home)
+"bY" = (/obj/structure/toilet{dir = 4},/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor{tag = "icon-cafeteria (NORTHEAST)"; icon_state = "cafeteria"; dir = 5},/area/home)
+"bZ" = (/mob/living/simple_animal/corgi{name = "Jackie"},/turf/simulated/floor/wood,/area/home)
+"ca" = (/obj/machinery/door/window/northleft,/turf/simulated/floor{icon_state = "white"},/area/home)
+"cb" = (/obj/machinery/door/window/northright,/turf/simulated/floor{icon_state = "white"},/area/home)
+"cc" = (/obj/structure/closet,/obj/item/device/camera,/obj/item/weapon/storage/fancy/candle_box,/obj/item/weapon/storage/fancy/crayons,/obj/item/weapon/storage/pill_bottle/dice,/obj/item/weapon/storage/box/mousetraps,/obj/item/weapon/storage/briefcase,/obj/item/device/camera_film,/turf/simulated/floor/wood,/area/home)
+"cd" = (/obj/structure/closet,/obj/item/weapon/gun/projectile/cellrevolver/compact,/obj/item/weapon/gun/projectile/shotgun/doublebarrel{ammo_type = "/obj/item/ammo_casing/shotgun"},/obj/item/ammo_magazine/slight6,/obj/item/ammo_magazine/shotgun,/obj/item/weapon/katana,/turf/simulated/floor/wood,/area/home)
+"ce" = (/obj/machinery/washing_machine,/turf/simulated/floor/wood,/area/home)
+"cf" = (/obj/machinery/computer/arcade,/turf/simulated/floor/wood,/area/home)
+"cg" = (/obj/structure/table/woodentable,/obj/machinery/microwave,/obj/machinery/light{dir = 1},/turf/simulated/floor{icon_state = "white"},/area/home)
+"ch" = (/turf/simulated/floor{icon_state = "white"},/area/home)
+"ci" = (/obj/structure/table/woodentable,/obj/machinery/chem_dispenser/soda,/turf/simulated/floor{icon_state = "white"},/area/home)
+"cj" = (/obj/structure/table/woodentable,/obj/machinery/juicer,/turf/simulated/floor{icon_state = "white"},/area/home)
+"ck" = (/obj/structure/closet,/obj/item/clothing/shoes/blue,/obj/item/clothing/suit/pirate,/obj/item/clothing/under/rank/miner{name = "miners jumpsuit"},/obj/item/clothing/under/rank/chemist_new{name = "classy casualwear"},/obj/item/clothing/tie/blue,/turf/simulated/floor/wood,/area/home)
+"cl" = (/obj/structure/closet,/obj/item/weapon/gun/projectile/shotgun/doublebarrel{ammo_type = "/obj/item/ammo_casing/shotgun"},/obj/item/ammo_magazine/shotgun,/obj/item/weapon/legcuffs/beartrap,/obj/item/weapon/legcuffs/beartrap,/obj/item/clothing/mask/gas/fluff/stefan_mask,/obj/item/ammo_magazine/shotgun,/turf/simulated/floor/wood,/area/home)
+"cm" = (/obj/machinery/light{icon_state = "tube1"; dir = 8},/turf/simulated/floor/wood,/area/home)
+"cn" = (/obj/structure/table/woodentable,/turf/simulated/floor{icon_state = "white"},/area/home)
+"co" = (/obj/structure/stool/bed/chair/comfy/teal{tag = "icon-comfychair_teal (EAST)"; icon_state = "comfychair_teal"; dir = 4},/turf/simulated/floor/wood,/area/home)
+"cp" = (/obj/structure/table/woodentable,/obj/item/weapon/storage/fancy/cigarettes,/obj/item/weapon/lighter/zippo,/turf/simulated/floor{icon_state = "white"},/area/home)
+"cq" = (/obj/structure/sink{dir = 4; icon_state = "sink"; pixel_x = 11; pixel_y = 0},/turf/simulated/floor{icon_state = "white"},/area/home)
+"cr" = (/obj/structure/stool/bed/chair/comfy/teal{dir = 1},/turf/simulated/floor/wood,/area/home)
+"cs" = (/obj/structure/table/woodentable,/obj/item/device/flashlight/lantern,/turf/simulated/floor/wood,/area/home)
+"ct" = (/obj/structure/table/woodentable,/obj/item/ashtray/glass,/turf/simulated/floor/wood,/area/home)
+"cu" = (/obj/structure/table/woodentable,/obj/item/weapon/storage/fancy/donut_box,/turf/simulated/floor{icon_state = "white"},/area/home)
+"cv" = (/obj/structure/closet/secure_closet/freezer/kitchen,/obj/item/weapon/storage/fancy/egg_box,/obj/item/weapon/reagent_containers/food/drinks/milk,/turf/simulated/floor{icon_state = "white"},/area/home)
+"cw" = (/obj/machinery/vending/boozeomat,/turf/simulated/floor{icon_state = "white"},/area/home)
+"cx" = (/obj/machinery/vending/dinnerware,/turf/simulated/floor{icon_state = "white"},/area/home)
+"cy" = (/obj/structure/bedsheetbin,/turf/simulated/floor/wood,/area/home)
+"cz" = (/turf/simulated/floor/wood{icon_state = "wood-broken3"},/area/home)
+"cA" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 1},/area/home)
+"cB" = (/obj/machinery/power/apc{dir = 8; name = "Worn-out APC"; pixel_x = -24; pixel_y = 0},/turf/simulated/floor/plating,/area/home)
+"cC" = (/turf/simulated/floor/plating,/area/home)
+"cD" = (/obj/machinery/door/unpowered/shuttle,/turf/simulated/floor/plating,/area/home)
+"cE" = (/obj/structure/toilet{dir = 4},/turf/simulated/floor/plating,/area/home)
+"cF" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/plating,/area/home)
+"cG" = (/obj/mecha/working/ripley/mining,/turf/simulated/floor/plating,/area/home)
+"cH" = (/obj/item/weapon/cell/infinite,/obj/item/weapon/crowbar,/turf/simulated/floor/plating,/area/home)
+"cI" = (/obj/machinery/light{dir = 4; icon_state = "tube1"},/turf/simulated/floor/plating,/area/home)
+"cJ" = (/obj/machinery/shower{icon_state = "shower"; dir = 4},/turf/simulated/floor/plating,/area/home)
+"cK" = (/obj/machinery/light{dir = 4; icon_state = "tube1"},/obj/structure/stool/bed,/obj/item/weapon/bedsheet/purple,/turf/simulated/floor/plating,/area/home)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababababababaa
+aaababababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacabababababababababababababaa
+aaababababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacabababababababababababaa
+aaabababababababababababacacacacacacacacacacacacacacacacacacacadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadadacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacadaeadafagahahaiajaiahakadalahaiamaiahahagafadaeadanaoapaqaradacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacadahasahahahahahahahahatadatahahahahahahahahasahadahahahahahadacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacadauasahahahahahahahahatadatahahahahahahahahasavadahahahahahadacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacadawadahahahahahahahahaxadayahahahahahahahahadawadahahahahahadacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacadadadazazazadadadadadadadadadadadadadazazazadadadadadasasadadacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacadagahahahahahaAahaBaBagafagaBaBahaAahahahahahagadacacacacacacacacacacacacacacacacacacacacaCacacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacadahahahahahaDaEaEaEaEaEaEaEaEaEaEaEaFahahahahahadacacacacacacacacacacacacacacacacacacaGacacacaGacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacadaHahahahahaIaJaJaKaJaKaJaKaJaKaJaJaLahahahahaHadacacacacacacacacacacacacacacacacacacacaMaMaMacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacadaNahahahahaIaOaPaQaRaSaTaUaVaWaXaYaLahahahahaZadacacacacacacacacacacacacacacacacacaCacaMbaaMacaCacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacadbbahahahahaIaOaSaXaRbcaTbdaVaQbeaYaLahahahahbfadacacacacacacacacacacacacacacacacacacacaMaMaMacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacadaHahahahahaIaJaJbgaJbgaJbgaJbgaJaJaLahahahahaHadacacacacacacacacacacacacacacacacacacaGacacacaGacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacadahahahahahbhbibibibibibibibibibibibjahahahahahadacacacacacacacacacacacacacacacacacacacacaCacacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacadbkahahahahahahblahahahagahahahblahahahahahahahadacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacadadadadadadadadadadasasadasasadadadadadadadadadadacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacahahacahahacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacahahacahahacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacahahacahahacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacahahacahahacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacahahacahahacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacahahacahahacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahacacacacacacacacacacacacacacacacababababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahacacacacacacacacacacacacacacacabababababababababababababaa
+aaababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacahahacacacacacacacacacacacacacabababababababababababababababaa
+aaabababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacabacacacacacacacacahahacacacacacacacacacacacacababababababababababababababababaa
+aaababababababababababababacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacacababababacabababababababacacacacacacahahacacacacacacacacacacacacacabababababababababababababababaa
+aaabababababababababababababacacacacacacacacacacacacacabababababababababababababababababababababababababababababababababababababacacacacacahahacacacacacacababababababababababababababababababababababaa
+aaabababababababababababababacacacacacacacacacacacacabababababababababababababababababababababababababababababababababababababababacacacacahahacacacacacabababababababababababababababababababababababaa
+aaababababababababababababababacacacacacacacacacacacababababababababababababababababababababababababababababababababababababababababacacacahahacacacacacabababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaababababababababababababacabacacacacacacacacacacababababababababababababababababababababababababababababababababababababababababababababahahababababababababababababababababababababababababababababaa
+aaabababababababababababababacabacacacacacacacacacacababababababababababababababababababababababababababababababababababababababababacacabahahababababababababababababababababababababababababababababaa
+aaabababababababababababacacacacacacacacacacacacacacacababababababababababababababababababababababababababababababababababababacacacacacacahahacacacacacabababababababababababababababababababababababaa
+aaabababababababababababacacacacacacacacacacacacacacacabababababababababababababababababababababababababababababababababababacacacacacacacahahacacacacacacababababababababababababababababababababababaa
+aaabababababababababababacacacacacacacacacacacacacacacabababababababababababababababababababababababababababababababababababacacacacacacacahahacacacacacacacacacacababababababababababababababababababaa
+aaabababababababababababacacacacacacacacacacacacacacacabababababababababababababababababababababababababababababababababababacacacacacacacahahacacacacacacacacacacababababababababababababababababababaa
+aaabababababababababababacacacacacacacacacacacacacacacabababababababababababababababababababababababababababababababababababacacacacacacacahahacacacacacacacacacacababababababababababababababababababaa
+aaabababababababababababacacacacacacacacacacacacacacacabababababababababababababababababababababababababababababababababababacacacacacacacahahacacacacacacacacacacacabababababababababababababababababaa
+aaabababababababababababacacacacacacacacacacacacacacacacababababababababababababababababababababababababababababababababababacacacacacacacahahacacacacacacacacacacacabababababababababababababababababaa
+aaabababababababababababacacacacacacacacacacacacacacacacacacacabababababababababababababababababababababababababababababababacacahahahahahahahahahahahahahahahahahacacababababababababababababababababaa
+aaabababababababababababacacacbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmacacababababababababababababababababababababababababababababababacacahbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmahacabababababababababababababababababaa
+aaabababababababababababacacacbmbnbobobpbobqbrbmbsbpbobtbubmacacacacacacababababababababababababababababababababababababababacacahbmbvbwbobpbobqbrbmbxbpbobtbubmahacacacacacabababababababababababababaa
+aaabababababababababababacacacbmbybobobobobzbobmbobobAbBbBbmacacacacacacababababababababababababababababababababababababababacacahbmbybobobCbobzbobmbDbobAbBbBbmahacacacacacabababababababababababababaa
+aaabababababababababababacacacbmbobobobobobobobmbobobobobobmacacacacacacababababababababababababababababababababababababababacacahbmbobobEbobobobobFbobobobobobmahacacacacacabababababababababababababaa
+aaabababababababababababacacacbmbGbHbobobobobobmbIbobobJbKbmacacacacacacabababababababababababababababababababababababababacacacahbmbLbMbobobNbobobmbObPbQbJbKbmahacacacacacabababababababababababababaa
+aaabababababababababababacacacbmbmbmbmbmbmbFbFbmbmbFbFbmbmbmbmbRacacbSacacababababababababababababababababababababababacacacacacahbmbmbmbmbmbmbFbFbmbmbmbmbmbmbmahacacacacacabababababababababababababaa
+aaabababababababababababacacacbTbUbVbVbWbobobobpbobobobobpbobFbXahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahacacacacacabababababababababababababaa
+aaabababababababababababacacacbmbYbVbVbWbobZbobobobobobobobobFbXahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahacacacacacabababababababababababababaa
+aaabababababababababababacacacbmbmbmbmbmbmbFbFbmbmcacbbmbmbmbmbRacacbSacacacababababababababababababababababababababababacacacacahbmbmbmbmbmbmbFbFbmbmbmbmbmbmbmahacacacacacabababababababababababababaa
+aaabababababababababababacacacbmcccdcecfbNbobobmcgchchcicjbmacacacacacacacababababababababababababababababababababababababacacacahbmckclcebobNbobobmcgchchcicjbmahacacacacacabababababababababababababaa
+aaabababababababababababacacacbmcmbobobobobobobmcnchchchchbmacacacacacacabababababababababababababababababababababababababacacacahbmcmbobobobobobobFchchchchchbmahacacacacacabababababababababababababaa
+aaabababababababababababacacacbmcobobobobobobobmcpchchchchbmacacacacacacababababababababababababababababababababababababababacacahbmbobobobobobobobmcpchchchcqbmahacacacacacabababababababababababababaa
+aaabababababababababababacacacbmcobocrcrcsbBctbmcuchcvcwcxbmacacacacacacababababababababababababababababababababababababababacacahbmcyczcrcrcsbBctbmcuchcvcwcxbmahacacacacacabababababababababababababaa
+aaabababababababababababacacacbmbmbmbmbmbmbmbmbmbmbmbmbmbmbmacacacacacacababababababababababababababababababababababababababacacahbmbmcAbmbmbmbmbmbmbmbmbmbmbmbmahacacacacacabababababababababababababaa
+aaabababababababababababacacacbmcBcCcCcDacacacacacacacacacacacacacacacacababababababababababababababababababababababababababacacahbmcEcCcCcFcCcGbmahahahahahahahahacacacacacabababababababababababababaa
+aaabababababababababababacacacbmcHcCcIbmacacacacacacacacacacacacacacacabababababababababababababababababababababababababababacacahbmcJcCcKbmbmbmbmahacacacacacacacacacacacababababababababababababababaa
+aaabababababababababababacacacbmbmbmbmbmacacacacacacacacacacacacacacababababababababababababababababababababababababababababacacahbmbmbmbmbmahahahahacacacacacacacacacacabababababababababababababababaa
+aaabababababababababababacacacacacacacacacacacacacacacacababababababababababababababababababababababababababababababababababacacahahahahahahahacacacacacacacacacacacacababababababababababababababababaa
+aaababababababababababababacacacacacacacacacacacacacacababababababababababababababababababababababababababababababababababababacacacacacacacacacacacacacacacacacacacabababababababababababababababababaa
+aaabababababababababababababacacacacacacacacacacacacacabababababababababababababababababababababababababababababababababababababacacacacacacacacacacacacacacacacacababababababababababababababababababaa
+aaabababababababababababababacacacacacacacacacacacacababababababababababababababababababababababababababababababababababababababacacacacacacacacacacacacacacacababababababababababababababababababababaa
+aaababababababababababababababacacacacacacacacacacacabababababababababababababababababababababababababababababababababababababababacacacacacacacacacacacabababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

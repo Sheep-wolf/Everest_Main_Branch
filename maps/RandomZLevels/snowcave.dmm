@@ -1,0 +1,126 @@
+"aa" = (/turf/simulated/mineral{name = "Mountain Wall"; nitrogen = 82.1472; oxygen = 21.8366; temperature = 393.15},/area/sheep/snow/cave)
+"ab" = (/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"ac" = (/mob/living/simple_animal/hostile/alien/queen,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"ad" = (/obj/effect/landmark/corpse/miner/rig,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"ae" = (/obj/item/weapon/hatchet,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"af" = (/obj/effect/landmark/corpse/miner/rig,/obj/item/weapon/claymore,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"ag" = (/obj/effect/decal/remains/human,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"ah" = (/mob/living/simple_animal/hostile/alien,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"ai" = (/obj/machinery/door/airlock/external{welded = 1},/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"aj" = (/mob/living/simple_animal/hostile/alien/queen/large,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"ak" = (/obj/effect/decal/cleanable/blood,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"al" = (/obj/item/weapon/crowbar/red,/obj/effect/decal/cleanable/blood,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"am" = (/obj/effect/decal/remains/xeno,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"an" = (/obj/effect/decal/cleanable/blood,/mob/living/simple_animal/hostile/alien,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"ao" = (/obj/effect/landmark/corpse/engineer/rig,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"ap" = (/obj/item/weapon/gun/projectile/nailgun,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"aq" = (/obj/effect/landmark/corpse/engineer/rig,/obj/item/weapon/circular_saw,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"ar" = (/obj/effect/decal/cleanable/blood,/mob/living/simple_animal/hostile/alien/queen,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"as" = (/obj/effect/decal/cleanable/blood,/mob/living/simple_animal/hostile/alien/queen/large,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"at" = (/obj/item/weapon/kitchenknife,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"au" = (/turf/simulated/floor/plating,/area/sheep/snow/cave)
+"av" = (/obj/structure/table/reinforced,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/sheep/snow/cave)
+"aw" = (/turf/simulated/wall,/area/sheep/snow/cave)
+"ax" = (/obj/effect/decal/cleanable/blood,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/sheep/snow/cave)
+"ay" = (/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/sheep/snow/cave)
+"az" = (/turf/simulated/floor/mech_bay_recharge_floor,/area/sheep/snow/cave)
+"aA" = (/obj/effect/decal/cleanable/cobweb2,/turf/simulated/floor{icon_state = "yellowfull"; dir = 8},/area/sheep/snow/cave)
+"aB" = (/obj/effect/landmark/mobcorpse/syndicatesoldier,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"aC" = (/obj/effect/landmark/mobcorpse/syndicatecommando,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"aD" = (/turf/simulated/floor{icon_state = "floorgrime"},/area/sheep/snow/cave)
+"aE" = (/obj/structure/bed/chair/e_chair,/turf/simulated/floor{icon_state = "floorgrime"},/area/sheep/snow/cave)
+"aF" = (/obj/effect/alien/resin/wall,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"aG" = (/turf/simulated/floor{icon_state = "dark"},/area/sheep/snow/cave)
+"aH" = (/obj/effect/decal/cleanable/blood,/turf/simulated/floor{icon_state = "dark"},/area/sheep/snow/cave)
+"aI" = (/obj/structure/bed/nest,/turf/simulated/floor{icon_state = "dark"},/area/sheep/snow/cave)
+"aJ" = (/obj/effect/landmark/corpse/commander,/turf/simulated/floor{icon_state = "dark"},/area/sheep/snow/cave)
+"aK" = (/obj/effect/landmark/corpse/doctor,/turf/simulated/floor{icon_state = "dark"},/area/sheep/snow/cave)
+"aL" = (/obj/effect/decal/mecha_wreckage/gygax,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"aM" = (/obj/effect/decal/mecha_wreckage/durand,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"aN" = (/obj/effect/decal/mecha_wreckage/marauder,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"aO" = (/obj/effect/decal/cleanable/cobweb,/obj/item/device/flashlight/flare,/obj/item/device/flashlight/flare,/obj/item/device/flashlight/flare,/obj/item/device/flashlight/flare,/obj/item/device/flashlight/flare,/obj/item/device/flashlight/flare,/obj/structure/closet/crate,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"aP" = (/turf/simulated/floor/plating/snow,/turf/unsimulated/floor{tag = "icon-asteroid8"; name = "plating"; icon_state = "asteroid8"},/area/sheep/snow/cave)
+"aQ" = (/obj/item/device/flashlight/pen,/turf/simulated/floor/plating/snow,/area/sheep/snow/cave)
+"aR" = (/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"aS" = (/obj/structure/coatrack,/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"aT" = (/obj/effect/decal/remains/human,/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"aU" = (/obj/effect/decal/cleanable/cobweb2,/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"aV" = (/turf/simulated/floor/plating/snow,/turf/unsimulated/floor{tag = "icon-asteroid7"; name = "plating"; icon_state = "asteroid7"},/turf/unsimulated/floor{dir = 6; icon_state = "asteroid8"; name = "sand"},/area/sheep/snow/cave)
+"aW" = (/turf/simulated/floor/wood{icon_state = "wood-broken3"},/area/sheep/snow/cave)
+"aX" = (/obj/structure/bed/chair/wood/normal,/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"aY" = (/obj/structure/bed/chair/comfy/lime,/turf/simulated/floor/wood{icon_state = "wood-broken6"},/area/sheep/snow/cave)
+"aZ" = (/obj/effect/decal/cleanable/blood,/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"ba" = (/turf/simulated/floor/wood,/turf/unsimulated/floor{tag = "icon-asteroid7"; name = "plating"; icon_state = "asteroid7"},/area/sheep/snow/cave)
+"bb" = (/obj/structure/bed/chair/comfy/beige{tag = "icon-comfychair (EAST)"; icon_state = "comfychair"; dir = 4},/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"bc" = (/obj/structure/table/gamblingtable,/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"bd" = (/obj/structure/bed/chair/office/light{dir = 8},/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"be" = (/obj/structure/bed/chair/office/dark{dir = 4},/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"bf" = (/obj/structure/table/gamblingtable,/obj/item/clothing/accessory/dogtags,/obj/item/clothing/accessory/holobadge,/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"bg" = (/obj/structure/bed/chair/comfy/red,/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"bh" = (/turf/simulated/floor/plating/snow,/turf/unsimulated/floor{tag = "icon-asteroid5"; name = "plating"; icon_state = "asteroid5"},/area/sheep/snow/cave)
+"bi" = (/obj/effect/decal/cleanable/cobweb,/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"bj" = (/turf/simulated/floor/wood{icon_state = "wood-broken4"},/area/sheep/snow/cave)
+"bk" = (/obj/structure/bed/chair/comfy/brown{dir = 1},/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"bl" = (/obj/structure/bed/chair/comfy/black{dir = 1},/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"bm" = (/obj/structure/bed/chair/comfy/beige{tag = "icon-comfychair (NORTH)"; icon_state = "comfychair"; dir = 1},/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"bn" = (/obj/effect/landmark/corpse/miner/rig,/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"bo" = (/turf/simulated/floor/wood{icon_state = "wood-broken"},/area/sheep/snow/cave)
+"bp" = (/turf/simulated/floor/wood,/obj/effect/decal/cleanable/blood/gibs/xeno/body,/turf/unsimulated/floor{tag = "icon-asteroid5"; name = "plating"; icon_state = "asteroid5"},/area/sheep/snow/cave)
+"bq" = (/obj/structure/closet/coffin,/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"br" = (/obj/structure/reagent_dispensers/beerkeg,/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"bs" = (/obj/structure/table/woodentable,/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"bt" = (/obj/effect/landmark/mobcorpse/syndicatesoldier,/turf/simulated/floor/wood,/area/sheep/snow/cave)
+"bu" = (/obj/structure/closet/crate/bin,/turf/simulated/floor/wood,/area/sheep/snow/cave)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaababababababababababababababababababababaaaaababababababababababababaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaababababacacabababababababababababababababababaaabababadaeababafabababababaaaaaaaaaaaaaaaaaa
+aaaaaaaaababacababagagagabahahahahahahababababababababaiabababababababababababababababababaaaaaaaaaa
+aaaaaaabagagacajabagagagakababababababababababababababaiabalabababababababababababababababababaaaaaa
+aaamababagagacacababababakanananabagababacacacacabababaaabababababaoapababababababababababababaaaaaa
+aaamababagagacacabajababakananahabagababacacacacabababaaababaqababababababababababababababababababaa
+aaamajababababacababagagagahahahabagababacacacacabababaaabababababababababababababababababababababaa
+aaamabakakarakakababagagagabahahabagababacacacacababaaaaabababababadabababababababababababababababaa
+aaaaabakakarakasabababababababahababababacacacacababaaaaababababababatababababababababababababababaa
+aaababasakarakakababakananananahahabababacacacacabaaaaaaabababababababababababababababababababababaa
+aaaaaaakakakakanahahanananakakahahahahabababababaaaaaaababababababababababababababababababababababaa
+aaaaaaaaababababababakakakakakababababababababaaaaaaabababababababababababababababababababababababaa
+aaaaaaaaaaabaaaaaaaaaaaaaaaaabababababaaaaaaaaaaaaababababababababababababababababababababababababaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababaa
+aaaaaaaaaaaaaaabababaaaaaaaaaaaaaaaaaaaaaaababababababababababababababababababababababababababababaa
+aaaaaaaaababababababababababaaaaaaaaaaaaabababababababababababababababababababababababababauabababaa
+aaaaababauababababababababababaaaaaaababababababababababababababababababababababababababauavauababaa
+aaabababauauauababababababababababababababababababababababababababababababababababababawaxayayawabaa
+aaabababauazauabababababababababababababababababababababababababababababababababababawavayayayaAawaa
+aaababauauauauauababababababababababababababababababababababababababababababababababawavayayayayawaa
+aaababauababauauauababababababababababababababababababababababababababababababababababababababababaa
+aaababauabababababababababababababababababababababababababababababababababababababababababaBabababaa
+aaaaabababababababababababababababababababababababababababababababababababaCababababababaDaDaDaDaDaa
+aaaaababababababababababababababababababababababababababababababababababababababababababaDaDaDaDaDaa
+aaaaababababababababababababababababababababababababababababababababababababababababaBabaDaDaEaDaDaa
+aaaaaaabababababababababababababababababababababababababababababababababababababababababaDaDaDaDaDaa
+aaaaaaabababababababababababababawawaFawaFaFaFawaFawawabababababababababababababababababaDaDaDaDaDaa
+aaaaaaaaababababababababababababawaGaGaGaGaGaGaGaGaGawababababababababababababababababababababababaa
+aaaaaaaaababababababababababababaFaGaHaGaIaIaIaGaJaGaFababababababababababababababababababababababaa
+aaaaaaaaababababababababababababawaGaGaGaIaIaIaGaGaGaFababababababababababababababababababababababaa
+aaaaaaaaaaabababababababababababawaGaKaGaIaIaIaGaGaGaFababababababababababababababababababababababaa
+aaaaaaaaaaabababababababababababaFaGaGaGaGaGaGaHaGaGaFababababababababababababababababababababababaa
+aaaaaaaaaaabababababababababababawaGaGaGaGaGaGaGaGaGawabababababababababaLababababababababababababaa
+aaaaaaaaaaaaababababababababababawawaFawaFaFaFawaFawawababababababababababababababababababababababaa
+aaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababababababababaa
+aaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababababaMabababababaa
+aaaaaaaaaaaaaaaaaaaaaaababababababababababababababababababababababababaNababababababababababababaaaa
+aaaOabaPababaaaaaaaaaaaaabababababababababababababababababababababababababababababababababababaaaaaa
+aaababababababaaaaaaaaaaabababababababababababababababababababababababababababababababababaaaaaaaaaa
+aaabababababababaaaaaaaaaaababababababababababababababababababababababababababababawawawawawawawawaa
+aaababaQabababababaaaaaaaaabababababagababababababababababababababababaRaRaRaRaRaRaSaRaRaRaRaTaUawaa
+aaabababaVabababababaaaaaaaaabababababababababababababababababababababaRaWaRaRaXaYaXaRaRaRaRaZaRawaa
+aaabaaababababababababaaaaaaabababababababababababababababababababababbaaRaRbbbcbcbcbdaRaRaRaRaRawaa
+aaabababababababababababaaaaabababababababababababababababababababaaaaaaaRaRbebfbcbcaRbgaRaRaRaRawaa
+aaaaaaababbhababababababaaaaababababababababababababababababababaaaaaabiaRbjaRbkblbmaRbnaRboaRaRawaa
+aaaaaaaaabababababababababaaababababababagababababababababababaaaaaaawaRbpaRaRaRaRaRaRaRaRaRaRaRawaa
+aaaaaaaaaaabababababababababababagabababababababababababaaaaaaaaaaaaawbqaRaRaRaRbrbsbsbsaRaRbtbuawaa
+aaaaaaaaaaaaabababababababababababababababababababaaaaaaaaaaaaaaaaaaawawawawawawawawawawawawawawawaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

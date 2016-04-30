@@ -1,0 +1,112 @@
+"aa" = (/turf/space,/area/space)
+"ab" = (/obj/structure/lattice,/turf/space,/area/space)
+"ac" = (/turf/simulated/shuttle/wall{icon_state = "swall_s6"; dir = 2},/area/shuttle/research/station)
+"ad" = (/turf/simulated/shuttle/wall{icon_state = "swall12"; dir = 2},/area/shuttle/research/station)
+"ae" = (/obj/structure/window/shuttle,/obj/structure/grille,/turf/simulated/shuttle/plating,/area/shuttle/research/station)
+"af" = (/turf/simulated/shuttle/wall{icon_state = "swall_s10"; dir = 2},/area/shuttle/research/station)
+"ag" = (/turf/simulated/shuttle/wall{icon_state = "swall3"; dir = 2},/area/shuttle/research/station)
+"ah" = (/obj/structure/closet/crate,/turf/simulated/shuttle/floor,/area/shuttle/research/station)
+"ai" = (/obj/structure/bed/chair{dir = 4},/turf/simulated/shuttle/floor,/area/shuttle/research/station)
+"aj" = (/turf/simulated/shuttle/floor,/area/shuttle/research/station)
+"ak" = (/obj/structure/table,/turf/simulated/shuttle/floor,/area/shuttle/research/station)
+"al" = (/turf/space,/area/shuttle/research/outpost)
+"am" = (/obj/structure/shuttle/engine/propulsion/burst{dir = 4},/turf/space,/area/shuttle/research/station)
+"an" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/shuttle/engine/heater{dir = 8},/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced,/turf/simulated/floor/plating/airless,/area/shuttle/research/station)
+"ao" = (/obj/machinery/computer/shuttle_control/research,/turf/simulated/shuttle/floor,/area/shuttle/research/station)
+"ap" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 1},/obj/machinery/door/firedoor/border_only{dir = 2},/turf/simulated/floor/plating,/area/rnd/docking)
+"aq" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/obj/machinery/door/firedoor/border_only{dir = 2},/turf/simulated/floor/plating,/area/rnd/docking)
+"ar" = (/obj/structure/sign/securearea{desc = "A warning sign which reads 'KEEP CLEAR OF DOCKING AREA'."; name = "KEEP CLEAR: DOCKING AREA"; pixel_y = 0},/turf/simulated/wall,/area/rnd/docking)
+"as" = (/obj/structure/table,/obj/machinery/embedded_controller/radio/simple_docking_controller{frequency = 1380; id_tag = "research_shuttle"; pixel_x = -8; pixel_y = -25; req_access_txt = "0"; req_one_access_txt = "13;65"; tag_door = "research_shuttle_hatch"},/turf/simulated/shuttle/floor,/area/shuttle/research/station)
+"at" = (/obj/structure/cable{d1 = 4; d2 = 8; icon_state = "4-8"},/turf/simulated/floor{dir = 4; icon_state = "whitebluecorner"},/area/rnd/docking)
+"au" = (/obj/structure/closet/emcloset,/obj/structure/cable{d1 = 2; d2 = 8; icon_state = "2-8"},/turf/simulated/floor{dir = 4; icon_state = "whitebluecorner"},/area/rnd/docking)
+"av" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/machinery/door/firedoor/border_only{dir = 2},/turf/simulated/shuttle/plating,/area/rnd/docking)
+"aw" = (/turf/simulated/shuttle/wall{icon_state = "swall_s5"; dir = 2},/area/shuttle/research/station)
+"ax" = (/obj/machinery/door/airlock/external{frequency = 1380; icon_state = "door_locked"; id_tag = "research_shuttle_hatch"; locked = 1; name = "Shuttle Hatch"; req_access_txt = "13"},/turf/simulated/shuttle/floor,/area/shuttle/research/station)
+"ay" = (/turf/simulated/shuttle/wall{icon_state = "swall_s9"; dir = 2},/area/shuttle/research/station)
+"az" = (/obj/machinery/atmospherics/pipe/simple/hidden/supply{dir = 4},/turf/simulated/floor{icon_state = "white"},/area/rnd/docking)
+"aA" = (/obj/machinery/alarm{dir = 8; icon_state = "alarm0"; pixel_x = 24},/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/atmospherics/unary/vent_pump/on{dir = 8},/obj/machinery/camera/autoname{dir = 8},/turf/simulated/floor{dir = 4; icon_state = "whitebluecorner"},/area/rnd/docking)
+"aB" = (/turf/simulated/wall,/area/rnd/docking)
+"aC" = (/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/machinery/door/firedoor/border_only{dir = 2},/turf/simulated/floor/plating,/area/rnd/docking)
+"aD" = (/obj/machinery/door/airlock/external{frequency = 1380; icon_state = "door_locked"; id_tag = "research_dock_outer"; locked = 1; name = "Shuttle Airlock"; req_access_txt = "13"},/turf/simulated/floor/plating,/area/rnd/docking)
+"aE" = (/obj/machinery/access_button{command = "cycle_exterior"; frequency = 1380; master_tag = "research_dock_airlock"; name = "exterior access button"; pixel_x = -25; pixel_y = 8; req_access_txt = "0"; req_one_access_txt = "13;65"},/turf/space,/area/space)
+"aF" = (/turf/simulated/floor{icon_state = "white"},/area/rnd/docking)
+"aG" = (/obj/structure/cable{d1 = 1; d2 = 2; icon_state = "1-2"},/turf/simulated/floor{dir = 4; icon_state = "whitebluecorner"},/area/rnd/docking)
+"aH" = (/turf/simulated/floor{dir = 2; icon_state = "cmo"},/area/rnd/docking)
+"aI" = (/obj/machinery/access_button{command = "cycle_interior"; frequency = 1380; master_tag = "research_dock_airlock"; name = "interior access button"; pixel_x = 25; pixel_y = -25; req_access_txt = "0"; req_one_access_txt = "13;65"},/turf/simulated/floor{dir = 2; icon_state = "cmo"},/area/rnd/docking)
+"aJ" = (/obj/machinery/door/airlock/external{frequency = 1380; icon_state = "door_locked"; id_tag = "research_dock_inner"; locked = 1; name = "Shuttle Airlock"; req_access_txt = "13"},/turf/simulated/floor{icon_state = "white"},/area/rnd/docking)
+"aK" = (/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 2; frequency = 1380; id_tag = "research_dock_pump"},/obj/machinery/camera/autoname{dir = 2; network = list("SS13","Supermatter","Atmospherics")},/turf/simulated/floor{dir = 9; icon_state = "warning"},/area/rnd/docking)
+"aL" = (/turf/simulated/floor{dir = 5; icon_state = "warning"},/area/rnd/docking)
+"aM" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/machinery/door/firedoor/border_only{dir = 2},/obj/structure/window/reinforced,/turf/simulated/floor/plating,/area/rnd/docking)
+"aN" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/machinery/door/firedoor/border_only{dir = 2},/turf/simulated/floor/plating,/area/research_outpost/entry)
+"aO" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/machinery/door/firedoor/border_only{dir = 2},/turf/simulated/floor/plating,/area/research_outpost/entry)
+"aP" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced,/obj/machinery/door/firedoor/border_only{dir = 2},/turf/simulated/floor/plating,/area/research_outpost/entry)
+"aQ" = (/obj/machinery/door/firedoor/border_only{dir = 2},/obj/machinery/door/airlock/external{frequency = 1380; icon_state = "door_locked"; id_tag = "research_outpost_hatch"; locked = 1; name = "Research Outpost Docking Hatch"; req_access_txt = "13"},/turf/simulated/floor/plating,/area/research_outpost/entry)
+"aR" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/obj/machinery/door/firedoor/border_only{dir = 2},/turf/simulated/floor/plating,/area/research_outpost/entry)
+"aS" = (/obj/machinery/light/small{dir = 8},/obj/machinery/atmospherics/pipe/simple/hidden{dir = 6},/turf/simulated/floor{icon_state = "white"},/area/rnd/docking)
+"aT" = (/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4; icon_state = "intact"; tag = "icon-intact-f (EAST)"},/obj/structure/cable{d1 = 1; d2 = 4; icon_state = "1-4"},/turf/simulated/floor{dir = 4; icon_state = "whitebluecorner"},/area/rnd/docking)
+"aU" = (/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4; icon_state = "intact"; tag = "icon-intact-f (EAST)"},/obj/machinery/power/apc{dir = 2; name = "south bump"; pixel_y = -24},/obj/structure/cable{d2 = 8; icon_state = "0-8"},/turf/simulated/floor{dir = 2; icon_state = "cmo"},/area/rnd/docking)
+"aV" = (/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4; icon_state = "intact"; tag = "icon-intact-f (EAST)"},/turf/simulated/floor{dir = 2; icon_state = "cmo"},/area/rnd/docking)
+"aW" = (/obj/structure/grille,/obj/structure/window/reinforced,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 1},/obj/structure/window/reinforced{dir = 8},/obj/machinery/door/firedoor/border_only{dir = 2},/obj/machinery/atmospherics/pipe/simple/hidden{dir = 4; icon_state = "intact"; tag = "icon-intact-f (EAST)"},/turf/simulated/shuttle/plating,/area/rnd/docking)
+"aX" = (/obj/machinery/atmospherics/pipe/manifold/hidden,/obj/machinery/airlock_sensor{frequency = 1380; id_tag = "research_dock_sensor"; pixel_x = 0; pixel_y = -25},/turf/simulated/floor{dir = 10; icon_state = "warning"},/area/rnd/docking)
+"aY" = (/obj/machinery/light/small{dir = 4},/obj/machinery/atmospherics/unary/vent_pump/high_volume{dir = 8; frequency = 1380; id_tag = "research_dock_pump"},/obj/machinery/embedded_controller/radio/airlock/docking_port{frequency = 1380; id_tag = "research_dock_airlock"; pixel_x = 25; pixel_y = 0; req_access_txt = "0"; req_one_access_txt = "13;65"; tag_airpump = "research_dock_pump"; tag_chamber_sensor = "research_dock_sensor"; tag_exterior_door = "research_dock_outer"; tag_interior_door = "research_dock_inner"},/turf/simulated/floor{dir = 6; icon_state = "warning"},/area/rnd/docking)
+"aZ" = (/obj/machinery/computer/shuttle_control/research,/obj/machinery/atmospherics/unary/vent_scrubber/on,/turf/simulated/floor{icon_state = "bot"},/area/research_outpost/entry)
+"ba" = (/turf/simulated/floor,/area/research_outpost/entry)
+"bb" = (/obj/machinery/embedded_controller/radio/simple_docking_controller{frequency = 1380; id_tag = "research_outpost_dock"; pixel_x = 0; pixel_y = 30; req_access_txt = "0"; req_one_access_txt = "13;65"; tag_door = "research_outpost_hatch"},/turf/simulated/floor{icon_state = "warningcorner"; dir = 8},/area/research_outpost/entry)
+"bc" = (/turf/simulated/floor{dir = 1; icon_state = "warning"},/area/research_outpost/entry)
+"bd" = (/obj/structure/sign/securearea{desc = "A warning sign which reads 'VACUUM'"; icon_state = "space"; layer = 4; name = "VACUUM"; pixel_x = 0; pixel_y = 32},/obj/structure/coatrack,/turf/simulated/floor{icon_state = "warningcorner"; dir = 4},/area/research_outpost/entry)
+"be" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 4},/obj/structure/window/reinforced{dir = 8},/obj/structure/window/reinforced,/obj/machinery/door/firedoor/border_only{dir = 2},/turf/simulated/floor/plating,/area/research_outpost/entry)
+"bf" = (/obj/machinery/atmospherics/portables_connector{dir = 1},/obj/machinery/portable_atmospherics/canister/air/airlock,/turf/simulated/floor{icon_state = "white"},/area/rnd/docking)
+"bg" = (/obj/machinery/computer/shuttle_control/research,/turf/simulated/floor{dir = 4; icon_state = "whitebluecorner"},/area/rnd/docking)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaabacadaeadaeadafaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaabagahaiajajakagaaaaalalalalalalalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaabamanaiajaiaoaeaaaaalalalalalalalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaapaqaragajaiajajasagaaaaalalalalalalalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaatauavawadaeaxaeadayaaaaalalalalalalalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaazaAaBaCapaqaDaraEaaaaaaalalalalalalalaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaFaGaHaIaJaKaLaMaaaaaaaaaNaOaPaQaNaOaRaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaSaTaUaVaWaXaYaBaaaaaaaaaZbabbbcbdbabeaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaabfbgaBavaBaBavaBaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}

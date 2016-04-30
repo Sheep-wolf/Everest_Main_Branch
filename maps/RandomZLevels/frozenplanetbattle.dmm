@@ -1,0 +1,121 @@
+"aa" = (/turf/simulated/mineral{name = "Mountain Wall"; nitrogen = 82.1472; oxygen = 21.8366; temperature = 393.15},/area/sheep/snow/battle)
+"ab" = (/turf/simulated/floor/plating/snow,/area/sheep/snow/battle)
+"ac" = (/turf/simulated/wall,/area/sheep/snow/battle)
+"ad" = (/obj/item/weapon/storage/firstaid/surgery,/obj/structure/table,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"ae" = (/obj/item/weapon/storage/pill_bottle/tramadol,/obj/item/weapon/storage/pill_bottle/bicaridine,/obj/structure/table,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"af" = (/obj/item/weapon/storage/firstaid/adv,/obj/item/weapon/storage/firstaid/toxin,/obj/item/weapon/storage/firstaid/combat,/obj/structure/table,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"ag" = (/obj/item/weapon/reagent_containers/hypospray,/obj/item/weapon/reagent_containers/hypospray,/obj/structure/table,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"ah" = (/obj/effect/mine/stun,/turf/simulated/floor/plating/snow,/area/sheep/snow/battle)
+"ai" = (/obj/structure/table,/obj/item/weapon/storage/box/masks,/obj/item/weapon/storage/box/gloves,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"aj" = (/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"ak" = (/obj/structure/table,/obj/item/weapon/storage/box/autoinjectors,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"al" = (/obj/machinery/optable,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"am" = (/obj/machinery/iv_drip,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"an" = (/turf/simulated/floor/plating{dir = 2; icon_state = "warnplate"},/area/sheep/snow/battle)
+"ao" = (/obj/effect/landmark/corpse/doctor,/turf/simulated/floor/plating/snow,/area/sheep/snow/battle)
+"ap" = (/obj/effect/decal/mecha_wreckage/marauder,/turf/simulated/floor/plating/snow,/area/sheep/snow/battle)
+"aq" = (/obj/structure/closet/crate,/obj/item/ammo_magazine/cuzi,/obj/item/ammo_magazine/cuzi,/obj/item/ammo_magazine/cuzi,/obj/item/ammo_magazine/cuzi,/obj/item/ammo_magazine/c45m,/obj/item/ammo_magazine/c45m,/obj/item/ammo_magazine/c45m,/obj/item/ammo_magazine/c45m,/obj/item/weapon/storage/box/handcuffs,/obj/item/ammo_magazine/a556,/obj/item/ammo_magazine/a556,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"ar" = (/obj/item/clothing/head/helmet/armouredhat,/obj/item/clothing/gloves/black,/obj/item/clothing/accessory/holster,/obj/item/clothing/under/det,/obj/item/clothing/shoes/combat,/obj/item/clothing/mask/gas,/obj/item/device/flashlight,/obj/structure/closet,/obj/item/weapon/storage/backpack/satchel_norm,/obj/item/weapon/storage/belt/ammo,/obj/item/clothing/suit/storage/det_suit/armour/storm,/obj/item/weapon/twohanded/fireaxe,/obj/item/weapon/extinguisher/mini,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"as" = (/obj/structure/closet/crate,/obj/item/weapon/gun/projectile/automatic/mini_uzi,/obj/item/weapon/gun/projectile/automatic/mini_uzi,/obj/item/weapon/gun/projectile/colt,/obj/item/weapon/gun/projectile/colt,/obj/item/weapon/shield/riot,/obj/item/weapon/gun/projectile/rifle/mis556,/obj/item/weapon/gun/projectile/rifle/mis556,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"at" = (/obj/item/clothing/head/helmet/armouredhat,/obj/item/clothing/gloves/black,/obj/item/clothing/accessory/holster,/obj/item/clothing/under/det,/obj/item/clothing/shoes/combat,/obj/item/clothing/mask/gas,/obj/item/device/flashlight,/obj/structure/closet,/obj/item/weapon/storage/backpack/satchel_norm,/obj/item/weapon/storage/belt/ammo,/obj/item/clothing/suit/storage/det_suit/armour,/obj/item/weapon/twohanded/baseballbat,/obj/item/weapon/extinguisher/mini,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"au" = (/obj/structure/grille,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"av" = (/obj/effect/decal/mecha_wreckage/hoverpod,/turf/simulated/floor/plating/snow,/area/sheep/snow/battle)
+"aw" = (/obj/structure/closet/crate,/obj/item/ammo_magazine/c38,/obj/item/ammo_magazine/c38,/obj/item/weapon/storage/box/shotgunammo,/obj/item/weapon/storage/box/shotgunammo,/obj/item/weapon/storage/box/holobadge,/obj/item/weapon/storage/box/shotgunammo,/obj/item/weapon/storage/box/shotgunammo,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"ax" = (/obj/item/clothing/head/helmet/armouredhat,/obj/item/clothing/gloves/black,/obj/item/clothing/accessory/holster,/obj/item/clothing/under/det,/obj/item/clothing/shoes/combat,/obj/item/clothing/mask/gas,/obj/item/device/flashlight,/obj/structure/closet,/obj/item/weapon/melee/telebaton,/obj/item/weapon/storage/backpack/satchel_norm,/obj/item/weapon/storage/belt/ammo,/obj/item/clothing/suit/storage/det_suit/armour/storm,/obj/item/weapon/extinguisher/mini,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"ay" = (/obj/structure/closet/crate,/obj/item/weapon/gun/projectile/judge,/obj/item/weapon/gun/projectile/judge,/obj/item/weapon/gun/projectile/revolver/detective,/obj/item/weapon/gun/projectile/revolver/detective,/obj/item/weapon/shield/riot,/obj/item/weapon/gun/projectile/shotgun/pump/combat,/obj/item/weapon/gun/projectile/shotgun/pump/combat,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"az" = (/obj/item/clothing/head/helmet/armouredhat,/obj/item/clothing/gloves/black,/obj/item/clothing/accessory/holster,/obj/item/clothing/under/det/slob,/obj/item/clothing/shoes/combat,/obj/item/clothing/mask/gas,/obj/item/device/flashlight,/obj/structure/closet,/obj/item/weapon/butterfly/switchblade,/obj/item/weapon/flame/lighter/zippo,/obj/item/weapon/storage/backpack/satchel_norm,/obj/item/weapon/storage/belt/ammo,/obj/item/clothing/suit/storage/det_suit/black,/obj/item/weapon/extinguisher/mini,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"aA" = (/obj/item/weapon/storage/toolbox/mechanical,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"aB" = (/obj/effect/decal/cleanable/blood/oil,/turf/simulated/floor/plating/snow,/area/sheep/snow/battle)
+"aC" = (/turf/simulated/floor/plating/snow,/turf/simulated/shuttle/wall{icon_state = "pwall"; dir = 9},/area/sheep/snow/battle)
+"aD" = (/turf/simulated/wall/r_wall,/area/sheep/snow/battle)
+"aE" = (/turf/simulated/floor/plating{icon_state = "warnplate"; dir = 1},/area/sheep/snow/battle)
+"aF" = (/obj/structure/closet/crate,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"aG" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 5; health = 1e+007; icon_state = "rwindow4"},/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"aH" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 5; health = 1e+007; icon_state = "rwindow8"},/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"aI" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 5; health = 1e+007; icon_state = "rwindow2"},/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"aJ" = (/obj/structure/bed/chair{dir = 1},/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"aK" = (/obj/structure/curtain,/turf/simulated/floor/wood,/area/sheep/snow/battle)
+"aL" = (/obj/structure/filingcabinet/chestdrawer,/turf/simulated/floor/wood,/area/sheep/snow/battle)
+"aM" = (/obj/structure/table,/turf/simulated/floor/wood,/area/sheep/snow/battle)
+"aN" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 5; health = 1e+007; icon_state = "rwindow3"},/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"aO" = (/turf/simulated/floor/wood,/area/sheep/snow/battle)
+"aP" = (/obj/structure/table,/obj/machinery/computer/skills,/turf/simulated/floor/wood,/area/sheep/snow/battle)
+"aQ" = (/obj/structure/bed/chair,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"aR" = (/obj/structure/table,/obj/item/clothing/accessory/armband/med{name = "pilot armband"},/obj/item/clothing/accessory/holster,/turf/simulated/floor/wood,/area/sheep/snow/battle)
+"aS" = (/obj/structure/table,/obj/machinery/recharger,/turf/simulated/floor/wood,/area/sheep/snow/battle)
+"aT" = (/obj/effect/decal/remains/robot,/turf/simulated/floor/plating/snow,/area/sheep/snow/battle)
+"aU" = (/obj/effect/decal/mecha_wreckage/seraph,/obj/effect/decal/cleanable/blood/oil,/turf/simulated/floor/plating/snow,/area/sheep/snow/battle)
+"aV" = (/obj/item/clothing/head/helmet/space/void/storm/snow,/turf/simulated/floor/plating/snow,/area/sheep/snow/battle)
+"aW" = (/obj/effect/decal/cleanable/ash,/obj/item/clothing/accessory/holobadge,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"aX" = (/obj/structure/grille,/obj/structure/window/reinforced{dir = 5; health = 1e+007; icon_state = "rwindow1"},/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"aY" = (/obj/structure/coatrack,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"aZ" = (/turf/simulated/floor/plating/snow,/turf/simulated/shuttle/wall{icon_state = "pwall"; dir = 5},/area/sheep/snow/battle)
+"ba" = (/obj/effect/decal/cleanable/blood/drip,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"bb" = (/obj/item/clothing/accessory/holobadge,/obj/effect/decal/cleanable/blood,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"bc" = (/obj/effect/decal/mecha_wreckage/ripley,/obj/effect/decal/cleanable/blood/oil,/turf/simulated/floor/plating/snow,/area/sheep/snow/battle)
+"bd" = (/obj/structure/grille{density = 0; icon_state = "brokengrille"},/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"be" = (/turf/simulated/floor/plating/snow,/turf/simulated/shuttle/wall{icon_state = "pwall"; dir = 10},/area/sheep/snow/battle)
+"bf" = (/obj/structure/shuttle/engine/propulsion{icon_state = "propulsion"; dir = 4},/obj/structure/window/reinforced{dir = 4},/turf/simulated/floor/plating/snow,/area/sheep/snow/battle)
+"bg" = (/obj/structure/window/reinforced{dir = 8},/obj/structure/reagent_dispensers/fueltank,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"bh" = (/obj/structure/reagent_dispensers/fueltank,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"bi" = (/obj/structure/closet/crate,/obj/item/ammo_magazine/alight2,/obj/item/ammo_magazine/alight2,/obj/item/ammo_magazine/alight2,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"bj" = (/obj/structure/closet/crate,/obj/item/ammo_magazine/alightsmg,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"bk" = (/obj/structure/window/reinforced{dir = 8},/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"bl" = (/obj/structure/window/reinforced{dir = 8},/obj/mecha/combat/durand,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"bm" = (/obj/machinery/optable,/obj/item/weapon/storage/belt/medical/surgery,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"bn" = (/obj/structure/table,/obj/item/ammo_magazine/alightloader,/turf/simulated/floor/wood,/area/sheep/snow/battle)
+"bo" = (/obj/structure/closet/crate,/obj/item/ammo_magazine/alight3,/obj/item/weapon/gun/energy/clarineta,/turf/simulated/floor/plating,/area/sheep/snow/battle)
+"bp" = (/turf/simulated/floor/plating/snow,/turf/simulated/shuttle/wall{icon_state = "pwall"; dir = 6},/area/sheep/snow/battle)
+
+(1,1,1) = {"
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaababababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaaaababababababaaaaaaacacacacacacaaaaababababaaaaaaaaaaaaaa
+aaaaaaabababababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaaaababababababababaaaaacadaeafagacaaabababababababaaaaaaaaaa
+aaaaabababababababababahababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaaaabababababababababaaaaacaiajajakacababababababababababaaaaaa
+aaabababababababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaabababababababababababaaacalajajajacababababababababababababaa
+aaabababababababababababababababababababahabababababababaaaaaaaaaaaaaaaaaaaaaaababababababababababababacajajajamacababababababababababababaa
+aaabababababababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaaaababababababababababababacacananacacababababababababababababaa
+aaabababababababahabababababababababababababababababababaaaaaaaaaaaaaaaaaaaaabababababababababababababababababaoabababababababababababababaa
+aaabababababababababababababababababababababababababababaaaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababaaaaaaaaaaaaaaaaaaabababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababaaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababaaaaaaaaaaaaaaaaababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababahababababababababababaaaaaaaaaaaaabababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababababababababababababababababaaaaaaaaaaaaabababababababababababababacacacacacacacabababababababababababababaa
+aaabababababababababababababababababababababababababababababapaaaaaaaaababababababababababababababacaqarasatajajabababababababababababababaa
+aaababababahababababababababababababababababababababababababababaaaaabababababababababababababababauajajajajajajabababababababababababababaa
+aaababababababababababababababababababababababababababababababababaaabababababababababababababababauajajajajajajabababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababauajajajajajajabababababababababababababaa
+aaabababababababababababababababababahababababababababababababababababababababababababababababababauajajajajajajabababababababababababababaa
+aaabababababababababababababavabababababababababababababababababababahababababababababababababababacawaxayazajaAabababababababababababababaa
+aaabababababababababababababaBabababababaCaDaDaDabababababababababababababababababababababababababacacacacacacacabababababababababababababaa
+aaababababababababababahababaBababaEaEaEajaFaFaDabababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababajajajajajajajaDaGaHaIababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababaJaJaJaJajajajaKaLaMaNabababababababababahababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababacacacacajajajaKaOaPaNababababababababababababababababababababababababababababababababababababababababababaa
+aaabababababababababababababababababaQaQajajajaKaRaSaNabababababababaTaUaBababababababababababababacacababababababababababababababababababaa
+aaabababababababababababababaVababababajajaWajaDaGaHaXabababababababaBababababababababababababababacajajabababababababababababababababababaa
+aaabababababababababababababababababananaYaFaFaDabababababababababababababababababababababababababauajajababajababababababababababababababaa
+aaababababababababababababababahababababaZaDaDaDabababababababababababababababababababababababababajajbaajajajajabababababababababababababaa
+aaababababababababababababababababababababababababababababababababababahababababababababababababababajajajbbajajabababababababababababababaa
+aaababababababababababababababababababababababababababababababababbcabababababababababababababababbdajajajajajajabababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababacajajajajbabaabababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababacacacacacabababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababahabababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababahabababababababababababababababababababababababababaa
+aaababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababaDaDaDbeabababababababaCaDaDaDababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababbfbgbhajaEaEaEaEaEaEaEajbibjaDababababababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababbfbkajajajajajajajajajajajajaDaGaHaIabababababababababababababababahabababababababababababababababababababababababababababababababaa
+aaabababbfblajajaJaJaJaJaJaJaJajajajaKaLaMaNabababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababbfblajbmacacacacacacacajajajaKaOaPaNabababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababbfblajajaQaQaQaQaQaQaQajajajaKaRbnaNabababababababababababababababababababababababababababababababababababababababababababababababaa
+aaabababbfbkajajajajajajajajajajajajaDaGaHaXababaaaaabababababababababababababababababababababababababababababababababababababababababababaa
+aaaaababbfbgbhajanananananananaYaFboaDabababababaaaaaaababababababababababababababababababababababababababababababababababababababababaaaaaa
+aaaaaaabaDaDaDbpabababababababaZaDaDaDababababababaaaaaaabababababababababababababababababababababababababababababababababababababaaaaaaaaaa
+aaaaaaaaabababababababababababababababababababaaaaaaaaaaaaababababababababababababababababababababababababababababaaaaaaaaababaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+"}
