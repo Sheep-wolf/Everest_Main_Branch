@@ -1,5 +1,6 @@
 /datum/job/hos
 	title = "Head of Security"
+	alt_titles = list("Chief of Police")
 	flag = HOS
 	department_flag = ENGSEC
 	faction = "Station"
@@ -61,7 +62,7 @@
 	faction = "Station"
 	total_positions = 1
 	spawn_positions = 1
-	supervisors = "the head of security"
+	supervisors = "the Chief of Police"
 	selection_color = "#ffeeee"
 	access = list(access_security, access_sec_doors, access_brig, access_armory, access_court, access_maint_tunnels, access_morgue, access_external_airlocks)
 	minimal_access = list(access_security, access_sec_doors, access_brig, access_armory, access_court, access_maint_tunnels, access_external_airlocks)
@@ -103,7 +104,7 @@
 	faction = "Station"
 	total_positions = 2
 	spawn_positions = 2
-	supervisors = "the head of security"
+	supervisors = "the Chief of Police"
 	selection_color = "#ffeeee"
 
 	access = list(access_security, access_sec_doors, access_morgue, access_maint_tunnels, access_court, access_detective)
@@ -148,7 +149,7 @@
 	faction = "Station"
 	total_positions = 1
 	spawn_positions = 1
-	supervisors = "the head of security"
+	supervisors = "the Chief of Police"
 	selection_color = "#ffeeee"
 
 	access = list(access_security, access_sec_doors, access_forensics, access_morgue, access_maint_tunnels, access_court)
@@ -191,13 +192,14 @@
 
 
 /datum/job/officer
-	title = "Security Officer"
+	title = "Police Officer"
 	flag = OFFICER
 	department_flag = ENGSEC
 	faction = "Station"
 	total_positions = 5
 	spawn_positions = 5
-	supervisors = "the head of security"
+	alt_titles = list("Security Officer")
+	supervisors = "the Chief of Police (For Police), the Head of Security (For Security)"
 	selection_color = "#ffeeee"
 	access = list(access_security, access_sec_doors, access_brig, access_court, access_maint_tunnels, access_morgue, access_external_airlocks)
 	minimal_access = list(access_security, access_sec_doors, access_brig, access_court, access_maint_tunnels, access_external_airlocks)
@@ -229,7 +231,7 @@
 	faction = "Station"
 	total_positions = 2
 	spawn_positions = 2
-	supervisors = "the head of security"
+	supervisors = "the Chief of Police"
 	selection_color = "#ffeeee"
 	alt_titles = list("Security Paramedic", "Prison Nurse")
 	access = list(access_security, access_sec_doors, access_brig, access_court, access_morgue, access_medical)
@@ -263,7 +265,7 @@
 	faction = "Station"
 	total_positions = 5
 	spawn_positions = 5
-	supervisors = "the head of security"
+	supervisors = "the Chief of Police"
 	selection_color = "#ffeeee"
 	alt_titles = list("Response Team Officer", "Intelligence Officer")
 	access = list(access_security, access_sec_doors, access_brig, access_court, access_maint_tunnels, access_morgue, access_external_airlocks)
