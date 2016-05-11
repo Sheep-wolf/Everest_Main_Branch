@@ -15,7 +15,7 @@
 	dicename = "gd6"
 
 /obj/item/weapon/dice/New()
-	icon_state = "[dicename][rand(sides)]"
+	icon_state = "[dicename][rand(1, sides)]"
 
 /obj/item/weapon/dice/d20
 	name = "d20"
