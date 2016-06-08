@@ -349,6 +349,14 @@
 	icon_opened = "largebinopen"
 	icon_closed = "largebin"
 
+/obj/structure/closet/crate/register		// NEED TO UPDATE THESE SPRITES
+	desc = "A cash register. Lodes o emone!"
+	name = "Cash Register"
+	climbable = 0
+	icon_state = "largebin"
+	icon_opened = "largebinopen"
+	icon_closed = "largebin"
+
 /obj/structure/closet/crate/radiation
 	desc = "A crate with a radiation sign on it."
 	name = "Radioactive gear crate"
