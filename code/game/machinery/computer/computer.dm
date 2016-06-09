@@ -97,7 +97,7 @@
 
 /obj/machinery/computer/proc/decode(text)
 	// Adds line breaks
-	text = replacetext(text, "\n", "<BR>")
+	text = replacetextOLD(text, "\n", "<BR>")
 	return text
 
 

@@ -43,7 +43,7 @@
 
 	if(info != initial(info))
 		info = html_encode(info)
-		info = replacetext(info, "\n", "<BR>")
+		info = replacetextOLD(info, "\n", "<BR>")
 		info = parsepencode(info)
 
 	spawn(2)
@@ -193,52 +193,52 @@
 /obj/item/weapon/paper/proc/parsepencode(var/t, var/obj/item/weapon/pen/P, mob/user as mob, var/iscrayon = 0)
 //	t = copytext(sanitize(t),1,MAX_MESSAGE_LEN)
 
-	t = replacetext(t, "\[center\]", "<center>")
-	t = replacetext(t, "\[/center\]", "</center>")
-	t = replacetext(t, "\[br\]", "<BR>")
-	t = replacetext(t, "\[b\]", "<B>")
-	t = replacetext(t, "\[/b\]", "</B>")
-	t = replacetext(t, "\[i\]", "<I>")
-	t = replacetext(t, "\[/i\]", "</I>")
-	t = replacetext(t, "\[u\]", "<U>")
-	t = replacetext(t, "\[/u\]", "</U>")
-	t = replacetext(t, "\[large\]", "<font size=\"4\">")
-	t = replacetext(t, "\[/large\]", "</font>")
-	t = replacetext(t, "\[sign\]", "<font face=\"[user ? user.mind.signature_font : signfont]\">[user ? user.mind.signature : "<i>Anonymous</i>"]</font>")
-	t = replacetext(t, "\[field\]", "<span class=\"paper_field\"></span>")
+	t = replacetextOLD(t, "\[center\]", "<center>")
+	t = replacetextOLD(t, "\[/center\]", "</center>")
+	t = replacetextOLD(t, "\[br\]", "<BR>")
+	t = replacetextOLD(t, "\[b\]", "<B>")
+	t = replacetextOLD(t, "\[/b\]", "</B>")
+	t = replacetextOLD(t, "\[i\]", "<I>")
+	t = replacetextOLD(t, "\[/i\]", "</I>")
+	t = replacetextOLD(t, "\[u\]", "<U>")
+	t = replacetextOLD(t, "\[/u\]", "</U>")
+	t = replacetextOLD(t, "\[large\]", "<font size=\"4\">")
+	t = replacetextOLD(t, "\[/large\]", "</font>")
+	t = replacetextOLD(t, "\[sign\]", "<font face=\"[user ? user.mind.signature_font : signfont]\">[user ? user.mind.signature : "<i>Anonymous</i>"]</font>")
+	t = replacetextOLD(t, "\[field\]", "<span class=\"paper_field\"></span>")
 
 	if(!iscrayon)
-		t = replacetext(t, "\[*\]", "<li>")
-		t = replacetext(t, "\[hr\]", "<HR>")
-		t = replacetext(t, "\[small\]", "<font size = \"1\">")
-		t = replacetext(t, "\[/small\]", "</font>")
-		t = replacetext(t, "\[list\]", "<ul>")
-		t = replacetext(t, "\[/list\]", "</ul>")
-		t = replacetext(t, "\[table\]", "<table border=1 cellspacing=0 cellpadding=3 style='border: 1px solid black;'>")
-		t = replacetext(t, "\[/table\]", "</td></tr></table>")
-		t = replacetext(t, "\[grid\]", "<table>")
-		t = replacetext(t, "\[/grid\]", "</td></tr></table>")
-		t = replacetext(t, "\[row\]", "</td><tr>")
-		t = replacetext(t, "\[cell\]", "<td>")
-		t = replacetext(t, "\[logo\]", "<img src = http://wiki.baystation12.net/logo.png>")
+		t = replacetextOLD(t, "\[*\]", "<li>")
+		t = replacetextOLD(t, "\[hr\]", "<HR>")
+		t = replacetextOLD(t, "\[small\]", "<font size = \"1\">")
+		t = replacetextOLD(t, "\[/small\]", "</font>")
+		t = replacetextOLD(t, "\[list\]", "<ul>")
+		t = replacetextOLD(t, "\[/list\]", "</ul>")
+		t = replacetextOLD(t, "\[table\]", "<table border=1 cellspacing=0 cellpadding=3 style='border: 1px solid black;'>")
+		t = replacetextOLD(t, "\[/table\]", "</td></tr></table>")
+		t = replacetextOLD(t, "\[grid\]", "<table>")
+		t = replacetextOLD(t, "\[/grid\]", "</td></tr></table>")
+		t = replacetextOLD(t, "\[row\]", "</td><tr>")
+		t = replacetextOLD(t, "\[cell\]", "<td>")
+		t = replacetextOLD(t, "\[logo\]", "<img src = http://wiki.baystation12.net/logo.png>")
 
 		t = "<font face=\"[deffont]\" color=[P ? P.colour : "black"]>[t]</font>"
 	else // If it is a crayon, and he still tries to use these, make them empty!
-		t = replacetext(t, "\[*\]", "")
-		t = replacetext(t, "\[hr\]", "")
-		t = replacetext(t, "\[small\]", "")
-		t = replacetext(t, "\[/small\]", "")
-		t = replacetext(t, "\[list\]", "")
-		t = replacetext(t, "\[/list\]", "")
-		t = replacetext(t, "\[table\]", "")
-		t = replacetext(t, "\[/table\]", "")
-		t = replacetext(t, "\[row\]", "")
-		t = replacetext(t, "\[cell\]", "")
-		t = replacetext(t, "\[logo\]", "")
+		t = replacetextOLD(t, "\[*\]", "")
+		t = replacetextOLD(t, "\[hr\]", "")
+		t = replacetextOLD(t, "\[small\]", "")
+		t = replacetextOLD(t, "\[/small\]", "")
+		t = replacetextOLD(t, "\[list\]", "")
+		t = replacetextOLD(t, "\[/list\]", "")
+		t = replacetextOLD(t, "\[table\]", "")
+		t = replacetextOLD(t, "\[/table\]", "")
+		t = replacetextOLD(t, "\[row\]", "")
+		t = replacetextOLD(t, "\[cell\]", "")
+		t = replacetextOLD(t, "\[logo\]", "")
 
 		t = "<font face=\"[crayonfont]\" color=[P ? P.colour : "black"]><b>[t]</b></font>"
 
-//	t = replacetext(t, "#", "") // Junk converted to nothing!
+//	t = replacetextOLD(t, "#", "") // Junk converted to nothing!
 
 //Count the fields
 	var/laststart = 1
@@ -331,7 +331,7 @@
 				return
 */
 		t = html_encode(t)
-		t = replacetext(t, "\n", "<BR>")
+		t = replacetextOLD(t, "\n", "<BR>")
 		t = parsepencode(t, i, usr, iscrayon) // Encode everything from pencode to html
 
 		if(id!="end")

@@ -160,8 +160,8 @@
 			even = !even
 
 	dat += "</table>"
-	dat = replacetext(dat, "\n", "") // so it can be placed on paper correctly
-	dat = replacetext(dat, "\t", "")
+	dat = replacetextOLD(dat, "\n", "") // so it can be placed on paper correctly
+	dat = replacetextOLD(dat, "\t", "")
 	return dat
 
 
@@ -303,7 +303,7 @@ var/global/list/PDA_Manifest = list()
 	throw_speed = 1
 	throw_range = 20
 	flags = FPRINT | TABLEPASS | CONDUCT
-	
+
 	afterattack(atom/target as mob|obj|turf|area, mob/user as mob)
 		user.drop_item()
 		src.throw_at(target, throw_range, throw_speed, user)
