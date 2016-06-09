@@ -1125,7 +1125,7 @@ datum
 			required_container = /obj/item/slime_extract/gold
 			required_other = 1
 		/datum/chemical_reaction/slimecritlesser/on_reaction(var/datum/reagents/holder)
-			feedback_add_details("slime_cores_used","[replacetext(name," ","_")]")
+			feedback_add_details("slime_cores_used","[replacetextOLD(name," ","_")]")
 			for(var/mob/O in viewers(get_turf(holder.my_atom), null))
 				O.show_message(text("<span class='danger'>The slime extract begins to vibrate violently !</span>"), 1)
 			spawn(50)

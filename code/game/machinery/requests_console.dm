@@ -445,7 +445,7 @@ var/list/obj/machinery/requests_console/allConsoles = list()
 			//Let's start the BB >> HTML conversion!
 
 			data = html_encode(data)
-			data = replacetext(data, "\n", "<BR>")
+			data = replacetextOLD(data, "\n", "<BR>")
 
 			C.info += data
 			C.info = C.parsepencode(C.info)
@@ -621,8 +621,8 @@ var/list/obj/machinery/requests_console/allConsoles = list()
 						var/obj/item/weapon/paper/P = new /obj/item/weapon/paper(Console.loc)
 						P.info = "<font color = #101010>"
 						var/copied = html_decode(C.info)
-						copied = replacetext(copied, "<font face=\"[P.deffont]\" color=", "<font face=\"[P.deffont]\" nocolor=")	//state of the art techniques in action
-						copied = replacetext(copied, "<font face=\"[P.crayonfont]\" color=", "<font face=\"[P.crayonfont]\" nocolor=")	//This basically just breaks the existing color tag, which we need to do because the innermost tag takes priority.
+						copied = replacetextOLD(copied, "<font face=\"[P.deffont]\" color=", "<font face=\"[P.deffont]\" nocolor=")	//state of the art techniques in action
+						copied = replacetextOLD(copied, "<font face=\"[P.crayonfont]\" color=", "<font face=\"[P.crayonfont]\" nocolor=")	//This basically just breaks the existing color tag, which we need to do because the innermost tag takes priority.
 						P.info += copied
 						P.info += "</font>"
 						P.name = C.name

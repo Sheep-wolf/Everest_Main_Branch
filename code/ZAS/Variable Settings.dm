@@ -347,7 +347,7 @@ var/global/vs_control/vsc = new
 			var/txt = vars["[V]_RANDOM"]
 			if(findtextEx(txt,"PROB"))
 				txt = text2list(txt,"/")
-				txt[1] = replacetext(txt[1],"PROB","")
+				txt[1] = replacetextOLD(txt[1],"PROB","")
 				var/p = text2num(txt[1])
 				var/r = txt[2]
 				if(prob(p))
@@ -355,7 +355,7 @@ var/global/vs_control/vsc = new
 				else
 					newvalue = vars[V]
 			else if(findtextEx(txt,"PICK"))
-				txt = replacetext(txt,"PICK","")
+				txt = replacetextOLD(txt,"PICK","")
 				txt = text2list(txt,",")
 				newvalue = pick(txt)
 			else
