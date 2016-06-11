@@ -668,8 +668,8 @@ See code\modules\mob\new_player\preferences_setup.dm for where it's used.
 /datum/species/jubliexian
 	name = "Jubliexian"
 	name_plural = "Jubliexians"
-	icobase = 'icons/mob/human_races/r_skrell.dmi'
-	deform = 'icons/mob/human_races/r_def_skrell.dmi'
+	icobase = 'icons/mob/human_races/r_slime.dmi'
+	deform = 'icons/mob/human_races/r_slime.dmi'
 	language = "Ozz"
 	unarmed_type = /datum/unarmed_attack/diona		//Need to examine this closer!
 //	primitive = /mob/living/carbon/monkey/diona		//Probably need to add a primitive form eventually.
@@ -697,9 +697,12 @@ See code\modules\mob\new_player\preferences_setup.dm for where it's used.
 
 	body_temperature = T0C + 15
 
-	flags = IS_WHITELISTED | NO_BREATHE | NO_SCAN | IS_PLANT | NO_BLOOD | NO_PAIN | NO_SLIP | HAS_SKIN_COLOR
+	flags = IS_WHITELISTED | NO_BREATHE | NO_BLOOD | NO_PAIN | NO_SLIP | HAS_SKIN_COLOR
 
 	blood_color = "#627724"
+
+	flesh_color = "#AFA59E"
+	base_color = "#333333"
 
 
 
